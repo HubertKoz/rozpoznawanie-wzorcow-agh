@@ -1,0 +1,5 @@
+GT / prediction,red,yellow,green,unknown
+red,3,0,0,0
+yellow,0,1,0,0
+green,0,2,9,0
+unknown,0,3,0,3

@@ -1,0 +1,1051 @@
+id,weather,scene,timeofday,width,height,all_annotations,all_bbox,poly2d,targets,signs,lights,occluded,truncated,tiny,red,yellow,green,unknown
+ad930b5f-4298e268,rainy,residential,daytime,1280,720,27,22,5,5,2,3,False,False,True,2,0,0,1
+4fd75dca-47a89dad,undefined,city street,daytime,1280,720,83,58,25,20,10,10,True,False,True,0,0,4,6
+0fc290b5-f43ff329,clear,city street,night,1280,720,15,10,5,7,3,4,False,False,True,1,1,2,0
+4c7914dd-1a04c66b,clear,city street,daytime,1280,720,43,34,9,17,7,10,True,False,True,0,0,5,5
+74f8f4e3-50097b8d,clear,city street,daytime,1280,720,30,20,10,5,2,3,False,False,True,0,0,1,2
+a75f21aa-b7d4097d,clear,city street,night,1280,720,6,5,1,2,2,0,False,False,True,0,0,0,0
+4f21b6b4-44b83505,clear,city street,daytime,1280,720,45,34,11,12,7,5,True,False,True,0,0,0,5
+8564aad5-9c1510c3,clear,city street,daytime,1280,720,45,28,17,14,7,7,True,False,True,1,0,2,4
+5d98a7be-ec2a6cc7,snowy,residential,daytime,1280,720,31,25,6,14,5,9,True,False,True,3,0,0,6
+6392bffb-ef25e984,clear,city street,night,1280,720,17,10,7,0,0,0,False,False,False,0,0,0,0
+ab425fe5-49f4c94a,undefined,city street,daytime,1280,720,36,19,17,7,6,1,True,False,True,0,0,1,0
+01a4deab-fd589c6f,partly cloudy,residential,daytime,1280,720,15,12,3,1,1,0,False,False,False,0,0,0,0
+389e5958-5d42ea00,overcast,highway,daytime,1280,720,31,17,14,5,5,0,True,False,True,0,0,0,0
+fdf4770c-88225562,clear,city street,night,1280,720,19,18,1,8,4,4,False,False,True,4,0,0,0
+6c0cc8ca-d7e7f554,clear,city street,night,1280,720,13,8,5,3,3,0,True,False,False,0,0,0,0
+2c32580e-4050258d,overcast,city street,daytime,1280,720,44,33,11,2,1,1,False,False,True,1,0,0,0
+9f03b9b1-a5a73263,rainy,city street,night,1280,720,33,24,9,14,5,9,False,False,True,4,0,3,2
+076399f2-e2bc0747,rainy,city street,daytime,1280,720,24,17,7,5,3,2,False,False,True,1,0,0,1
+4170f5e5-367f209f,clear,city street,night,1280,720,9,4,5,4,4,0,False,False,False,0,0,0,0
+3c65d2b4-971e2255,clear,residential,daytime,1280,720,17,13,4,1,1,0,False,False,True,0,0,0,0
+902c76f4-39ebe859,partly cloudy,highway,daytime,1280,720,36,35,1,24,19,5,True,False,False,1,0,4,0
+9d13a1a7-f17c3544,rainy,city street,daytime,1280,720,9,7,2,1,1,0,False,False,False,0,0,0,0
+613f6b9f-fd03f366,clear,city street,night,1280,720,18,9,9,5,4,1,True,True,False,1,0,0,0
+1947b9f6-bf578f5f,clear,city street,daytime,1280,720,22,18,4,5,5,0,True,False,False,0,0,0,0
+a464610b-41fe7a8e,clear,city street,night,1280,720,41,28,13,13,6,7,True,False,True,4,0,3,0
+0b8d1c37-7c5b27b7,snowy,residential,night,1280,720,11,5,6,0,0,0,False,False,False,0,0,0,0
+0e281385-2d045ad7,clear,city street,night,1280,720,22,12,10,1,1,0,False,True,False,0,0,0,0
+78652566-3dfd7b3c,clear,city street,night,1280,720,14,10,4,4,1,3,False,False,True,0,0,3,0
+5e1f98f2-816e983d,snowy,city street,daytime,1280,720,43,39,4,20,8,12,True,False,False,0,0,0,12
+6cf618da-5a1882ed,snowy,city street,night,1280,720,10,6,4,3,0,3,False,False,False,0,0,3,0
+1e82c7e7-62207349,snowy,city street,daytime,1280,720,27,12,15,1,1,0,False,False,False,0,0,0,0
+a72bedd0-7e6faf65,snowy,city street,daytime,1280,720,11,4,7,2,0,2,False,False,False,0,0,1,1
+26998cee-07ee1d69,clear,city street,night,1280,720,37,28,9,6,1,5,False,False,True,1,0,4,0
+996d57c7-ace787d9,clear,city street,night,1280,720,30,19,11,10,6,4,False,False,True,2,0,2,0
+1b292be1-7e97ebce,clear,highway,night,1280,720,22,11,11,4,4,0,True,False,False,0,0,0,0
+1d5df664-41480e86,clear,city street,night,1280,720,29,19,10,9,8,1,False,False,False,0,0,1,0
+4bbaac10-7a4b13d1,overcast,highway,daytime,1280,720,20,9,11,1,1,0,False,False,False,0,0,0,0
+71eeb518-d0fd73f0,clear,city street,night,1280,720,15,8,7,4,3,1,True,False,True,0,0,1,0
+134c5670-c76e4e0c,clear,city street,night,1280,720,41,18,23,7,1,6,False,False,True,3,0,3,0
+18794074-3ef9dc3c,clear,city street,night,1280,720,31,23,8,5,0,5,False,False,True,0,0,3,2
+5f0d2015-facfa764,clear,city street,night,1280,720,31,21,10,2,0,2,False,False,True,0,0,2,0
+1f2c63be-1bdf2164,clear,residential,daytime,1280,720,24,18,6,3,3,0,True,False,False,0,0,0,0
+8116120f-4bbc5650,clear,city street,daytime,1280,720,49,34,15,14,6,8,False,False,True,0,0,2,6
+24cd070b-c01ec762,overcast,highway,daytime,1280,720,41,29,12,16,16,0,False,False,True,0,0,0,0
+8d758357-35f387aa,partly cloudy,highway,daytime,1280,720,28,17,11,10,4,6,True,False,True,0,0,0,6
+97b3e2d6-f1e5e022,undefined,highway,daytime,1280,720,23,11,12,5,5,0,False,False,True,0,0,0,0
+6638cfc9-4f21e1f8,clear,city street,daytime,1280,720,27,26,1,4,3,1,False,False,True,0,0,0,1
+a2ecbfb2-43c30b1e,clear,highway,night,1280,720,8,7,1,0,0,0,False,False,False,0,0,0,0
+0bfe1704-6974186d,clear,city street,night,1280,720,18,9,9,2,1,1,False,False,False,1,0,0,0
+297c00ba-5839ed02,clear,residential,daytime,1280,720,28,18,10,6,1,5,False,False,True,0,0,2,3
+33062dbc-e7be3dc9,clear,city street,night,1280,720,26,19,7,10,1,9,False,False,False,6,0,3,0
+854b1366-8e4e39c4,partly cloudy,city street,daytime,1280,720,19,6,13,0,0,0,False,False,False,0,0,0,0
+07bd5534-a5b67622,rainy,city street,daytime,1280,720,32,25,7,3,1,2,True,False,True,0,0,2,0
+9556b4d9-5f233397,clear,city street,daytime,1280,720,37,31,6,16,10,6,True,False,True,0,0,0,6
+3ea24500-8381cc3e,partly cloudy,city street,daytime,1280,720,12,10,2,8,0,8,True,False,False,2,0,0,6
+a6c6e3c1-c763ad00,snowy,city street,night,1280,720,28,24,4,19,17,2,False,False,True,0,0,2,0
+09f4b7a9-6948c8c8,clear,city street,dawn/dusk,1280,720,25,17,8,5,5,0,False,False,False,0,0,0,0
+677cbddf-903a583a,undefined,city street,daytime,1280,720,47,34,13,18,9,9,True,False,True,0,0,4,5
+8a766a6f-4d63b439,clear,highway,night,1280,720,9,8,1,3,3,0,True,False,True,0,0,0,0
+57fa6595-fcf60b70,overcast,city street,daytime,1280,720,30,22,8,8,2,6,True,False,True,4,0,1,1
+b15d8b83-2895575b,clear,highway,night,1280,720,15,6,9,4,4,0,False,False,False,0,0,0,0
+25574c87-67b934ef,overcast,city street,daytime,1280,720,15,6,9,0,0,0,False,False,False,0,0,0,0
+9b35ae98-6c103227,snowy,residential,daytime,1280,720,23,18,5,5,3,2,False,False,True,0,0,1,1
+3f291ac3-63676752,clear,city street,daytime,1280,720,17,13,4,5,5,0,False,False,True,0,0,0,0
+2d378761-e8770dfe,partly cloudy,highway,daytime,1280,720,48,32,16,10,8,2,True,False,True,0,0,1,1
+8af169cd-caa03f49,partly cloudy,highway,daytime,1280,720,24,14,10,3,3,0,True,False,False,0,0,0,0
+172af249-0b1905e0,undefined,city street,daytime,1280,720,22,19,3,4,2,2,False,False,False,0,0,1,1
+3de8fee7-e1bf8613,undefined,city street,daytime,1280,720,43,19,24,7,2,5,False,False,False,0,0,4,1
+5f8adca3-251457dc,partly cloudy,city street,daytime,1280,720,46,27,19,7,3,4,True,False,True,0,0,2,2
+4c4c11bb-15ec9769,rainy,city street,daytime,1280,720,43,20,23,9,9,0,False,False,True,0,0,0,0
+a827fa2f-3f9926f0,undefined,city street,night,1280,720,20,15,5,2,1,1,False,False,True,0,0,1,0
+36ce3bc9-e7f0a379,clear,city street,daytime,1280,720,23,20,3,6,2,4,True,False,False,0,0,2,2
+8e9e4e05-fa204373,partly cloudy,highway,daytime,1280,720,22,14,8,2,2,0,True,False,False,0,0,0,0
+8af10ca3-a8f79719,clear,city street,night,1280,720,37,27,10,7,3,4,False,False,True,0,0,4,0
+3d99598e-d8b60263,overcast,highway,daytime,1280,720,49,25,24,13,6,7,True,False,True,1,0,2,4
+8be12561-23fa3721,undefined,highway,night,1280,720,18,14,4,2,2,0,False,False,False,0,0,0,0
+a480fc56-d579eb33,snowy,city street,night,1280,720,12,10,2,8,0,8,False,False,False,4,1,0,3
+3fc26539-df1dd729,clear,highway,night,1280,720,13,6,7,4,3,1,False,False,True,0,0,1,0
+21f9ad35-74dbf9e1,clear,residential,daytime,1280,720,9,8,1,0,0,0,False,False,False,0,0,0,0
+2bdecbe1-2674aed4,clear,city street,night,1280,720,17,15,2,1,1,0,False,False,False,0,0,0,0
+22b0bb85-e5cdf3a9,undefined,city street,daytime,1280,720,37,25,12,13,8,5,True,False,False,0,0,2,3
+448a9a40-e84093f1,clear,city street,daytime,1280,720,21,16,5,0,0,0,False,False,False,0,0,0,0
+029ce269-29702a45,clear,city street,night,1280,720,31,20,11,10,7,3,True,False,True,0,0,3,0
+43d2aed1-95e7c53e,clear,city street,night,1280,720,23,15,8,11,3,8,False,True,False,3,1,2,2
+989d34fa-4d160781,overcast,city street,daytime,1280,720,42,31,11,9,2,7,True,True,True,0,0,4,3
+a7818e0e-46fa1197,clear,city street,daytime,1280,720,21,17,4,1,1,0,False,False,False,0,0,0,0
+03b3c151-f37ef8b1,clear,city street,daytime,1280,720,47,35,12,15,9,6,False,False,True,0,0,2,4
+7ca9a063-962822a3,clear,highway,daytime,1280,720,15,6,9,1,1,0,False,False,False,0,0,0,0
+298726c9-a4add63c,clear,residential,daytime,1280,720,30,20,10,6,3,3,True,False,False,0,0,2,1
+077ca90c-2eb997b5,rainy,city street,night,1280,720,28,25,3,13,4,9,True,True,True,3,0,4,2
+7a397d0e-34f17981,clear,highway,night,1280,720,22,14,8,4,4,0,False,False,False,0,0,0,0
+03af7994-899a5283,clear,residential,night,1280,720,17,15,2,2,0,2,False,False,False,0,0,2,0
+3f6c5540-ab40e246,clear,city street,night,1280,720,24,13,11,5,3,2,False,False,False,0,0,2,0
+4ca144ae-45d888ef,clear,city street,night,1280,720,18,7,11,4,2,2,False,False,True,0,0,2,0
+43367b7e-54b81aeb,clear,city street,daytime,1280,720,24,18,6,2,2,0,True,False,False,0,0,0,0
+81fc6799-96084fd7,rainy,city street,night,1280,720,7,6,1,3,1,2,False,False,False,1,0,1,0
+7b5ad498-ba0e828a,clear,highway,night,1280,720,23,11,12,6,6,0,True,False,True,0,0,0,0
+0b4c8e1f-944c6ada,clear,city street,night,1280,720,13,5,8,0,0,0,False,False,False,0,0,0,0
+57eb2bd4-4f93aca3,snowy,city street,night,1280,720,8,7,1,1,1,0,True,False,False,0,0,0,0
+1e5f67d9-12405aad,undefined,city street,daytime,1280,720,47,25,22,15,7,8,True,True,True,0,4,0,4
+0d0e69b6-a30b3acb,rainy,city street,daytime,1280,720,45,32,13,6,1,5,False,False,True,0,0,3,2
+1ba1a40b-d47a53eb,clear,residential,night,1280,720,27,13,14,0,0,0,False,False,False,0,0,0,0
+0aeacd98-7b901368,clear,city street,night,1280,720,23,20,3,2,0,2,False,False,False,0,0,2,0
+1641fb3a-31a5b91c,clear,city street,night,1280,720,38,28,10,12,4,8,False,True,True,3,0,4,1
+3ee5787d-b7370418,clear,city street,daytime,1280,720,34,27,7,4,3,1,True,False,False,0,0,0,1
+824267dd-fd7d5f21,clear,city street,night,1280,720,20,16,4,0,0,0,False,False,False,0,0,0,0
+604456e2-fb6f97c4,snowy,highway,daytime,1280,720,20,11,9,4,4,0,False,False,True,0,0,0,0
+5cbb1cf1-9a4ae21d,clear,city street,night,1280,720,13,5,8,4,4,0,False,False,False,0,0,0,0
+3198afef-04d23bd6,clear,city street,daytime,1280,720,14,11,3,2,2,0,False,False,False,0,0,0,0
+68322181-f199de02,clear,highway,night,1280,720,20,7,13,3,3,0,False,False,False,0,0,0,0
+00618cec-3bc5573e,clear,highway,daytime,1280,720,44,28,16,5,4,1,False,False,True,0,1,0,0
+783325ab-de6b4c94,clear,city street,daytime,1280,720,72,53,19,22,3,19,True,False,True,0,0,3,16
+2814e8bd-3dd09f09,clear,city street,night,1280,720,35,33,2,10,4,6,False,False,True,1,1,2,2
+017bec14-1c6f8718,overcast,residential,daytime,1280,720,24,22,2,1,1,0,False,False,False,0,0,0,0
+90ee0f93-7557c3cd,undefined,city street,daytime,1280,720,31,19,12,6,4,2,False,False,True,0,0,2,0
+151592af-5356a210,clear,residential,dawn/dusk,1280,720,8,4,4,2,1,1,True,False,False,1,0,0,0
+3feb848a-55097d2f,clear,highway,daytime,1280,720,31,24,7,8,4,4,True,True,False,0,0,1,3
+a172319c-3c355f01,clear,city street,night,1280,720,27,15,12,6,3,3,False,False,True,1,0,2,0
+14020ffa-756cffb2,partly cloudy,city street,daytime,1280,720,38,20,18,12,3,9,False,True,True,0,0,4,5
+3b3dfa9c-896dc643,clear,city street,night,1280,720,9,6,3,5,0,5,False,False,True,4,0,1,0
+19d8828c-24da3877,rainy,residential,daytime,1280,720,20,18,2,3,3,0,False,False,False,0,0,0,0
+9c219b32-ce87f839,snowy,city street,daytime,1280,720,7,5,2,0,0,0,False,False,False,0,0,0,0
+23d93fff-1562d76f,overcast,city street,daytime,1280,720,34,23,11,7,6,1,True,True,True,0,0,1,0
+b05d5f64-13c4b5c7,undefined,residential,daytime,1280,720,32,24,8,7,4,3,False,False,True,0,0,0,3
+72871fd6-10d7b8e9,overcast,residential,daytime,1280,720,19,15,4,6,6,0,True,False,True,0,0,0,0
+8a3c3d7c-40f04e7f,clear,city street,night,1280,720,46,23,23,8,2,6,True,False,True,5,0,0,1
+74700ad3-984fda10,clear,highway,night,1280,720,26,10,16,5,5,0,True,False,False,0,0,0,0
+4d9a849b-d1b0a04d,clear,city street,night,1280,720,12,4,8,3,1,2,False,False,True,0,0,2,0
+325bf3b3-7f830f7e,partly cloudy,city street,daytime,1280,720,33,23,10,12,6,6,False,False,False,2,0,0,4
+3eb71f46-a29bfdde,overcast,city street,daytime,1280,720,88,46,42,26,12,14,True,False,True,1,0,4,9
+486de9c0-8b41d5d1,clear,highway,night,1280,720,32,21,11,12,8,4,False,False,True,2,0,2,0
+9a33b7f2-e5a9f31a,clear,city street,night,1280,720,56,45,11,11,1,10,False,False,True,9,0,0,1
+99d79ee0-280c8ebd,clear,residential,daytime,1280,720,24,17,7,11,11,0,False,False,False,0,0,0,0
+374321e1-87d1cbee,undefined,tunnel,undefined,1280,720,18,9,9,0,0,0,False,False,False,0,0,0,0
+61a09aef-c456781a,partly cloudy,city street,daytime,1280,720,10,7,3,0,0,0,False,False,False,0,0,0,0
+0429dca3-163013e9,partly cloudy,city street,daytime,1280,720,45,28,17,7,1,6,False,False,True,0,0,3,3
+04f45ccc-bf990c6a,partly cloudy,highway,daytime,1280,720,17,7,10,2,2,0,False,False,False,0,0,0,0
+0aa1331d-ab493b83,overcast,city street,daytime,1280,720,25,14,11,3,3,0,False,False,True,0,0,0,0
+6b81a55a-0d25d314,overcast,city street,daytime,1280,720,15,4,11,1,1,0,False,False,False,0,0,0,0
+9d680b3a-2f3c8f69,overcast,highway,daytime,1280,720,17,8,9,1,1,0,False,False,True,0,0,0,0
+aa297411-bb90e116,undefined,undefined,daytime,1280,720,15,7,8,1,0,1,False,False,False,1,0,0,0
+166502f9-ab43a86b,clear,residential,daytime,1280,720,19,15,4,0,0,0,False,False,False,0,0,0,0
+425423f4-5c651b95,clear,highway,night,1280,720,28,18,10,5,2,3,False,False,True,0,0,3,0
+a2cf327c-b7459845,overcast,city street,daytime,1280,720,34,14,20,7,2,5,True,True,True,1,0,4,0
+8d8f9091-07c0cc69,snowy,city street,night,1280,720,20,11,9,8,2,6,False,False,False,1,0,3,2
+2616b90f-d72552cc,overcast,city street,daytime,1280,720,48,32,16,9,5,4,True,False,False,0,0,3,1
+14eb5976-10cb3c71,overcast,residential,daytime,1280,720,63,41,22,15,4,11,True,True,True,0,0,5,6
+5b04696b-f69fdcbe,rainy,highway,night,1280,720,9,5,4,4,4,0,False,False,False,0,0,0,0
+09ee4058-01014b4b,clear,city street,night,1280,720,31,18,13,13,5,8,False,False,True,3,0,5,0
+111ddfcb-f3f8f7d2,partly cloudy,city street,daytime,1280,720,38,22,16,6,1,5,False,False,True,0,0,2,3
+662645f7-bc684e2d,undefined,city street,daytime,1280,720,14,12,2,0,0,0,False,False,False,0,0,0,0
+087e6817-a5fc2082,overcast,city street,daytime,1280,720,22,13,9,3,3,0,False,False,False,0,0,0,0
+57c4b923-ed588f4d,clear,city street,night,1280,720,26,16,10,4,4,0,False,False,False,0,0,0,0
+662ae5ef-a64ef5ca,rainy,city street,night,1280,720,37,28,9,10,4,6,True,False,True,0,0,5,1
+1f917864-a7efec32,clear,highway,night,1280,720,15,6,9,0,0,0,False,False,False,0,0,0,0
+a86192e1-890466d3,clear,residential,night,1280,720,20,19,1,2,0,2,False,False,True,0,0,2,0
+5a0d05c8-d99497cb,clear,city street,night,1280,720,14,9,5,0,0,0,False,False,False,0,0,0,0
+2070bc4c-85b87247,clear,highway,night,1280,720,34,27,7,6,3,3,False,False,True,1,0,2,0
+8ea4a3bd-653b9d02,snowy,city street,night,1280,720,33,27,6,13,5,8,False,False,True,4,0,4,0
+7513fc19-1b3c799a,clear,city street,night,1280,720,23,19,4,19,9,10,True,False,True,5,1,4,0
+45da81f9-20bc10e2,snowy,residential,night,1280,720,21,20,1,3,3,0,False,False,False,0,0,0,0
+a33c329b-aaff78ce,partly cloudy,city street,daytime,1280,720,49,38,11,6,4,2,True,False,True,0,0,2,0
+5250cae5-a6ce630b,snowy,city street,daytime,1280,720,29,24,5,15,10,5,True,False,True,0,5,0,0
+72f3a516-142eb872,clear,highway,night,1280,720,19,9,10,3,3,0,True,False,False,0,0,0,0
+ae0a226f-3fbc0e31,clear,city street,night,1280,720,39,24,15,6,2,4,False,False,True,2,0,1,1
+80c2ead1-c1667537,overcast,city street,dawn/dusk,1280,720,29,23,6,5,0,5,False,False,True,0,0,2,3
+567eb612-7a5cd7b8,clear,city street,night,1280,720,27,20,7,6,2,4,False,False,True,0,0,4,0
+55ec61de-4a7541fd,clear,city street,night,1280,720,41,31,10,13,1,12,False,False,False,4,0,5,3
+90b28b1b-4f57262b,clear,highway,night,1280,720,16,11,5,8,1,7,False,False,True,4,0,2,1
+23baaec2-a78f598c,overcast,residential,daytime,1280,720,41,21,20,5,5,0,False,False,False,0,0,0,0
+2c9d44e9-8f7215c5,clear,city street,night,1280,720,31,19,12,3,0,3,False,False,True,0,0,3,0
+995a271a-5774ca4c,snowy,city street,daytime,1280,720,38,27,11,15,2,13,False,True,True,4,0,2,7
+609a8d94-5b12e465,clear,highway,night,1280,720,19,9,10,1,1,0,False,False,True,0,0,0,0
+35b6f916-662ba581,clear,city street,night,1280,720,33,19,14,4,4,0,True,False,True,0,0,0,0
+195fd017-7ee9a071,clear,highway,night,1280,720,54,46,8,9,9,0,True,False,True,0,0,0,0
+948a6718-bafe6fb0,clear,residential,daytime,1280,720,15,11,4,9,9,0,True,False,True,0,0,0,0
+014d895c-70b158b8,overcast,highway,daytime,1280,720,35,24,11,5,3,2,False,False,False,0,0,1,1
+9ed34c30-6f4ba88a,clear,highway,daytime,1280,720,31,25,6,4,2,2,True,False,True,0,0,2,0
+67827c67-7f2a2ee9,clear,highway,daytime,1280,720,32,21,11,1,1,0,False,False,False,0,0,0,0
+86daaa15-fc960cb9,snowy,highway,night,1280,720,10,9,1,2,2,0,False,True,False,0,0,0,0
+654a7c91-07de5618,clear,city street,night,1280,720,22,16,6,9,1,8,False,True,False,5,0,0,3
+07a3c8b9-63776739,overcast,city street,dawn/dusk,1280,720,31,25,6,8,5,3,False,False,True,2,1,0,0
+4b9930a7-ea6929c5,clear,city street,night,1280,720,12,8,4,2,2,0,False,False,False,0,0,0,0
+98572618-c19bb02d,undefined,residential,daytime,1280,720,31,26,5,2,2,0,False,False,True,0,0,0,0
+10841e7b-7040143d,clear,residential,daytime,1280,720,21,20,1,0,0,0,False,False,False,0,0,0,0
+28880bab-19176c55,snowy,city street,daytime,1280,720,5,4,1,0,0,0,False,False,False,0,0,0,0
+a32543af-370cabd5,undefined,city street,night,1280,720,36,23,13,3,3,0,False,False,False,0,0,0,0
+3f005acd-3208c0c8,clear,city street,daytime,1280,720,28,20,8,0,0,0,False,False,False,0,0,0,0
+a068c8af-5b38d482,snowy,city street,night,1280,720,17,16,1,6,3,3,False,False,True,0,0,3,0
+996b4d28-ccdd49fc,clear,city street,night,1280,720,18,17,1,1,1,0,False,False,False,0,0,0,0
+1cbc711c-fb88823a,undefined,city street,daytime,1280,720,36,30,6,15,13,2,True,False,True,0,0,0,2
+8c32d413-d957c7e7,undefined,city street,daytime,1280,720,43,38,5,12,4,8,False,False,True,4,0,0,4
+ac1aafcc-2c0d39ab,clear,city street,night,1280,720,44,28,16,8,3,5,False,False,True,1,0,4,0
+363771c2-410e81dd,undefined,city street,daytime,1280,720,43,24,19,13,6,7,False,False,True,2,0,0,5
+60f2ba76-66589e7d,clear,city street,night,1280,720,47,25,22,10,2,8,False,True,False,2,0,6,0
+7ffa09ba-018f54b4,undefined,city street,daytime,1280,720,30,20,10,5,5,0,False,False,True,0,0,0,0
+7f69b1ac-80248f47,rainy,city street,night,1280,720,21,17,4,8,6,2,False,False,False,0,0,2,0
+63756dd1-fd443879,clear,highway,daytime,1280,720,10,4,6,3,3,0,False,False,False,0,0,0,0
+221fa2a1-4b37bd43,clear,city street,daytime,1280,720,51,37,14,18,9,9,True,True,True,1,0,0,8
+17041a18-d72dc04a,partly cloudy,city street,daytime,1280,720,39,36,3,15,5,10,False,False,True,0,0,3,7
+4460c87d-32453e57,partly cloudy,city street,daytime,1280,720,38,25,13,10,9,1,True,False,True,0,0,0,1
+19590021-13e5646e,rainy,residential,daytime,1280,720,6,4,2,0,0,0,False,False,False,0,0,0,0
+6744ab09-51a386dd,clear,city street,night,1280,720,39,32,7,25,18,7,True,True,True,3,0,0,4
+4fba1085-1a799d61,overcast,highway,daytime,1280,720,66,46,20,32,13,19,True,False,True,0,0,3,16
+21825b6e-67047ea3,clear,city street,daytime,1280,720,8,6,2,0,0,0,False,False,False,0,0,0,0
+0070bc56-49cf077c,clear,city street,night,1280,720,20,13,7,0,0,0,False,False,False,0,0,0,0
+565694a1-4eb5a538,snowy,highway,daytime,1280,720,47,32,15,14,13,1,False,False,True,0,0,0,1
+35f90b52-3dc8e694,overcast,city street,daytime,1280,720,45,33,12,10,6,4,True,False,True,1,0,0,3
+1caf91f0-ef1835eb,snowy,highway,dawn/dusk,1280,720,41,29,12,9,9,0,True,False,False,0,0,0,0
+08eca636-48aead62,rainy,city street,night,1280,720,30,20,10,10,4,6,False,False,True,0,0,6,0
+1f44d8f2-6feb2c27,clear,city street,daytime,1280,720,36,33,3,10,3,7,False,False,True,0,0,2,5
+06257efc-9aba5724,clear,city street,daytime,1280,720,25,15,10,8,8,0,True,True,False,0,0,0,0
+9181303b-8585196f,snowy,city street,night,1280,720,42,34,8,15,5,10,False,True,True,5,0,4,1
+1bde0226-e8599e77,partly cloudy,city street,dawn/dusk,1280,720,29,18,11,2,0,2,False,False,False,0,0,2,0
+5c531d2e-2262e3d6,clear,city street,night,1280,720,16,7,9,3,3,0,False,True,False,0,0,0,0
+ad972f45-72bfaded,overcast,city street,daytime,1280,720,36,28,8,11,8,3,True,False,True,0,0,0,3
+17808296-7e236586,clear,highway,daytime,1280,720,23,13,10,0,0,0,False,False,False,0,0,0,0
+5e114654-2b7e11bf,clear,city street,night,1280,720,31,23,8,10,7,3,False,False,True,0,0,3,0
+31e7c3ba-6e0f6ed9,clear,city street,night,1280,720,17,15,2,4,4,0,True,False,False,0,0,0,0
+833d37d7-b1cf227b,undefined,highway,night,1280,720,17,16,1,9,6,3,False,False,True,0,0,2,1
+abbc7ff9-60d19d68,clear,highway,night,1280,720,33,19,14,10,3,7,False,False,True,3,1,3,0
+b11496d7-20b00dbb,clear,highway,dawn/dusk,1280,720,33,21,12,0,0,0,False,False,False,0,0,0,0
+76fe3a3f-5027eaa7,clear,city street,night,1280,720,30,15,15,5,1,4,False,False,False,0,0,4,0
+2197e924-ac6ab3cc,rainy,highway,dawn/dusk,1280,720,11,7,4,4,2,2,False,False,False,0,0,1,1
+8346c421-fa681916,clear,city street,daytime,1280,720,32,24,8,8,6,2,False,False,False,0,0,1,1
+7c699f3e-d2ae806c,undefined,residential,daytime,1280,720,18,7,11,5,3,2,True,False,False,0,0,0,2
+90fb3e17-e8a501da,rainy,city street,daytime,1280,720,19,15,4,6,3,3,False,False,False,3,0,0,0
+9a9fc4cb-dd67bc32,clear,residential,daytime,1280,720,17,14,3,3,3,0,True,True,False,0,0,0,0
+11f5d1a8-00b04cbb,overcast,highway,dawn/dusk,1280,720,26,14,12,4,4,0,False,False,False,0,0,0,0
+a5a31acc-69945259,clear,residential,night,1280,720,8,6,2,1,0,1,False,False,False,1,0,0,0
+2b89834a-5da48650,partly cloudy,city street,daytime,1280,720,16,7,9,3,1,2,False,False,True,0,0,1,1
+7c6fa554-49dd585a,clear,city street,night,1280,720,22,20,2,1,0,1,False,False,True,1,0,0,0
+91a58584-3b2e1908,undefined,highway,daytime,1280,720,18,10,8,2,2,0,False,True,False,0,0,0,0
+481e8fe0-20b33fa8,partly cloudy,city street,daytime,1280,720,47,37,10,18,9,9,True,False,True,0,0,1,8
+3a6c20a4-cc62c00d,snowy,city street,night,1280,720,20,15,5,4,2,2,False,False,False,0,0,2,0
+68219436-20b76ac3,clear,city street,night,1280,720,21,16,5,5,2,3,False,False,True,0,0,2,1
+529c49fb-a98d130a,clear,city street,night,1280,720,12,4,8,2,0,2,False,False,True,1,0,1,0
+a2b306ec-6198b660,clear,city street,daytime,1280,720,32,21,11,7,7,0,False,False,False,0,0,0,0
+501d722e-f2b2d5ac,clear,highway,night,1280,720,26,18,8,10,8,2,False,False,True,0,0,2,0
+39c7da0f-31d76121,clear,city street,night,1280,720,20,12,8,1,1,0,False,False,False,0,0,0,0
+aa536734-6bb068e1,overcast,city street,daytime,1280,720,43,27,16,4,4,0,False,False,False,0,0,0,0
+a8e89101-c21fa9b7,undefined,city street,daytime,1280,720,48,31,17,9,4,5,False,False,True,0,0,1,4
+4b01a9f2-a5c49c2d,snowy,city street,daytime,1280,720,29,19,10,4,0,4,False,False,True,2,0,2,0
+99bfb995-585ee3ba,clear,city street,night,1280,720,12,9,3,7,2,5,False,False,False,3,0,2,0
+885dd036-ff09fb39,clear,residential,night,1280,720,17,15,2,2,2,0,False,False,False,0,0,0,0
+77cd5cc9-769e4f35,clear,city street,night,1280,720,19,10,9,1,1,0,True,False,False,0,0,0,0
+06a5fad4-cc2f8016,undefined,city street,daytime,1280,720,16,8,8,0,0,0,False,False,False,0,0,0,0
+47541057-bc2d58fa,overcast,city street,daytime,1280,720,21,14,7,2,0,2,False,False,False,0,0,2,0
+2616b90f-3aa2ffe4,clear,city street,night,1280,720,44,25,19,7,2,5,False,False,True,1,0,4,0
+02cb294e-e4cabcb7,clear,residential,night,1280,720,26,19,7,4,4,0,False,False,False,0,0,0,0
+a33c329b-f15a0411,overcast,highway,daytime,1280,720,41,30,11,3,3,0,False,False,True,0,0,0,0
+13dd9165-287fcb8a,overcast,highway,daytime,1280,720,26,16,10,1,1,0,False,False,False,0,0,0,0
+986aed89-271687ff,undefined,residential,daytime,1280,720,28,27,1,3,0,3,False,False,True,0,0,2,1
+50ac35c3-9ca3ed49,clear,residential,daytime,1280,720,21,6,15,5,5,0,False,False,False,0,0,0,0
+6ec9ed26-2c405ffe,undefined,highway,daytime,1280,720,16,14,2,0,0,0,False,False,False,0,0,0,0
+1c909dd0-a1772a27,undefined,city street,dawn/dusk,1280,720,31,18,13,3,1,2,False,False,True,0,0,2,0
+929faa5d-46dfd922,clear,highway,night,1280,720,19,8,11,4,4,0,False,False,True,0,0,0,0
+1eaa4848-396b608a,overcast,highway,daytime,1280,720,23,9,14,3,1,2,True,False,True,0,0,0,2
+8892379a-fc1f6081,clear,residential,night,1280,720,11,10,1,0,0,0,False,False,False,0,0,0,0
+0defd558-a1a00719,clear,highway,daytime,1280,720,19,11,8,7,5,2,True,False,True,0,0,1,1
+a2919fbe-2b77c639,clear,highway,night,1280,720,24,13,11,4,4,0,False,True,False,0,0,0,0
+0549f27d-ba21dbdd,clear,highway,night,1280,720,26,13,13,4,4,0,False,False,True,0,0,0,0
+8252b2c1-e6b0ab5a,clear,city street,dawn/dusk,1280,720,34,27,7,14,7,7,True,False,True,2,0,1,4
+7b2ab6fb-4e7bb9a5,partly cloudy,city street,dawn/dusk,1280,720,29,15,14,2,2,0,False,False,False,0,0,0,0
+78cb3a99-a9da73d3,partly cloudy,city street,daytime,1280,720,40,31,9,6,4,2,True,False,True,0,0,0,2
+3c4bfc6b-d4b4e541,clear,city street,night,1280,720,20,12,8,2,2,0,True,False,False,0,0,0,0
+692649e5-5337592e,clear,city street,night,1280,720,52,31,21,13,7,6,False,True,False,1,0,5,0
+a7ecf098-2fd197d9,clear,highway,night,1280,720,39,28,11,10,6,4,False,False,False,0,0,3,1
+81b7d964-adefab4d,clear,city street,night,1280,720,20,15,5,3,2,1,False,False,True,0,0,1,0
+4afbc5b2-9c883e33,clear,highway,night,1280,720,17,15,2,5,1,4,False,False,False,2,0,2,0
+af9916b4-d7e7ce8a,clear,city street,daytime,1280,720,38,22,16,9,4,5,False,False,False,0,0,2,3
+4cf851c9-91da1582,clear,city street,night,1280,720,48,29,19,18,6,12,False,False,True,4,0,8,0
+583a81af-4ce70f7e,rainy,city street,night,1280,720,31,23,8,8,3,5,False,False,True,3,0,0,2
+21fa1af0-28cad845,snowy,city street,daytime,1280,720,29,22,7,1,1,0,False,False,False,0,0,0,0
+71064d01-f2f117ad,undefined,city street,daytime,1280,720,38,28,10,3,3,0,False,False,True,0,0,0,0
+29e54439-2d148355,clear,city street,daytime,1280,720,26,12,14,3,1,2,False,False,True,0,0,2,0
+32adb27d-c4138a97,clear,residential,night,1280,720,10,6,4,3,1,2,False,True,False,0,0,2,0
+55fe22b3-3f45e3ea,rainy,city street,night,1280,720,26,16,10,2,0,2,False,False,False,0,0,2,0
+6e7b4826-7f002c7c,clear,residential,night,1280,720,23,21,2,4,2,2,False,False,True,0,0,2,0
+52ee4303-bed51bb0,rainy,highway,daytime,1280,720,30,27,3,17,7,10,True,False,True,3,0,4,3
+7f4c341e-d26b7b72,clear,highway,night,1280,720,20,5,15,1,1,0,True,False,False,0,0,0,0
+77a8cd7a-1a61e1be,undefined,city street,daytime,1280,720,44,36,8,8,4,4,True,True,True,0,0,0,4
+b0a1dce9-3bfc75a0,undefined,city street,daytime,1280,720,35,29,6,11,5,6,False,False,True,0,0,2,4
+9bbe0115-e0b6d47e,clear,city street,daytime,1280,720,57,47,10,28,15,13,False,False,True,3,0,0,10
+89e5ed3e-1d4ec9b5,clear,city street,night,1280,720,49,30,19,20,11,9,True,False,True,2,0,7,0
+23dfa637-bed90829,clear,city street,daytime,1280,720,11,10,1,0,0,0,False,False,False,0,0,0,0
+0fa2d114-8fc825a3,clear,residential,dawn/dusk,1280,720,27,17,10,2,0,2,False,False,False,1,0,0,1
+b17bb440-59e9be79,overcast,city street,daytime,1280,720,28,22,6,9,7,2,False,False,True,0,0,2,0
+9a216843-ebf29f3d,clear,city street,daytime,1280,720,18,14,4,3,0,3,False,False,True,0,0,3,0
+9ef53d2f-dcb6d1b8,undefined,city street,daytime,1280,720,44,25,19,13,8,5,False,False,True,0,0,5,0
+1597fb15-140c0eac,undefined,city street,daytime,1280,720,23,15,8,0,0,0,False,False,False,0,0,0,0
+1e112eab-e6a93758,clear,city street,daytime,1280,720,19,11,8,1,0,1,False,False,True,0,0,1,0
+a4013a81-ed7f60d6,overcast,residential,daytime,1280,720,23,19,4,1,1,0,True,False,False,0,0,0,0
+15b5bfd8-21fe6195,undefined,city street,daytime,1280,720,28,13,15,1,0,1,False,True,False,1,0,0,0
+3bc8d7df-ffb8f7fc,clear,city street,night,1280,720,23,23,0,16,12,4,False,False,True,4,0,0,0
+1caed018-666cb4bc,overcast,city street,daytime,1280,720,33,28,5,0,0,0,False,False,False,0,0,0,0
+a3766d76-2069fab3,overcast,city street,daytime,1280,720,51,32,19,6,2,4,False,False,True,0,0,2,2
+9e08ab10-5c91d483,clear,city street,daytime,1280,720,35,25,10,4,2,2,False,False,True,0,0,0,2
+198a70bf-eb6dc9f4,clear,city street,night,1280,720,23,17,6,4,0,4,False,False,True,0,0,4,0
+abd5350b-71562129,rainy,city street,daytime,1280,720,45,32,13,15,6,9,False,False,True,7,0,1,1
+70cc96e1-12663754,rainy,highway,daytime,1280,720,13,8,5,0,0,0,False,False,False,0,0,0,0
+4b80b7f7-5c6f7d9a,clear,city street,night,1280,720,32,29,3,10,6,4,False,False,True,0,0,4,0
+49b0887e-05a75377,clear,city street,night,1280,720,22,17,5,6,5,1,True,False,False,1,0,0,0
+3d6e4c2c-847ec6e2,clear,residential,night,1280,720,14,13,1,1,1,0,False,False,False,0,0,0,0
+a3984ec1-164fb2ee,rainy,highway,night,1280,720,11,9,2,0,0,0,False,False,False,0,0,0,0
+a7c522fe-e1f76e2f,overcast,city street,daytime,1280,720,57,35,22,15,9,6,False,False,True,5,0,0,1
+a764e3e1-cdf95db8,clear,highway,daytime,1280,720,37,22,15,4,4,0,False,False,True,0,0,0,0
+6543dd1e-1baf060d,partly cloudy,city street,daytime,1280,720,31,25,6,1,1,0,False,False,False,0,0,0,0
+406ecb3e-73c7fbb1,undefined,city street,daytime,1280,720,10,7,3,3,3,0,False,False,False,0,0,0,0
+65b030a9-250ce8f0,clear,highway,dawn/dusk,1280,720,32,19,13,3,2,1,False,False,False,0,0,1,0
+15c70e70-e3b6a249,clear,city street,daytime,1280,720,31,23,8,1,1,0,False,False,False,0,0,0,0
+26f7f4d6-e95962fb,overcast,city street,daytime,1280,720,28,17,11,7,7,0,True,False,True,0,0,0,0
+794edc3a-ad62100f,clear,city street,night,1280,720,16,11,5,4,2,2,False,True,True,0,0,2,0
+3e5e7a64-3bdc4f17,clear,city street,daytime,1280,720,17,11,6,0,0,0,False,False,False,0,0,0,0
+88ecd5ef-e96c88a9,undefined,city street,daytime,1280,720,52,35,17,13,4,9,False,False,True,5,0,0,4
+517f4727-1f11e55b,undefined,city street,daytime,1280,720,39,25,14,11,6,5,True,False,True,3,0,2,0
+a6882d99-040b38c9,clear,city street,night,1280,720,32,24,8,9,5,4,True,False,True,0,0,4,0
+8f7dd26d-9857bb3f,snowy,city street,daytime,1280,720,21,17,4,3,3,0,False,False,False,0,0,0,0
+a2a93868-9cc910ea,clear,city street,daytime,1280,720,46,26,20,13,10,3,False,False,True,0,0,1,2
+6fb682e4-ff869ae5,clear,highway,night,1280,720,17,9,8,5,5,0,False,True,False,0,0,0,0
+53a82779-998c55eb,snowy,city street,daytime,1280,720,6,5,1,0,0,0,False,False,False,0,0,0,0
+0b1b4391-7e947e1a,clear,city street,daytime,1280,720,37,30,7,2,1,1,False,False,True,0,0,0,1
+15569b20-8dcc97aa,undefined,city street,daytime,1280,720,11,6,5,1,0,1,False,False,False,0,1,0,0
+07eabbe1-e60b697d,clear,city street,daytime,1280,720,38,30,8,13,11,2,True,True,False,2,0,0,0
+2fe7d40b-d25348fb,undefined,residential,dawn/dusk,1280,720,22,17,5,3,3,0,True,False,True,0,0,0,0
+390321b6-705637c4,overcast,city street,daytime,1280,720,15,10,5,8,7,1,True,False,False,0,0,0,1
+8a230ec3-c9c4cb0c,clear,city street,daytime,1280,720,24,13,11,3,1,2,True,False,False,0,0,2,0
+2fde6698-9793f290,clear,city street,daytime,1280,720,50,32,18,13,7,6,False,False,True,0,0,1,5
+0440b20e-fc59aea6,clear,undefined,night,1280,720,28,22,6,4,2,2,True,False,False,0,0,2,0
+012e9465-1031243b,overcast,city street,daytime,1280,720,24,17,7,6,5,1,False,True,False,1,0,0,0
+321aef24-1be4d96b,rainy,residential,daytime,1280,720,11,8,3,0,0,0,False,False,False,0,0,0,0
+b0e9ba19-2dc405f8,overcast,city street,daytime,1280,720,33,24,9,5,3,2,False,False,True,0,0,0,2
+37862182-2397088d,clear,residential,dawn/dusk,1280,720,24,7,17,6,3,3,True,False,True,0,0,3,0
+afa48906-e68263d9,clear,city street,night,1280,720,30,21,9,13,5,8,False,False,True,3,0,4,1
+0f1359f1-98bf0fd6,clear,city street,night,1280,720,27,17,10,3,1,2,False,False,True,0,0,2,0
+10d36198-e47405f9,overcast,city street,daytime,1280,720,42,34,8,10,8,2,True,False,True,1,0,1,0
+04076a65-8c1a44ba,rainy,city street,daytime,1280,720,26,9,17,1,1,0,False,False,False,0,0,0,0
+9502e027-c0138fea,clear,city street,dawn/dusk,1280,720,26,16,10,9,5,4,False,False,True,1,0,1,2
+a26b8766-29e7f372,partly cloudy,city street,daytime,1280,720,19,13,6,4,4,0,False,False,True,0,0,0,0
+a9c8091c-7bf57064,overcast,city street,daytime,1280,720,71,46,25,16,11,5,True,True,True,0,0,2,3
+3bab7f42-b428dd1e,clear,residential,daytime,1280,720,20,16,4,6,4,2,True,False,False,1,0,1,0
+419524f4-0f83d8b0,clear,residential,night,1280,720,29,21,8,2,1,1,True,False,True,0,0,1,0
+07c58bb0-9acc3994,clear,highway,daytime,1280,720,13,10,3,6,5,1,True,False,True,0,0,0,1
+23f0ce7e-588c8a5c,snowy,highway,daytime,1280,720,15,10,5,7,7,0,True,False,False,0,0,0,0
+2af27771-a31f7184,clear,city street,night,1280,720,26,13,13,1,1,0,False,False,False,0,0,0,0
+16dd5e70-4c08081a,clear,highway,daytime,1280,720,29,15,14,3,3,0,False,False,False,0,0,0,0
+2fc55ba6-fa385618,partly cloudy,highway,daytime,1280,720,31,17,14,11,11,0,True,False,True,0,0,0,0
+4281c0f1-44d41017,clear,city street,night,1280,720,27,17,10,8,1,7,True,True,False,4,0,2,1
+07be42b3-f0fa018c,undefined,residential,daytime,1280,720,26,25,1,4,4,0,False,False,True,0,0,0,0
+98823a4d-0d481fb1,snowy,city street,daytime,1280,720,32,28,4,6,6,0,False,False,True,0,0,0,0
+3bac2ba2-7a88d8c7,clear,city street,night,1280,720,38,27,11,18,10,8,False,True,True,4,0,3,1
+16cb1401-cb86663d,rainy,city street,daytime,1280,720,51,35,16,14,4,10,False,True,True,0,0,7,3
+06c7f82e-4d749e9b,clear,highway,night,1280,720,20,8,12,3,3,0,False,False,False,0,0,0,0
+193c985d-053ef0f7,clear,highway,night,1280,720,25,18,7,1,1,0,False,False,False,0,0,0,0
+3bf59ba4-7c35588e,partly cloudy,city street,daytime,1280,720,65,36,29,19,7,12,True,False,True,2,0,2,8
+80c62ee8-d23ec5b6,overcast,highway,daytime,1280,720,29,26,3,4,4,0,True,False,False,0,0,0,0
+50906934-ebaf9f85,clear,city street,night,1280,720,35,14,21,9,5,4,True,False,True,1,0,0,3
+6e2742de-6a7d4e43,partly cloudy,parking lot,daytime,1280,720,11,9,2,2,2,0,False,False,False,0,0,0,0
+2946f63f-f61eaf59,clear,city street,night,1280,720,20,10,10,6,2,4,True,False,True,0,0,4,0
+37fbe72b-f36170eb,overcast,residential,daytime,1280,720,26,24,2,4,4,0,False,False,False,0,0,0,0
+5de9e9c4-1858a3dd,clear,highway,night,1280,720,21,10,11,9,9,0,False,False,True,0,0,0,0
+9dc19b89-b304a867,clear,city street,night,1280,720,25,15,10,8,5,3,False,False,True,0,0,3,0
+79455c0a-f7477a05,partly cloudy,highway,daytime,1280,720,20,13,7,0,0,0,False,False,False,0,0,0,0
+adbb62ec-27620942,undefined,residential,daytime,1280,720,58,39,19,10,5,5,False,True,False,0,0,0,5
+3dac6c03-922be44e,undefined,city street,daytime,1280,720,17,9,8,1,1,0,False,False,True,0,0,0,0
+7f56217f-a7f3c65c,rainy,residential,daytime,1280,720,18,16,2,1,1,0,False,False,False,0,0,0,0
+55e248b7-fcebb446,clear,city street,night,1280,720,33,23,10,7,7,0,False,False,False,0,0,0,0
+3675ba80-686a4a62,clear,city street,daytime,1280,720,14,10,4,0,0,0,False,False,False,0,0,0,0
+5bb9c181-3297329e,clear,city street,night,1280,720,26,18,8,4,2,2,False,False,False,0,0,2,0
+4e0b0e1d-274e3b5e,partly cloudy,city street,daytime,1280,720,27,18,9,11,8,3,False,False,True,0,0,0,3
+3a64f9ff-b66b9663,clear,highway,dawn/dusk,1280,720,12,5,7,1,1,0,False,False,True,0,0,0,0
+9c8c1cb6-409b4dce,clear,city street,night,1280,720,40,20,20,4,1,3,False,False,False,1,0,1,1
+8be88685-3bd93faf,clear,residential,daytime,1280,720,18,13,5,3,2,1,False,False,False,0,0,1,0
+39ee24cb-f2487d34,clear,city street,night,1280,720,30,24,6,12,7,5,False,False,True,0,0,5,0
+b09e5dad-44b2d185,undefined,city street,daytime,1280,720,36,29,7,20,11,9,False,True,True,0,0,4,5
+0b9d1c65-433fd389,clear,city street,night,1280,720,35,24,11,18,14,4,True,False,True,2,0,2,0
+0cb7fe1d-8bb07eed,overcast,highway,daytime,1280,720,26,18,8,11,9,2,True,False,True,2,0,0,0
+4cab6ae5-4c901ffa,undefined,city street,daytime,1280,720,21,16,5,6,3,3,True,False,False,0,0,1,2
+43d2aed1-c23bf49d,clear,city street,night,1280,720,16,13,3,0,0,0,False,False,False,0,0,0,0
+6e631f87-ec403b48,clear,city street,daytime,1280,720,37,28,9,2,2,0,True,False,False,0,0,0,0
+4ccb970e-22f3099a,snowy,city street,daytime,1280,720,36,29,7,5,1,4,False,False,True,0,0,4,0
+0593fea2-6471cf4e,rainy,city street,daytime,1280,720,26,21,5,10,8,2,False,False,True,0,0,0,2
+aafac02b-3b7578d9,undefined,city street,dawn/dusk,1280,720,13,11,2,1,1,0,False,False,False,0,0,0,0
+31fbd037-8df623a1,snowy,city street,night,1280,720,30,18,12,9,3,6,False,False,True,2,2,2,0
+5057cb04-ca732b5f,undefined,residential,daytime,1280,720,28,25,3,3,2,1,False,False,True,0,0,1,0
+79fbe809-3c0a0517,rainy,city street,daytime,1280,720,41,29,12,7,4,3,False,False,False,0,0,1,2
+ac65634e-89f51692,rainy,city street,night,1280,720,26,23,3,11,6,5,False,True,True,1,0,4,0
+98096947-0543b1f7,undefined,residential,daytime,1280,720,38,29,9,8,8,0,True,False,True,0,0,0,0
+05584a52-9725bd6b,clear,city street,night,1280,720,16,7,9,1,0,1,False,False,False,0,0,0,1
+a57604f0-08942205,clear,parking lot,night,1280,720,10,8,2,0,0,0,False,False,False,0,0,0,0
+3cecba0b-a1e742ee,partly cloudy,city street,daytime,1280,720,47,29,18,3,2,1,False,False,False,0,0,0,1
+601aa3d0-83f135c7,clear,city street,daytime,1280,720,34,16,18,7,3,4,False,True,False,2,0,0,2
+a208b953-e1661882,undefined,city street,daytime,1280,720,9,7,2,4,4,0,False,False,False,0,0,0,0
+816361f9-8e16e4cc,overcast,city street,dawn/dusk,1280,720,41,32,9,12,5,7,False,False,True,2,0,0,5
+8aa743c2-4296e9f1,undefined,residential,daytime,1280,720,18,17,1,0,0,0,False,False,False,0,0,0,0
+804f9637-c07f66bb,rainy,city street,daytime,1280,720,29,18,11,1,1,0,False,False,False,0,0,0,0
+2895b5bc-7d0638a5,clear,city street,night,1280,720,40,23,17,14,2,12,False,False,True,3,0,6,3
+9abb660f-d45fbf27,clear,city street,night,1280,720,27,13,14,1,1,0,False,False,False,0,0,0,0
+9fa7e629-74e7dae7,overcast,city street,daytime,1280,720,55,39,16,11,7,4,False,False,True,0,0,2,2
+89d584ed-54c459b5,clear,city street,night,1280,720,16,5,11,3,2,1,False,False,False,0,0,1,0
+4242af85-bb254e61,undefined,city street,daytime,1280,720,69,40,29,17,8,9,False,False,True,0,0,3,6
+400d5f0d-901c3056,undefined,highway,daytime,1280,720,15,14,1,3,3,0,False,True,False,0,0,0,0
+28f314e4-c49a1c71,clear,residential,daytime,1280,720,24,22,2,0,0,0,False,False,False,0,0,0,0
+12076ebb-f01cecce,clear,city street,daytime,1280,720,35,24,11,6,0,6,False,False,True,0,0,2,4
+72a4e487-6dfc4093,overcast,residential,daytime,1280,720,20,11,9,1,0,1,False,False,True,0,0,1,0
+02d478d1-42ca3cfb,rainy,city street,night,1280,720,29,19,10,7,7,0,False,False,False,0,0,0,0
+ac866fe0-21bda62e,snowy,city street,daytime,1280,720,13,13,0,4,4,0,True,False,True,0,0,0,0
+2b98dadb-21317600,clear,city street,night,1280,720,22,17,5,6,4,2,False,False,True,0,0,2,0
+0c878ab4-e3d08aad,overcast,city street,daytime,1280,720,61,57,4,29,24,5,True,False,True,1,2,0,2
+14f7ed30-682a76d4,clear,city street,night,1280,720,34,22,12,8,4,4,True,False,True,1,0,3,0
+1433eb0d-a107ad74,clear,city street,night,1280,720,37,32,5,5,5,0,True,True,False,0,0,0,0
+06147f21-35d7b273,clear,highway,daytime,1280,720,20,9,11,2,2,0,False,False,False,0,0,0,0
+97731fde-2b6fa7d2,clear,highway,daytime,1280,720,37,24,13,15,8,7,False,False,False,0,0,1,6
+a0fe9632-d1aacd13,snowy,city street,night,1280,720,36,35,1,15,3,12,False,False,False,7,3,0,2
+76e8b056-b4692ccd,overcast,city street,night,1280,720,37,22,15,13,5,8,False,False,True,2,0,6,0
+90c4d040-61fa79ee,rainy,city street,daytime,1280,720,26,25,1,5,3,2,False,False,True,1,0,0,1
+a394d8b4-8e60447a,clear,city street,night,1280,720,39,21,18,5,1,4,False,False,True,1,0,3,0
+06ff7d61-dc1c9107,rainy,city street,night,1280,720,9,4,5,0,0,0,False,False,False,0,0,0,0
+60a49eb0-6a73a853,partly cloudy,residential,daytime,1280,720,25,15,10,2,2,0,True,True,False,0,0,0,0
+0d3a2ed1-ac4b05e1,clear,highway,daytime,1280,720,22,18,4,2,2,0,False,False,True,0,0,0,0
+25a9b188-a67c6dc6,clear,highway,night,1280,720,19,10,9,5,2,3,True,False,False,0,0,3,0
+8bdb0fc3-28488de8,clear,city street,night,1280,720,27,17,10,3,1,2,False,False,True,2,0,0,0
+111bc173-f2786394,clear,city street,daytime,1280,720,52,32,20,12,7,5,True,True,True,0,0,2,3
+1c3bf90b-f605473c,snowy,city street,night,1280,720,11,7,4,3,1,2,False,False,False,2,0,0,0
+7cd81708-cabd0c6c,clear,city street,daytime,1280,720,27,23,4,3,1,2,False,False,True,0,0,2,0
+8fc1818a-e5d0e125,clear,highway,daytime,1280,720,15,8,7,2,2,0,False,False,False,0,0,0,0
+77a415ba-080046a7,partly cloudy,city street,dawn/dusk,1280,720,34,28,6,10,3,7,False,False,True,6,0,0,1
+9f87db6e-84894147,clear,highway,night,1280,720,14,10,4,8,2,6,False,False,False,2,0,2,2
+8ea394ba-0dbcc3f5,clear,city street,night,1280,720,11,7,4,1,1,0,False,False,False,0,0,0,0
+59a4052e-7ffdb2c6,snowy,city street,night,1280,720,15,14,1,1,1,0,False,False,False,0,0,0,0
+18bf4e49-34790b8e,snowy,city street,daytime,1280,720,26,21,5,8,4,4,True,False,False,0,0,2,2
+356e5be7-06d02e98,clear,city street,night,1280,720,19,11,8,3,3,0,False,False,False,0,0,0,0
+08559e14-86c1c50d,snowy,city street,night,1280,720,19,8,11,2,0,2,False,False,False,0,0,2,0
+214a6b10-5fa8633e,clear,city street,night,1280,720,20,13,7,4,0,4,False,False,True,0,0,2,2
+84ab2b93-901e84e9,clear,highway,night,1280,720,32,15,17,13,7,6,False,False,False,6,0,0,0
+5e3e14fe-d0f3ddf0,clear,city street,dawn/dusk,1280,720,16,8,8,1,0,1,False,False,True,1,0,0,0
+765f15fb-ef824308,undefined,city street,daytime,1280,720,12,9,3,5,3,2,False,False,True,0,0,2,0
+ae120b1c-3b6c6c59,clear,city street,daytime,1280,720,46,42,4,12,8,4,False,False,True,0,0,3,1
+77d52535-1be36eef,clear,highway,daytime,1280,720,21,8,13,0,0,0,False,False,False,0,0,0,0
+a9c4268f-e909cebd,snowy,city street,dawn/dusk,1280,720,17,16,1,7,5,2,True,False,True,2,0,0,0
+4630d785-d7054584,clear,city street,night,1280,720,49,31,18,9,4,5,False,False,True,0,0,4,1
+9e47bdb2-a5c7116e,clear,city street,daytime,1280,720,21,10,11,2,2,0,False,False,True,0,0,0,0
+6d34f7b0-cd6e1529,clear,city street,night,1280,720,11,4,7,3,3,0,False,False,False,0,0,0,0
+896b4e9f-9670dedb,clear,city street,night,1280,720,37,25,12,12,6,6,False,False,False,3,0,3,0
+a7ecf098-87c61119,overcast,residential,daytime,1280,720,23,22,1,1,1,0,False,False,False,0,0,0,0
+0374204b-fdaafd91,clear,highway,night,1280,720,15,6,9,2,2,0,False,False,False,0,0,0,0
+b124d454-8f352c9f,overcast,city street,daytime,1280,720,59,29,30,13,4,9,True,False,False,3,0,0,6
+1aa228ba-ba35fddc,clear,city street,night,1280,720,51,34,17,22,10,12,True,True,True,6,0,4,2
+84c59ad5-afb48e1f,clear,highway,night,1280,720,21,15,6,5,5,0,False,False,False,0,0,0,0
+08ba8824-59e343b0,clear,highway,daytime,1280,720,34,23,11,7,3,4,False,False,True,3,0,0,1
+ab7e554a-681d2cf1,undefined,highway,daytime,1280,720,24,12,12,5,5,0,False,True,False,0,0,0,0
+5ca3fb25-63975ab2,rainy,city street,night,1280,720,27,16,11,11,2,9,False,True,True,7,0,1,1
+152cb661-93a0f960,snowy,city street,dawn/dusk,1280,720,18,15,3,10,6,4,True,False,True,0,0,3,1
+7ab50de8-16ec5eb7,overcast,city street,daytime,1280,720,52,33,19,14,9,5,True,False,False,2,0,2,1
+b054fc2f-dcbb8dd4,clear,city street,daytime,1280,720,19,10,9,0,0,0,False,False,False,0,0,0,0
+69a65575-0775cf8d,clear,residential,night,1280,720,36,28,8,8,4,4,True,True,True,1,0,2,1
+9a6c68f2-47b58767,clear,city street,daytime,1280,720,35,25,10,2,2,0,False,False,True,0,0,0,0
+2532100b-e5e84370,clear,city street,daytime,1280,720,44,30,14,4,3,1,False,False,True,0,0,0,1
+0922ff6e-026a6e62,overcast,city street,daytime,1280,720,47,27,20,13,7,6,True,False,True,0,0,2,4
+5d7f9465-24d2f8e6,clear,highway,night,1280,720,23,17,6,5,4,1,False,False,True,1,0,0,0
+742457f0-fc0adb9c,clear,city street,night,1280,720,13,8,5,5,2,3,False,False,False,0,0,3,0
+14d27cee-c90b8eb6,snowy,highway,daytime,1280,720,17,15,2,4,2,2,False,False,True,0,0,2,0
+66781424-13632c34,clear,city street,night,1280,720,37,25,12,9,1,8,False,True,False,1,0,6,1
+87c77a57-6cc0de10,overcast,residential,daytime,1280,720,11,5,6,0,0,0,False,False,False,0,0,0,0
+a870a22f-24b3b7e3,clear,city street,night,1280,720,16,13,3,1,1,0,False,False,False,0,0,0,0
+81234551-1acbe49d,snowy,highway,daytime,1280,720,18,16,2,9,9,0,False,False,False,0,0,0,0
+7c9be622-0b3b0f46,overcast,city street,daytime,1280,720,44,24,20,4,2,2,False,False,True,0,0,1,1
+5c2b9d1c-27895fee,clear,highway,daytime,1280,720,39,22,17,0,0,0,False,False,False,0,0,0,0
+23583802-185ff83d,clear,city street,night,1280,720,45,33,12,7,5,2,False,False,True,0,0,2,0
+7477bf71-84236bb1,overcast,city street,daytime,1280,720,21,9,12,8,8,0,False,False,False,0,0,0,0
+8c6d5b0c-91f7b8f4,overcast,highway,daytime,1280,720,21,8,13,1,1,0,True,False,False,0,0,0,0
+2d9cdb39-1518006d,clear,residential,dawn/dusk,1280,720,20,10,10,0,0,0,False,False,False,0,0,0,0
+19fd86f6-50e7440b,clear,residential,daytime,1280,720,22,21,1,2,2,0,False,False,True,0,0,0,0
+31f86cad-5090a3f5,clear,city street,night,1280,720,28,20,8,9,6,3,False,False,False,1,0,2,0
+6563977e-2fad0d5f,clear,highway,night,1280,720,53,34,19,16,16,0,True,True,False,0,0,0,0
+2b0e3b93-7b214e1e,clear,city street,night,1280,720,21,18,3,8,8,0,False,True,True,0,0,0,0
+90015ee7-a2800945,overcast,highway,daytime,1280,720,27,15,12,8,8,0,True,False,True,0,0,0,0
+1f94f3c2-9c2b6828,clear,city street,daytime,1280,720,35,26,9,2,2,0,True,False,False,0,0,0,0
+3eaf9c44-0e77a914,clear,city street,night,1280,720,25,17,8,8,2,6,False,False,True,5,0,0,1
+5bb9c181-a9a30e22,clear,residential,daytime,1280,720,18,17,1,2,2,0,False,False,False,0,0,0,0
+9f00bbe8-00dc41bf,overcast,city street,daytime,1280,720,29,24,5,8,4,4,False,False,True,0,0,4,0
+89f1e93a-df4bcb2b,clear,highway,dawn/dusk,1280,720,36,25,11,8,8,0,False,False,True,0,0,0,0
+541e4e13-f3703deb,clear,city street,night,1280,720,20,14,6,2,0,2,False,False,True,2,0,0,0
+a0234283-72d9ae5e,clear,city street,night,1280,720,18,12,6,4,1,3,False,False,True,1,0,2,0
+a9bb5c36-24d63a3e,clear,city street,night,1280,720,21,15,6,3,2,1,False,False,False,0,0,1,0
+0b1b4391-b4a323f8,clear,city street,daytime,1280,720,26,22,4,6,1,5,False,False,True,1,0,2,2
+2b5335fc-876cdf4d,clear,highway,night,1280,720,30,19,11,13,13,0,True,False,True,0,0,0,0
+28f2edd3-243cdc75,clear,city street,night,1280,720,13,7,6,0,0,0,False,False,False,0,0,0,0
+3a6c9756-47bdb7c6,snowy,city street,night,1280,720,35,29,6,18,9,9,False,False,True,9,0,0,0
+70ae5194-027855ec,clear,highway,night,1280,720,21,10,11,6,2,4,False,False,True,1,1,2,0
+12029549-fb425865,overcast,city street,dawn/dusk,1280,720,23,21,2,4,1,3,False,False,False,0,2,1,0
+5143c701-d42d32dd,clear,residential,night,1280,720,32,30,2,6,2,4,False,False,False,2,0,2,0
+58f3ffa9-63bf5622,clear,city street,night,1280,720,40,20,20,11,3,8,True,False,True,4,0,4,0
+489d04df-f177e80f,clear,city street,night,1280,720,30,22,8,11,9,2,False,False,False,1,1,0,0
+4b749c10-bf55c4e3,clear,city street,night,1280,720,33,18,15,15,9,6,True,True,False,5,0,1,0
+0ec4723b-42e62918,clear,city street,night,1280,720,27,17,10,0,0,0,False,False,False,0,0,0,0
+0f01f75e-a7bc5a3b,clear,city street,daytime,1280,720,17,12,5,0,0,0,False,False,False,0,0,0,0
+76a16c68-94670175,partly cloudy,city street,daytime,1280,720,31,19,12,0,0,0,False,False,False,0,0,0,0
+a041ae1b-e0043bbf,clear,highway,daytime,1280,720,36,19,17,1,1,0,False,False,False,0,0,0,0
+a7270b12-929235d8,clear,city street,night,1280,720,19,17,2,1,1,0,False,False,False,0,0,0,0
+6a42c0ab-5a1df402,clear,city street,night,1280,720,15,10,5,5,0,5,False,False,True,3,0,0,2
+700c3115-5b5b7652,clear,city street,night,1280,720,14,12,2,4,2,2,False,False,False,0,0,2,0
+69c8b489-6c837d3f,clear,city street,daytime,1280,720,14,7,7,0,0,0,False,False,False,0,0,0,0
+07f87c9c-8a8d81ef,clear,city street,night,1280,720,8,5,3,0,0,0,False,False,False,0,0,0,0
+0b36ee90-f89cd13d,partly cloudy,residential,daytime,1280,720,30,20,10,2,0,2,False,False,True,0,0,2,0
+010d75f8-fa119cd4,undefined,city street,dawn/dusk,1280,720,35,23,12,4,4,0,False,False,False,0,0,0,0
+36663e5c-c644d8fb,clear,city street,night,1280,720,34,25,9,13,2,11,False,False,True,4,0,5,2
+32479935-3d61b9c0,clear,highway,night,1280,720,38,24,14,7,4,3,True,False,True,2,0,1,0
+8b58d743-e9a4ece7,overcast,city street,daytime,1280,720,16,11,5,3,1,2,False,False,False,2,0,0,0
+0a40c6ce-c0b62ad7,clear,highway,night,1280,720,25,11,14,0,0,0,False,False,False,0,0,0,0
+3a2c6873-3d71ff88,clear,highway,daytime,1280,720,35,26,9,13,7,6,True,True,True,2,0,0,4
+a98e2bc9-701d4d32,partly cloudy,city street,daytime,1280,720,41,32,9,7,3,4,False,False,False,3,0,0,1
+0e5b6c2c-d34a8f2b,overcast,city street,daytime,1280,720,32,30,2,11,4,7,False,False,True,1,0,2,4
+a4d6fd9d-d841bc25,undefined,city street,daytime,1280,720,12,7,5,3,3,0,False,False,False,0,0,0,0
+3aacd216-04f4b521,snowy,highway,night,1280,720,17,5,12,3,1,2,False,False,True,0,0,2,0
+acab40dd-e3223ec9,snowy,city street,night,1280,720,28,21,7,13,2,11,True,True,True,8,0,0,3
+1347a204-52155142,clear,city street,night,1280,720,31,21,10,5,0,5,False,False,True,3,0,2,0
+47525d44-ce8d18f5,clear,city street,night,1280,720,25,16,9,10,2,8,False,False,True,4,0,3,1
+5cefa13c-ccdd74cc,snowy,residential,daytime,1280,720,11,10,1,1,1,0,False,False,False,0,0,0,0
+55c223bf-4d4fe46c,rainy,city street,night,1280,720,22,16,6,0,0,0,False,False,False,0,0,0,0
+08dd4b3a-99f45543,clear,residential,daytime,1280,720,16,11,5,9,5,4,False,True,True,0,0,2,2
+250ab8b5-54f4ecac,clear,highway,daytime,1280,720,21,10,11,7,7,0,True,False,False,0,0,0,0
+ac863eb0-f514d1b5,undefined,residential,daytime,1280,720,9,7,2,0,0,0,False,False,False,0,0,0,0
+72915dab-4807d797,clear,city street,night,1280,720,24,11,13,9,9,0,True,False,False,0,0,0,0
+adfc8f5c-c1afe7c7,partly cloudy,city street,daytime,1280,720,18,16,2,3,3,0,False,False,False,0,0,0,0
+9a89fb55-f51d971e,undefined,city street,daytime,1280,720,39,33,6,16,4,12,True,False,True,0,0,9,3
+958e87df-58d4f2aa,clear,city street,daytime,1280,720,54,23,31,12,5,7,True,True,False,2,0,0,5
+a5c289a6-b05c49ce,clear,city street,daytime,1280,720,40,22,18,6,4,2,False,False,False,0,0,0,2
+88e9e61a-5e760937,clear,highway,dawn/dusk,1280,720,19,9,10,2,2,0,False,False,False,0,0,0,0
+84673e57-7bd212ae,clear,city street,daytime,1280,720,37,25,12,9,4,5,True,False,True,2,0,0,3
+a9a5251f-8b963517,undefined,city street,daytime,1280,720,29,16,13,7,0,7,True,False,True,0,0,3,4
+77a218cf-a4b250de,snowy,city street,daytime,1280,720,26,22,4,10,1,9,True,True,True,3,1,0,5
+34305434-adef695a,partly cloudy,city street,daytime,1280,720,10,8,2,2,2,0,False,True,True,0,0,0,0
+8f979f80-ad9d825c,clear,highway,dawn/dusk,1280,720,19,10,9,5,5,0,False,False,True,0,0,0,0
+277b943f-2f424aeb,overcast,highway,daytime,1280,720,26,13,13,6,6,0,True,False,False,0,0,0,0
+60cb9996-21280e67,clear,city street,daytime,1280,720,27,18,9,9,4,5,True,False,True,0,0,3,2
+6f07979d-919df1e5,clear,highway,daytime,1280,720,26,15,11,0,0,0,False,False,False,0,0,0,0
+596025f4-21f716d9,clear,highway,night,1280,720,16,10,6,4,0,4,False,False,False,0,0,4,0
+402df604-ba7ba14e,overcast,residential,daytime,1280,720,20,17,3,3,2,1,False,False,False,0,0,0,1
+2a472b31-a1c33160,clear,highway,night,1280,720,20,10,10,4,4,0,True,True,False,0,0,0,0
+2021c742-1fe749bc,clear,residential,night,1280,720,8,5,3,2,2,0,False,False,False,0,0,0,0
+0a14a567-fdd08dd2,undefined,city street,night,1280,720,17,12,5,4,4,0,False,True,False,0,0,0,0
+5fb7b215-c238210f,clear,city street,night,1280,720,17,15,2,2,2,0,False,False,False,0,0,0,0
+5c20ddb0-8e33de43,clear,city street,daytime,1280,720,15,9,6,6,2,4,False,False,True,0,0,0,4
+abbc7ff9-cc9b7272,clear,city street,night,1280,720,9,5,4,3,3,0,False,True,False,0,0,0,0
+9b0581c4-b5b7817f,overcast,city street,daytime,1280,720,53,37,16,26,10,16,False,False,False,2,0,0,14
+0e0b757e-12f7b9d2,clear,highway,night,1280,720,16,7,9,0,0,0,False,False,False,0,0,0,0
+87cd2329-e1838a65,overcast,residential,dawn/dusk,1280,720,14,11,3,1,1,0,False,False,False,0,0,0,0
+755b7720-0ffeea94,clear,city street,night,1280,720,49,34,15,20,12,8,False,False,False,1,0,5,2
+0335a578-e01e5070,partly cloudy,city street,daytime,1280,720,23,10,13,0,0,0,False,False,False,0,0,0,0
+64b80d9c-a033de82,clear,city street,night,1280,720,28,24,4,13,8,5,False,False,True,4,0,1,0
+8c69d78c-821a0338,overcast,parking lot,dawn/dusk,1280,720,17,9,8,0,0,0,False,False,False,0,0,0,0
+104c905a-e418f2d6,clear,highway,night,1280,720,14,8,6,2,2,0,False,False,False,0,0,0,0
+472f9096-a18b300d,clear,city street,night,1280,720,25,15,10,2,2,0,True,False,True,0,0,0,0
+8afa8995-1404de14,overcast,highway,dawn/dusk,1280,720,78,62,16,20,6,14,False,False,True,0,0,6,8
+adfc686b-9374abd1,partly cloudy,highway,daytime,1280,720,46,35,11,3,3,0,False,False,False,0,0,0,0
+77c3dc21-d06517da,clear,residential,daytime,1280,720,11,10,1,0,0,0,False,False,False,0,0,0,0
+7977345c-854ab057,clear,city street,night,1280,720,10,6,4,0,0,0,False,False,False,0,0,0,0
+6f6ba853-4a2b47b8,overcast,city street,daytime,1280,720,50,22,28,13,4,9,False,False,True,0,0,3,6
+084c910c-2a1b87c0,clear,city street,daytime,1280,720,46,32,14,8,4,4,False,False,True,1,0,2,1
+08e0470b-4e535be9,clear,highway,night,1280,720,27,18,9,8,2,6,False,False,True,4,0,2,0
+485ff933-bf8442ef,undefined,highway,daytime,1280,720,25,11,14,6,4,2,False,False,True,0,0,0,2
+9045dc3b-c9cc0a16,clear,city street,daytime,1280,720,24,12,12,2,0,2,False,False,True,0,0,2,0
+5ce0f880-298aa072,clear,city street,daytime,1280,720,15,6,9,0,0,0,False,False,False,0,0,0,0
+035821a3-1faf0199,rainy,city street,daytime,1280,720,26,14,12,5,1,4,False,False,True,3,0,0,1
+87b5bbd7-e624bf9b,clear,city street,dawn/dusk,1280,720,14,11,3,6,6,0,False,False,False,0,0,0,0
+96473ad2-858dc39b,rainy,city street,night,1280,720,25,21,4,6,1,5,False,False,False,0,0,5,0
+3f6c60ae-57508591,overcast,city street,daytime,1280,720,36,21,15,13,8,5,False,False,True,0,0,3,2
+11bfabe9-357a4501,undefined,undefined,night,1280,720,16,5,11,2,1,1,False,False,False,0,0,0,1
+88317e5e-c77484d8,clear,city street,night,1280,720,16,8,8,4,2,2,False,False,True,2,0,0,0
+632e5f42-38c062ed,undefined,city street,night,1280,720,21,16,5,12,7,5,False,False,False,1,0,4,0
+6020a5c4-dd6351af,partly cloudy,highway,daytime,1280,720,22,7,15,0,0,0,False,False,False,0,0,0,0
+0c86d1c5-5daba15f,overcast,residential,daytime,1280,720,25,23,2,0,0,0,False,False,False,0,0,0,0
+9479b770-16fbcca2,undefined,highway,daytime,1280,720,50,40,10,17,6,11,False,False,False,2,0,2,7
+519ea5f2-54c261c8,clear,city street,night,1280,720,25,19,6,8,3,5,True,False,True,3,0,2,0
+8a58392d-2a150c70,overcast,highway,daytime,1280,720,33,25,8,2,1,1,True,False,True,1,0,0,0
+a3f8b218-8a673d9f,clear,city street,night,1280,720,5,4,1,0,0,0,False,False,False,0,0,0,0
+abc08005-f00e19a5,clear,city street,daytime,1280,720,41,28,13,4,4,0,False,False,True,0,0,0,0
+61c656e8-3316f839,clear,city street,daytime,1280,720,15,6,9,2,2,0,True,False,False,0,0,0,0
+29525520-571f6daf,clear,city street,daytime,1280,720,17,15,2,2,2,0,True,False,False,0,0,0,0
+61c6d650-678902e9,clear,residential,daytime,1280,720,14,12,2,3,3,0,False,False,False,0,0,0,0
+61c9998c-f413580c,clear,city street,night,1280,720,21,14,7,5,3,2,False,False,True,0,0,2,0
+3d7caf85-a91f8e38,overcast,highway,daytime,1280,720,19,8,11,0,0,0,False,False,False,0,0,0,0
+8f051921-60a45f33,undefined,city street,daytime,1280,720,21,12,9,9,4,5,False,False,True,3,0,0,2
+6f2cf9ec-73617705,overcast,city street,daytime,1280,720,24,16,8,0,0,0,False,False,False,0,0,0,0
+a4c2949b-1bde1750,rainy,highway,daytime,1280,720,16,13,3,3,2,1,False,False,False,1,0,0,0
+a9ea1c0c-07acb2f5,clear,highway,daytime,1280,720,27,11,16,2,2,0,True,False,False,0,0,0,0
+827202ff-2cd40926,undefined,city street,daytime,1280,720,36,31,5,4,4,0,False,False,False,0,0,0,0
+07f1933b-a5f9ba5a,overcast,city street,daytime,1280,720,38,35,3,12,3,9,True,False,True,2,0,2,5
+7ebc7fa4-4f8ecbc9,rainy,city street,daytime,1280,720,17,13,4,1,0,1,False,False,False,0,0,0,1
+9da76ad1-4e1da2cd,snowy,residential,daytime,1280,720,26,23,3,8,4,4,False,False,False,0,0,2,2
+7571d489-ecd802a8,overcast,city street,daytime,1280,720,68,60,8,12,9,3,False,True,True,0,0,3,0
+764aad06-b4b2ab50,overcast,residential,daytime,1280,720,31,20,11,3,3,0,True,False,True,0,0,0,0
+43737c68-941d73c4,clear,highway,daytime,1280,720,17,10,7,2,2,0,False,False,False,0,0,0,0
+17337078-eb3d10c7,rainy,city street,daytime,1280,720,34,20,14,6,5,1,True,True,True,0,0,1,0
+87354346-8f9c3726,snowy,highway,daytime,1280,720,32,18,14,8,4,4,False,False,True,2,0,2,0
+2a484e03-d14fd82b,clear,residential,daytime,1280,720,18,17,1,6,2,4,False,False,True,0,0,2,2
+2400a762-9f38fc21,clear,city street,daytime,1280,720,35,22,13,12,12,0,True,True,True,0,0,0,0
+32f9273c-a1b71351,clear,city street,night,1280,720,13,12,1,2,0,2,False,False,True,0,0,2,0
+93139f03-05dd5897,clear,city street,night,1280,720,31,18,13,7,0,7,False,False,True,1,0,6,0
+345cd125-b28b9555,clear,highway,night,1280,720,19,5,14,4,4,0,True,False,False,0,0,0,0
+074496ba-de320b67,undefined,city street,daytime,1280,720,60,34,26,8,0,8,False,True,False,2,0,2,4
+396f1c43-8334b8cd,clear,highway,night,1280,720,26,17,9,9,6,3,False,False,True,3,0,0,0
+1bdde543-71bde795,overcast,highway,daytime,1280,720,21,10,11,8,8,0,True,False,True,0,0,0,0
+49c916d1-17b3b39a,rainy,city street,daytime,1280,720,32,22,10,9,0,9,False,True,True,2,0,2,5
+15335947-9c5cd1ed,snowy,city street,night,1280,720,8,7,1,1,1,0,False,False,False,0,0,0,0
+a0dca814-f8b2e3fe,clear,city street,night,1280,720,32,24,8,4,3,1,False,False,True,0,0,1,0
+40a0e424-640f5c6a,partly cloudy,city street,daytime,1280,720,51,18,33,13,5,8,True,True,True,2,0,3,3
+1accee17-deeb6eb8,clear,highway,night,1280,720,19,6,13,2,0,2,False,False,True,0,0,2,0
+25cbfec5-12e76a8a,clear,city street,night,1280,720,34,23,11,15,2,13,False,False,True,5,0,7,1
+aefd1f1c-0b1a2691,clear,highway,dawn/dusk,1280,720,18,7,11,0,0,0,False,False,False,0,0,0,0
+1404fa63-f047c348,clear,city street,daytime,1280,720,50,28,22,9,1,8,False,True,True,3,1,3,1
+755a4a70-395925c6,clear,city street,night,1280,720,73,47,26,32,15,17,True,False,True,6,3,6,2
+6ce727b7-535d131f,partly cloudy,residential,dawn/dusk,1280,720,18,14,4,4,4,0,False,False,False,0,0,0,0
+42981f41-bfcc6a90,clear,city street,night,1280,720,40,14,26,5,1,4,False,False,True,1,0,3,0
+8a64cc5f-8aae8291,undefined,highway,daytime,1280,720,15,6,9,0,0,0,False,False,False,0,0,0,0
+4768327b-f62513d0,clear,city street,night,1280,720,18,12,6,0,0,0,False,False,False,0,0,0,0
+35f90b52-130add1b,partly cloudy,city street,daytime,1280,720,30,24,6,4,2,2,False,False,True,0,0,0,2
+8c2764a6-51717a96,clear,city street,night,1280,720,19,9,10,6,3,3,False,False,True,1,0,2,0
+265d4495-ce3f36e0,clear,city street,night,1280,720,38,23,15,8,1,7,True,False,True,4,0,3,0
+5141bb06-4156fc24,snowy,city street,night,1280,720,17,12,5,1,0,1,False,False,False,0,0,1,0
+af7dc07f-eb88832c,clear,city street,night,1280,720,35,20,15,0,0,0,False,False,False,0,0,0,0
+895d3dcd-d9b3577e,clear,city street,night,1280,720,42,20,22,5,2,3,False,True,False,1,0,0,2
+8b61001f-50d311b2,clear,city street,daytime,1280,720,21,17,4,3,3,0,True,False,False,0,0,0,0
+38f8c2d4-01971edb,clear,city street,night,1280,720,30,22,8,13,3,10,False,False,True,5,0,3,2
+94796170-2a85d3d7,rainy,residential,night,1280,720,25,21,4,10,3,7,False,False,True,0,0,5,2
+66f02db3-01220007,clear,city street,daytime,1280,720,27,24,3,13,3,10,True,True,True,0,0,2,8
+9a052db2-529dc42e,clear,highway,night,1280,720,29,22,7,3,3,0,False,False,True,0,0,0,0
+033395ff-c02a8a2c,undefined,city street,daytime,1280,720,51,36,15,14,8,6,True,False,True,1,0,3,2
+34485a53-b990a6df,overcast,city street,daytime,1280,720,39,27,12,10,3,7,True,False,False,4,0,1,2
+9ed986a4-d663c921,clear,city street,night,1280,720,24,16,8,15,11,4,True,True,True,0,0,4,0
+33164552-4907b087,undefined,city street,daytime,1280,720,80,59,21,33,17,16,True,False,True,0,0,3,13
+754d05f4-5631d59c,rainy,highway,daytime,1280,720,20,13,7,2,2,0,False,False,False,0,0,0,0
+7d991a80-f280dcf0,undefined,city street,daytime,1280,720,26,24,2,1,1,0,False,False,False,0,0,0,0
+329a37cc-1aafebe5,undefined,city street,daytime,1280,720,34,23,11,8,4,4,False,True,True,0,0,3,1
+00d5edb9-f0077df3,rainy,highway,daytime,1280,720,17,10,7,6,3,3,False,False,True,0,0,0,3
+8702477e-49eee338,partly cloudy,highway,daytime,1280,720,36,27,9,13,13,0,True,False,True,0,0,0,0
+69e5829c-b4fc896d,clear,parking lot,night,1280,720,27,10,17,6,6,0,False,False,True,0,0,0,0
+922b6ffd-6b9be0fc,undefined,city street,daytime,1280,720,53,29,24,14,5,9,True,True,True,0,0,5,4
+02eb43d9-ff055cbb,clear,highway,night,1280,720,26,17,9,10,6,4,False,False,False,0,0,2,2
+067aab09-64da0e07,partly cloudy,residential,daytime,1280,720,16,5,11,4,4,0,False,False,False,0,0,0,0
+a6007cd7-48c21101,clear,city street,night,1280,720,45,30,15,10,2,8,False,False,False,4,0,4,0
+3946ad3b-77fe9804,overcast,city street,dawn/dusk,1280,720,18,10,8,4,2,2,False,False,True,0,0,1,1
+2f117fe3-73f92283,clear,city street,night,1280,720,33,19,14,4,2,2,False,False,False,0,0,2,0
+5c2fee2f-3655a72d,overcast,city street,daytime,1280,720,37,22,15,1,0,1,True,False,True,0,0,0,1
+77b25323-b4de0632,undefined,city street,dawn/dusk,1280,720,18,9,9,0,0,0,False,False,False,0,0,0,0
+3a07aedc-4d84c331,overcast,city street,daytime,1280,720,25,13,12,1,1,0,False,False,False,0,0,0,0
+257fea9a-df333b7e,overcast,highway,daytime,1280,720,47,27,20,5,1,4,False,False,True,0,0,3,1
+7568f72d-82b4cfa2,partly cloudy,city street,daytime,1280,720,33,15,18,1,1,0,False,False,False,0,0,0,0
+6b559b3b-29fbd425,rainy,parking lot,night,1280,720,32,20,12,0,0,0,False,False,False,0,0,0,0
+97760d1d-412c1763,clear,residential,daytime,1280,720,15,11,4,0,0,0,False,False,False,0,0,0,0
+8683b2c4-67fb8fc2,undefined,city street,daytime,1280,720,48,42,6,9,3,6,False,False,True,0,0,2,4
+42dc62be-38de6c84,undefined,residential,daytime,1280,720,26,25,1,2,2,0,False,False,False,0,0,0,0
+90e719a7-69852ea6,clear,highway,daytime,1280,720,21,10,11,0,0,0,False,False,False,0,0,0,0
+59013048-5868cf40,undefined,city street,daytime,1280,720,17,13,4,0,0,0,False,False,False,0,0,0,0
+2e94d134-2d5ce3b9,clear,highway,daytime,1280,720,19,8,11,0,0,0,False,False,False,0,0,0,0
+24e95dd5-e43737f0,clear,city street,night,1280,720,36,26,10,12,4,8,False,False,True,2,0,6,0
+0ca7d4fe-303c9d8a,clear,city street,daytime,1280,720,37,26,11,10,2,8,False,False,True,4,0,0,4
+a2ef22b8-b7ccbe23,clear,city street,night,1280,720,46,31,15,13,7,6,False,False,True,0,0,5,1
+62f83d1b-40a4107b,clear,highway,night,1280,720,12,5,7,1,1,0,False,False,True,0,0,0,0
+5e3e14fe-4b369afb,partly cloudy,highway,daytime,1280,720,21,11,10,3,3,0,True,False,False,0,0,0,0
+8b58d4a2-2831a6c4,overcast,highway,daytime,1280,720,16,8,8,3,3,0,False,False,False,0,0,0,0
+b1640508-0eed1fd7,clear,highway,night,1280,720,38,28,10,9,4,5,False,False,True,1,0,4,0
+a04cecd6-cd70f710,snowy,city street,daytime,1280,720,20,11,9,4,4,0,False,True,False,0,0,0,0
+7c6f1661-be4efcca,overcast,city street,daytime,1280,720,51,42,9,5,2,3,False,True,True,0,0,1,2
+544efe84-e6399ee4,undefined,city street,daytime,1280,720,37,24,13,10,7,3,True,False,True,0,0,3,0
+93821de4-0b12c8f5,undefined,undefined,night,1280,720,10,4,6,1,1,0,False,False,False,0,0,0,0
+81461285-dd08b4e1,clear,city street,night,1280,720,27,15,12,3,1,2,False,False,False,0,0,2,0
+04d36968-1576e038,clear,residential,daytime,1280,720,27,15,12,3,3,0,False,False,False,0,0,0,0
+4e4bbf1d-b95a570c,clear,city street,daytime,1280,720,56,42,14,32,14,18,False,False,True,1,0,5,12
+24ae7824-266f01f0,rainy,highway,night,1280,720,17,7,10,6,4,2,False,False,True,0,0,2,0
+a9061572-93c33d31,clear,highway,daytime,1280,720,14,7,7,2,2,0,True,False,False,0,0,0,0
+14968e59-818025f2,clear,highway,night,1280,720,19,13,6,8,8,0,True,False,False,0,0,0,0
+80755ec5-592fadc0,overcast,highway,daytime,1280,720,35,22,13,1,1,0,False,False,False,0,0,0,0
+78830bb1-18d07fef,clear,city street,night,1280,720,9,8,1,2,1,1,False,False,True,0,0,1,0
+1a8d12f7-9b8384a3,clear,city street,night,1280,720,27,15,12,8,6,2,True,False,True,0,0,2,0
+2590d38d-98599615,rainy,residential,daytime,1280,720,24,20,4,7,2,5,False,False,True,3,0,1,1
+13288932-6c2af1b1,undefined,highway,daytime,1280,720,47,41,6,32,23,9,False,True,True,0,0,3,6
+9d11f066-db9ad6ae,undefined,city street,daytime,1280,720,22,13,9,3,0,3,True,True,False,1,0,0,2
+4f0974b6-fce42464,clear,city street,night,1280,720,26,17,9,6,1,5,True,False,False,2,0,1,2
+63d0e465-a0c3a094,clear,city street,night,1280,720,27,17,10,3,3,0,False,True,False,0,0,0,0
+2483fad8-7955655e,clear,city street,daytime,1280,720,37,15,22,4,4,0,True,False,True,0,0,0,0
+183e63ca-72b6b9ae,undefined,city street,daytime,1280,720,75,43,32,12,10,2,False,True,True,0,0,0,2
+69519e0a-22b7468f,clear,city street,night,1280,720,44,32,12,20,4,16,False,True,True,10,0,5,1
+764ff689-b5ba5c78,clear,residential,daytime,1280,720,43,15,28,8,8,0,True,True,True,0,0,0,0
+aac7193c-0677301c,overcast,city street,night,1280,720,47,36,11,1,0,1,False,False,False,1,0,0,0
+5c658041-91bcfe36,rainy,city street,night,1280,720,32,20,12,7,3,4,False,False,False,2,0,2,0
+8c3e2d5c-79597265,snowy,highway,daytime,1280,720,13,5,8,0,0,0,False,False,False,0,0,0,0
+2e633d37-45bf4011,snowy,city street,night,1280,720,26,19,7,5,5,0,False,False,False,0,0,0,0
+30b207bb-9d7ead9b,clear,highway,night,1280,720,16,9,7,2,2,0,False,False,False,0,0,0,0
+22222d41-61e095d1,rainy,city street,daytime,1280,720,61,45,16,28,19,9,False,False,True,5,0,0,4
+3536fe33-176b7936,snowy,city street,night,1280,720,16,11,5,4,2,2,False,False,True,2,0,0,0
+933f7721-1d0fb728,rainy,residential,daytime,1280,720,17,14,3,3,2,1,False,False,True,0,0,1,0
+0a0c3694-54476ae3,undefined,residential,daytime,1280,720,19,18,1,1,0,1,False,False,True,0,0,1,0
+3e1a7d8e-0f3d3281,undefined,highway,daytime,1280,720,19,10,9,2,2,0,False,False,False,0,0,0,0
+3af146be-791fec25,undefined,city street,daytime,1280,720,34,21,13,5,2,3,False,False,True,0,0,2,1
+3153a817-1ede6be6,clear,city street,daytime,1280,720,34,22,12,8,5,3,False,False,False,0,0,1,2
+7fa6bfb2-63a2aa1b,clear,highway,dawn/dusk,1280,720,14,7,7,2,2,0,False,False,False,0,0,0,0
+61873b33-be93f3b0,rainy,residential,night,1280,720,18,10,8,1,1,0,False,False,False,0,0,0,0
+741d6ede-e2fb3b5b,clear,city street,night,1280,720,34,19,15,7,3,4,True,False,False,2,0,2,0
+7eaf2bc6-bbd0052a,rainy,highway,daytime,1280,720,27,12,15,7,3,4,False,True,True,0,0,2,2
+95472e27-75c04259,clear,residential,night,1280,720,12,11,1,0,0,0,False,False,False,0,0,0,0
+56070b32-c46db6a2,partly cloudy,highway,daytime,1280,720,38,26,12,11,8,3,True,False,False,0,0,2,1
+0c50b9d0-341b6c46,undefined,city street,daytime,1280,720,46,29,17,7,4,3,False,False,True,0,0,1,2
+45e9ed46-a049ebea,rainy,city street,dawn/dusk,1280,720,10,10,0,0,0,0,False,False,False,0,0,0,0
+a1597863-fe66afc5,rainy,city street,night,1280,720,16,9,7,6,4,2,False,False,False,2,0,0,0
+4562a561-b493a547,clear,city street,night,1280,720,33,28,5,13,13,0,False,True,False,0,0,0,0
+a86f9b2f-730e0f4e,overcast,city street,daytime,1280,720,15,13,2,2,2,0,True,False,False,0,0,0,0
+80b730cf-897d60c5,clear,city street,night,1280,720,52,35,17,14,6,8,False,False,True,4,0,3,1
+8ec8ab14-dd09fbde,clear,city street,night,1280,720,28,25,3,3,0,3,False,False,True,0,0,2,1
+077d7bbc-2dc66d22,snowy,city street,daytime,1280,720,19,18,1,11,1,10,True,False,True,0,0,4,6
+01bfe142-adaf8017,clear,city street,night,1280,720,24,14,10,7,4,3,False,False,False,0,0,3,0
+3ab60cd0-4e087e5b,clear,highway,night,1280,720,32,17,15,6,6,0,False,True,True,0,0,0,0
+6c616c13-dbd2fbe1,clear,parking lot,night,1280,720,7,5,2,2,2,0,False,False,False,0,0,0,0
+35ffa090-d8972bc9,clear,city street,daytime,1280,720,50,36,14,17,7,10,True,True,False,0,0,3,7
+28578aff-6e68dabf,partly cloudy,highway,daytime,1280,720,45,37,8,0,0,0,False,False,False,0,0,0,0
+0b8d55fe-b7959ba8,clear,city street,night,1280,720,21,14,7,6,1,5,False,False,False,3,0,2,0
+3fe1feaa-10126fec,clear,highway,daytime,1280,720,20,11,9,2,0,2,False,False,True,0,0,0,2
+b0c2179e-8694c716,clear,city street,night,1280,720,30,18,12,2,1,1,True,False,False,0,0,1,0
+1177c1ab-40db3c71,overcast,highway,daytime,1280,720,32,22,10,4,4,0,True,False,True,0,0,0,0
+ac44c572-e153c715,clear,city street,daytime,1280,720,22,16,6,2,1,1,False,False,True,0,0,1,0
+04299f0f-826f428b,clear,highway,night,1280,720,13,6,7,3,1,2,False,False,True,0,0,2,0
+9f1c7549-ca490b7d,undefined,city street,daytime,1280,720,60,41,19,16,5,11,True,False,True,0,0,6,5
+750720eb-9a8007b9,clear,highway,night,1280,720,29,14,15,5,5,0,True,False,True,0,0,0,0
+360525fb-fa4a6f87,rainy,city street,night,1280,720,24,17,7,8,2,6,False,False,False,2,0,4,0
+0e280165-4b60a5ff,clear,residential,daytime,1280,720,27,18,9,0,0,0,False,False,False,0,0,0,0
+41b176a3-11a75403,undefined,highway,daytime,1280,720,24,12,12,1,1,0,False,False,True,0,0,0,0
+aaa27775-6ea34d48,clear,highway,night,1280,720,17,5,12,1,1,0,False,False,False,0,0,0,0
+6f9ddfc3-3a0cd730,partly cloudy,city street,daytime,1280,720,41,23,18,12,5,7,False,True,False,2,0,1,4
+a5dd241e-e61c0e76,rainy,city street,daytime,1280,720,28,20,8,2,2,0,True,False,False,0,0,0,0
+94be2873-f11dc587,undefined,city street,daytime,1280,720,54,44,10,17,7,10,False,False,True,0,0,2,8
+88a81658-10c1b42d,partly cloudy,city street,daytime,1280,720,40,30,10,6,0,6,False,False,True,1,0,1,4
+435d5578-adee94b1,clear,city street,night,1280,720,17,4,13,0,0,0,False,False,False,0,0,0,0
+4991afc4-e02d03b7,clear,residential,dawn/dusk,1280,720,17,13,4,2,2,0,True,False,False,0,0,0,0
+6a09a167-b0066c45,clear,city street,night,1280,720,16,15,1,1,1,0,False,False,False,0,0,0,0
+77c1feec-cc1f82b6,overcast,highway,daytime,1280,720,44,26,18,9,3,6,True,False,False,0,0,2,4
+1d5df664-a978f3d7,clear,city street,night,1280,720,21,20,1,9,3,6,False,False,True,5,0,1,0
+9d44cdc3-bb65da07,clear,city street,night,1280,720,17,10,7,3,2,1,False,False,False,0,0,1,0
+4cdef661-5fb674c3,snowy,highway,daytime,1280,720,19,11,8,5,5,0,True,False,False,0,0,0,0
+11502c6d-cfc97629,undefined,city street,daytime,1280,720,25,19,6,3,3,0,False,False,False,0,0,0,0
+a2da9553-94e1ccbc,clear,city street,daytime,1280,720,13,10,3,5,3,2,False,False,True,0,0,1,1
+135531d4-5f271092,partly cloudy,city street,daytime,1280,720,30,13,17,0,0,0,False,False,False,0,0,0,0
+61abb149-ea46df3a,overcast,city street,daytime,1280,720,33,23,10,13,3,10,True,True,True,0,0,2,8
+793ad87f-5699b041,snowy,city street,daytime,1280,720,22,17,5,10,8,2,False,False,True,0,0,1,1
+35a0835e-c9222580,undefined,highway,daytime,1280,720,15,6,9,1,1,0,False,False,False,0,0,0,0
+747b40ee-eb66b49d,rainy,city street,daytime,1280,720,12,5,7,4,1,3,False,False,False,1,1,0,1
+111ddfcb-c0737eda,clear,city street,daytime,1280,720,56,40,16,14,14,0,False,True,True,0,0,0,0
+36b8a4e7-19e01fa0,overcast,residential,dawn/dusk,1280,720,39,28,11,7,7,0,True,False,True,0,0,0,0
+7a162055-96d7764c,undefined,city street,daytime,1280,720,15,12,3,2,2,0,False,False,False,0,0,0,0
+736fa66f-c5e85987,rainy,highway,night,1280,720,26,14,12,10,8,2,True,False,True,0,0,2,0
+711ae9ee-dbd8649f,overcast,city street,daytime,1280,720,42,27,15,4,1,3,True,False,False,1,0,1,1
+2b901de6-4708b6ea,clear,city street,daytime,1280,720,38,20,18,6,3,3,True,True,False,1,0,1,1
+a5cd924e-cd082934,clear,residential,daytime,1280,720,26,18,8,7,2,5,False,False,True,0,0,2,3
+62c8840c-17f6fc93,clear,highway,night,1280,720,15,5,10,2,0,2,False,False,False,0,0,2,0
+a7e8be68-365e1c7a,overcast,city street,daytime,1280,720,18,8,10,4,1,3,False,False,True,1,0,0,2
+3309533a-6743c847,rainy,highway,daytime,1280,720,23,10,13,2,2,0,False,True,False,0,0,0,0
+870830b5-e7f8fa8b,clear,city street,night,1280,720,26,19,7,2,0,2,False,False,False,0,0,2,0
+5d2c13a9-f15fd4ab,clear,highway,night,1280,720,15,4,11,0,0,0,False,False,False,0,0,0,0
+1f6b63b0-82441ee0,clear,highway,dawn/dusk,1280,720,31,19,12,8,8,0,True,False,False,0,0,0,0
+62690675-a3a3a0eb,snowy,highway,daytime,1280,720,33,27,6,16,15,1,False,False,True,1,0,0,0
+7e87f449-242784db,clear,city street,night,1280,720,29,22,7,9,5,4,False,False,False,2,0,2,0
+4e65deb4-38225678,rainy,city street,night,1280,720,47,25,22,21,11,10,False,True,False,2,0,6,2
+24bff1fe-b8aba12c,clear,residential,dawn/dusk,1280,720,12,7,5,2,2,0,False,False,True,0,0,0,0
+1bcca9a5-e0ae765b,clear,highway,night,1280,720,16,7,9,3,3,0,False,True,False,0,0,0,0
+25cc626e-f95f549a,clear,residential,daytime,1280,720,30,12,18,6,6,0,False,False,False,0,0,0,0
+32f52e54-d22d1e04,clear,city street,daytime,1280,720,21,15,6,1,1,0,False,False,False,0,0,0,0
+621fb031-8e212444,clear,city street,daytime,1280,720,47,35,12,9,1,8,True,True,True,1,0,2,5
+583869ef-7a80406f,overcast,city street,daytime,1280,720,30,25,5,1,1,0,False,False,False,0,0,0,0
+49d15e3e-f866210a,clear,city street,daytime,1280,720,28,16,12,5,4,1,False,False,False,0,0,1,0
+5deace61-34b8ee0d,clear,highway,night,1280,720,20,8,12,3,3,0,False,False,False,0,0,0,0
+1008a17e-c1b089f4,clear,city street,night,1280,720,19,13,6,7,6,1,False,False,False,0,0,1,0
+a1250ed4-bac9d101,clear,residential,night,1280,720,6,4,2,0,0,0,False,False,False,0,0,0,0
+1a5dc090-88db7980,snowy,city street,daytime,1280,720,72,53,19,14,6,8,False,True,True,4,0,0,4
+a3571c65-f3132896,rainy,city street,night,1280,720,43,36,7,28,13,15,True,False,False,9,0,4,2
+40a183aa-e738bb2c,partly cloudy,highway,daytime,1280,720,40,20,20,14,6,8,False,True,True,1,0,1,6
+21f31923-8571ecf4,undefined,city street,daytime,1280,720,41,32,9,14,6,8,True,False,True,2,0,0,6
+4e1049b1-be7e0e28,clear,city street,night,1280,720,12,4,8,0,0,0,False,False,False,0,0,0,0
+49d72653-27a949d2,clear,highway,daytime,1280,720,25,12,13,12,12,0,True,True,False,0,0,0,0
+08ffb626-fa887664,undefined,city street,daytime,1280,720,33,24,9,7,7,0,False,False,False,0,0,0,0
+972ab398-fa124242,rainy,city street,night,1280,720,11,6,5,2,1,1,True,False,False,0,0,1,0
+24a3e599-177d2040,snowy,city street,night,1280,720,33,25,8,12,7,5,False,False,False,4,0,0,1
+076be2ba-1bae6513,clear,city street,daytime,1280,720,25,23,2,0,0,0,False,False,False,0,0,0,0
+38ccfabc-a5af8848,snowy,city street,daytime,1280,720,24,19,5,8,4,4,False,False,True,0,0,2,2
+35a730c4-e0937e9f,clear,city street,night,1280,720,9,4,5,0,0,0,False,False,False,0,0,0,0
+3d156350-2c801abc,clear,city street,night,1280,720,27,21,6,7,4,3,False,False,True,0,0,3,0
+6e78348b-f26d1ae2,clear,city street,night,1280,720,19,13,6,10,2,8,False,False,False,3,0,2,3
+afb49df5-2500c73e,clear,city street,daytime,1280,720,34,30,4,9,4,5,False,False,True,0,0,2,3
+02a26ce5-597cae3f,clear,highway,daytime,1280,720,31,22,9,4,4,0,False,False,True,0,0,0,0
+2de503e2-b6b4d15b,clear,residential,night,1280,720,25,24,1,2,2,0,False,False,False,0,0,0,0
+16fa70cc-eb8746a0,undefined,city street,dawn/dusk,1280,720,30,22,8,11,6,5,True,False,True,2,1,0,2
+1f156136-43472e43,undefined,city street,daytime,1280,720,49,37,12,16,9,7,True,False,True,5,0,0,2
+2bbe0227-ea364de2,undefined,city street,daytime,1280,720,17,11,6,3,1,2,False,True,True,0,0,0,2
+62cc93ce-dc467e02,clear,highway,night,1280,720,28,14,14,7,2,5,True,True,True,2,2,1,0
+7660edb0-2589a638,snowy,highway,daytime,1280,720,26,15,11,1,1,0,True,False,False,0,0,0,0
+622af22a-a98ff126,overcast,city street,daytime,1280,720,14,11,3,1,1,0,False,False,True,0,0,0,0
+1e00fed5-dfdf673d,clear,city street,night,1280,720,40,25,15,13,7,6,False,True,True,1,0,4,1
+65a435cf-70840648,clear,city street,night,1280,720,37,26,11,17,9,8,False,False,True,0,0,8,0
+1098a009-7db94918,undefined,city street,daytime,1280,720,27,22,5,11,5,6,False,True,True,0,0,3,3
+157c2b67-428b6e3a,clear,city street,daytime,1280,720,22,19,3,0,0,0,False,False,False,0,0,0,0
+04f42daf-79929978,clear,residential,daytime,1280,720,41,21,20,3,3,0,False,True,False,0,0,0,0
+223046e4-c0fff9d8,clear,city street,night,1280,720,43,30,13,20,6,14,True,False,True,4,0,8,2
+0990f543-98170735,clear,highway,night,1280,720,30,11,19,3,3,0,False,False,False,0,0,0,0
+39960725-4488360e,snowy,residential,daytime,1280,720,6,5,1,3,3,0,False,False,False,0,0,0,0
+49d72653-917a788e,clear,highway,daytime,1280,720,39,24,15,9,9,0,False,False,False,0,0,0,0
+06fb4e9c-42c4177c,rainy,highway,daytime,1280,720,39,25,14,11,1,10,True,True,False,4,0,2,4
+61708b9f-90bc8f65,partly cloudy,highway,daytime,1280,720,30,18,12,14,14,0,True,True,True,0,0,0,0
+1017ef7a-779980f1,undefined,city street,daytime,1280,720,22,17,5,6,1,5,False,False,True,0,3,0,2
+fdd39703-14b52329,clear,city street,night,1280,720,4,4,0,1,0,1,False,False,True,1,0,0,0
+57eb5bc1-8a5a605c,snowy,highway,daytime,1280,720,15,8,7,0,0,0,False,False,False,0,0,0,0
+87051b8c-9c28152b,clear,highway,night,1280,720,26,18,8,7,7,0,True,False,True,0,0,0,0
+595027c1-2d5913a9,clear,city street,daytime,1280,720,36,24,12,11,4,7,False,False,False,1,0,1,5
+0fe16023-e23e01d0,clear,city street,daytime,1280,720,28,17,11,5,0,5,False,False,False,0,0,3,2
+6f950c73-5d0dbca2,clear,city street,daytime,1280,720,25,20,5,2,2,0,False,False,False,0,0,0,0
+79d1609c-b0516f7a,clear,city street,night,1280,720,51,40,11,11,4,7,False,False,False,1,0,6,0
+5967c819-cd368de1,rainy,city street,dawn/dusk,1280,720,57,45,12,15,6,9,False,False,True,8,0,0,1
+191b5bbf-bf2fa09e,clear,city street,night,1280,720,19,8,11,2,1,1,False,False,True,0,0,1,0
+46dd9b4b-ce0273c5,snowy,residential,daytime,1280,720,23,19,4,6,6,0,True,False,True,0,0,0,0
+21206bdc-f17b3aaf,clear,city street,night,1280,720,17,13,4,9,9,0,True,False,False,0,0,0,0
+2614595d-113a1c6f,clear,highway,daytime,1280,720,32,16,16,6,6,0,True,False,True,0,0,0,0
+2e4d70b1-0a2c5e44,overcast,residential,daytime,1280,720,45,36,9,15,5,10,True,False,True,0,0,4,6
+8da410db-71fd45f3,overcast,city street,daytime,1280,720,52,35,17,17,10,7,True,False,True,0,0,3,4
+2f1b141a-f1874515,rainy,city street,daytime,1280,720,38,27,11,9,5,4,False,False,True,0,0,2,2
+813546da-2abfab4b,partly cloudy,highway,daytime,1280,720,20,5,15,0,0,0,False,False,False,0,0,0,0
+13f7f0bf-92bf4327,clear,highway,night,1280,720,23,10,13,2,2,0,True,False,False,0,0,0,0
+3a2593a8-f5585985,clear,highway,night,1280,720,14,5,9,0,0,0,False,False,False,0,0,0,0
+3c49cbfa-a49e4506,clear,highway,night,1280,720,17,6,11,2,1,1,False,False,False,0,0,1,0
+3723f465-42573605,clear,city street,daytime,1280,720,13,8,5,4,4,0,False,False,True,0,0,0,0
+1b1c89ca-95f13f1c,rainy,city street,dawn/dusk,1280,720,47,34,13,16,6,10,False,False,True,4,0,4,2
+68852764-b0c9b5d2,undefined,city street,daytime,1280,720,8,6,2,0,0,0,False,False,False,0,0,0,0
+416cd9fc-fc6b9f26,clear,residential,daytime,1280,720,25,11,14,0,0,0,False,False,False,0,0,0,0
+5a75faa7-a74a4cde,undefined,city street,daytime,1280,720,14,11,3,5,4,1,False,False,True,1,0,0,0
+98b161f6-fd403535,clear,city street,daytime,1280,720,39,31,8,13,6,7,True,False,True,0,0,2,5
+75a23bac-d6cae703,overcast,city street,daytime,1280,720,37,19,18,4,4,0,False,False,False,0,0,0,0
+6f081101-2ef9965e,clear,residential,dawn/dusk,1280,720,23,18,5,0,0,0,False,False,False,0,0,0,0
+64505e49-7f90d85c,clear,city street,night,1280,720,32,24,8,11,5,6,False,False,False,1,0,5,0
+3aca796c-c4330ccc,snowy,city street,dawn/dusk,1280,720,15,10,5,0,0,0,False,False,False,0,0,0,0
+994097f3-c4800c79,undefined,city street,daytime,1280,720,43,21,22,15,5,10,True,False,True,3,0,0,7
+63cbccdf-3c91a311,clear,highway,night,1280,720,33,16,17,4,4,0,False,False,True,0,0,0,0
+50e18e8b-3095c9e1,clear,city street,daytime,1280,720,40,27,13,12,8,4,True,False,True,0,0,3,1
+7cbf5cb0-4ed77571,partly cloudy,highway,daytime,1280,720,53,27,26,1,1,0,False,False,False,0,0,0,0
+6ee87837-f2a9fa02,overcast,city street,daytime,1280,720,32,21,11,9,5,4,True,True,True,0,0,2,2
+46b59de2-a7f9e986,rainy,highway,daytime,1280,720,24,13,11,0,0,0,False,False,False,0,0,0,0
+94783e9a-3b1780dc,clear,highway,night,1280,720,19,7,12,2,0,2,False,False,True,0,2,0,0
+42958e9f-c3ec24f4,clear,city street,night,1280,720,18,16,2,0,0,0,False,False,False,0,0,0,0
+3bef965d-a8864b9f,overcast,highway,daytime,1280,720,20,13,7,12,10,2,True,False,False,1,0,1,0
+abf82c5d-e9aa47ba,rainy,city street,daytime,1280,720,60,40,20,20,7,13,True,True,True,0,0,2,11
+40fbb925-4d2aa267,undefined,highway,daytime,1280,720,27,23,4,0,0,0,False,False,False,0,0,0,0
+4558a1b0-0578d80f,clear,city street,daytime,1280,720,12,8,4,3,3,0,True,False,False,0,0,0,0
+080ab9ec-8b8c4867,rainy,city street,dawn/dusk,1280,720,20,19,1,7,4,3,False,True,True,0,0,3,0
+813a9f4c-056f4a5e,rainy,highway,daytime,1280,720,32,20,12,2,2,0,True,False,False,0,0,0,0
+8a601700-086f0af2,partly cloudy,highway,dawn/dusk,1280,720,35,24,11,12,5,7,False,True,True,2,0,0,5
+7c9b8dfe-e2bb3541,clear,highway,night,1280,720,19,7,12,2,2,0,False,False,False,0,0,0,0
+25b85436-3a0e059f,clear,city street,night,1280,720,17,14,3,4,2,2,False,True,True,0,0,1,1
+8c7a80b1-aecda545,clear,city street,daytime,1280,720,9,5,4,3,3,0,True,False,False,0,0,0,0
+14f395ef-57997e0f,overcast,highway,dawn/dusk,1280,720,13,11,2,3,3,0,True,False,False,0,0,0,0
+03bf498b-044cb72c,partly cloudy,highway,daytime,1280,720,23,11,12,4,4,0,True,False,False,0,0,0,0
+2b92915d-4e0f18b9,clear,city street,daytime,1280,720,43,29,14,13,7,6,True,True,True,0,0,3,3
+0798a3a8-5a64671d,snowy,city street,daytime,1280,720,19,18,1,4,1,3,False,False,True,2,0,0,1
+5827b33f-ba6b94ae,clear,city street,night,1280,720,28,17,11,4,3,1,False,False,False,0,0,1,0
+1f6c987d-75076c41,partly cloudy,residential,daytime,1280,720,24,18,6,2,2,0,True,False,False,0,0,0,0
+77f3e630-4d8a87f0,rainy,city street,daytime,1280,720,31,17,14,5,3,2,False,False,True,0,0,1,1
+3979fced-370f242f,clear,highway,night,1280,720,16,10,6,0,0,0,False,False,False,0,0,0,0
+2f26b25d-cda77968,snowy,city street,night,1280,720,8,6,2,0,0,0,False,False,False,0,0,0,0
+638f30e3-22473dba,partly cloudy,highway,daytime,1280,720,23,17,6,4,0,4,True,False,True,0,0,2,2
+21746749-e82853ad,undefined,highway,daytime,1280,720,12,7,5,5,5,0,True,False,False,0,0,0,0
+60e8eea8-e639adb5,clear,residential,daytime,1280,720,32,22,10,3,3,0,False,False,False,0,0,0,0
+3c2c2bd9-3294b138,clear,residential,daytime,1280,720,35,31,4,6,6,0,False,False,False,0,0,0,0
+10af4b8b-d876ce50,undefined,city street,daytime,1280,720,26,20,6,0,0,0,False,False,False,0,0,0,0
+27eceae3-f5134fcc,clear,residential,night,1280,720,17,16,1,3,1,2,False,False,True,0,0,2,0
+481a2466-cf9ad162,snowy,residential,night,1280,720,20,10,10,0,0,0,False,False,False,0,0,0,0
+5d879a64-212aa150,partly cloudy,residential,dawn/dusk,1280,720,21,19,2,2,2,0,False,False,False,0,0,0,0
+2f3cfce0-e722b516,clear,city street,night,1280,720,5,4,1,2,0,2,False,False,False,1,0,1,0
+94be2873-74bdbfae,undefined,city street,daytime,1280,720,31,27,4,8,8,0,True,True,True,0,0,0,0
+1063fb2a-03a8d6d4,undefined,parking lot,undefined,1280,720,9,7,2,0,0,0,False,False,False,0,0,0,0
+a423045f-2b965c6f,clear,city street,night,1280,720,9,4,5,2,2,0,False,False,False,0,0,0,0
+9b0da8e1-3158fdea,clear,residential,daytime,1280,720,16,11,5,0,0,0,False,False,False,0,0,0,0
+7a383250-88902ac6,undefined,city street,daytime,1280,720,44,27,17,12,8,4,True,False,True,2,0,1,1
+17ed74cb-8d3df3ea,clear,city street,night,1280,720,26,20,6,0,0,0,False,False,False,0,0,0,0
+2895b5bc-3610efd7,clear,city street,night,1280,720,19,4,15,0,0,0,False,False,False,0,0,0,0
+b0a681c2-0831beec,clear,city street,night,1280,720,43,32,11,13,6,7,False,False,True,2,0,4,1
+1bcce18b-00b570f9,clear,city street,night,1280,720,40,28,12,7,6,1,True,False,True,1,0,0,0
+89b9f267-bfe79685,overcast,city street,daytime,1280,720,38,31,7,12,12,0,True,False,False,0,0,0,0
+1517f29b-0c1f7f43,undefined,city street,daytime,1280,720,40,31,9,7,2,5,False,False,True,0,0,2,3
+8f12b06a-5599b607,overcast,city street,dawn/dusk,1280,720,42,25,17,9,4,5,False,False,True,4,0,0,1
+1a8d12f7-82d13d55,clear,residential,daytime,1280,720,40,25,15,10,10,0,False,False,True,0,0,0,0
+18183b62-ca62dcd1,clear,city street,night,1280,720,19,11,8,3,2,1,False,False,False,1,0,0,0
+468ccdc9-102575b6,clear,city street,night,1280,720,26,20,6,11,11,0,True,True,True,0,0,0,0
+a2f658c3-0e6e42b4,clear,undefined,night,1280,720,11,11,0,3,1,2,False,True,False,0,0,2,0
+829e346a-71eb61d1,clear,city street,night,1280,720,31,20,11,9,4,5,False,False,True,1,0,4,0
+ac36fe79-9e00947e,partly cloudy,city street,daytime,1280,720,17,12,5,0,0,0,False,False,False,0,0,0,0
+0d4d66bf-2d327e43,clear,city street,dawn/dusk,1280,720,34,22,12,12,2,10,True,True,True,8,0,0,2
+8d02fdcf-432bcd0f,partly cloudy,city street,daytime,1280,720,41,31,10,1,1,0,True,False,False,0,0,0,0
+1ab50992-a88d0328,clear,residential,night,1280,720,29,19,10,9,2,7,False,False,False,1,0,5,1
+467b6c54-e35e1eac,clear,city street,night,1280,720,34,21,13,14,8,6,False,False,True,1,0,4,1
+53486754-3cfe1a1d,overcast,city street,daytime,1280,720,20,14,6,4,1,3,False,False,True,0,0,0,3
+1f30367d-35271bd5,partly cloudy,highway,dawn/dusk,1280,720,15,6,9,1,1,0,True,False,False,0,0,0,0
+3eb34943-fac1c246,undefined,city street,night,1280,720,26,15,11,3,1,2,False,False,False,0,0,2,0
+5a8ec4cf-f92dbb48,undefined,city street,daytime,1280,720,28,21,7,4,3,1,False,False,True,0,0,1,0
+8585f7d8-1f53102d,snowy,highway,daytime,1280,720,22,12,10,4,1,3,False,False,True,0,0,3,0
+8472191f-986ee4c5,rainy,city street,night,1280,720,21,20,1,8,3,5,False,False,True,0,0,5,0
+9f53a35d-46230aca,undefined,city street,daytime,1280,720,18,14,4,0,0,0,False,False,False,0,0,0,0
+20cfbf81-f274348c,clear,highway,night,1280,720,23,8,15,1,1,0,False,False,False,0,0,0,0
+3fb19921-67f13ecc,clear,highway,daytime,1280,720,31,22,9,3,3,0,True,False,False,0,0,0,0
+7d5d06ca-bfdb9e7f,undefined,highway,night,1280,720,14,7,7,0,0,0,False,False,False,0,0,0,0
+9e7a3956-ef60caa0,clear,city street,night,1280,720,47,37,10,5,4,1,False,True,True,0,0,1,0
+05e61937-4d3e06ad,clear,highway,night,1280,720,28,22,6,3,1,2,False,False,False,0,0,2,0
+648bba91-146438a0,partly cloudy,city street,daytime,1280,720,54,29,25,13,7,6,True,False,False,0,0,3,3
+774dd224-8107b1a3,snowy,city street,daytime,1280,720,31,21,10,3,3,0,False,False,False,0,0,0,0
+521a1510-25af5168,clear,highway,daytime,1280,720,21,8,13,0,0,0,False,False,False,0,0,0,0
+3147bc43-e98fe065,undefined,residential,daytime,1280,720,13,6,7,0,0,0,False,False,False,0,0,0,0
+027a8c42-c52d5d6b,rainy,city street,night,1280,720,33,30,3,10,3,7,False,False,True,3,0,4,0
+813ac0fa-296a3536,clear,city street,daytime,1280,720,45,34,11,10,4,6,True,False,True,0,0,2,4
+87e1f28f-c3abcb07,undefined,city street,daytime,1280,720,10,8,2,3,0,3,False,False,True,0,0,2,1
+2155f351-73ced60c,rainy,city street,daytime,1280,720,7,4,3,2,0,2,True,False,False,1,0,0,1
+29c9ca26-77ef4b1a,clear,highway,daytime,1280,720,31,22,9,6,6,0,True,True,False,0,0,0,0
+61d75bfb-bd17cf20,clear,city street,night,1280,720,14,8,6,4,1,3,False,False,True,0,0,3,0
+664e2bc4-518eabcd,rainy,city street,daytime,1280,720,40,26,14,15,8,7,True,False,False,1,0,3,3
+7a67e12a-6cb6fa06,overcast,city street,daytime,1280,720,17,13,4,7,5,2,True,True,False,0,0,0,2
+89861992-605ee96b,clear,city street,daytime,1280,720,29,26,3,7,5,2,True,True,False,0,0,0,2
+1d092676-14cb792f,undefined,parking lot,daytime,1280,720,6,4,2,0,0,0,False,False,False,0,0,0,0
+a0c6d26d-03579a1f,undefined,city street,dawn/dusk,1280,720,25,19,6,0,0,0,False,False,False,0,0,0,0
+8db3acf9-5561b535,clear,highway,night,1280,720,21,10,11,3,3,0,False,False,False,0,0,0,0
+2c3ba530-6d18d631,clear,city street,daytime,1280,720,32,26,6,17,8,9,False,True,True,1,0,4,4
+9e022a63-121c2fbd,clear,highway,night,1280,720,17,9,8,4,0,4,False,False,True,2,0,2,0
+59c59c19-963f6dd0,clear,highway,night,1280,720,21,15,6,9,9,0,False,False,True,0,0,0,0
+81ebb4a9-01a6aaeb,undefined,residential,daytime,1280,720,17,8,9,1,0,1,False,False,False,0,0,1,0
+56418a24-6e11b5a9,snowy,city street,night,1280,720,15,13,2,5,1,4,False,False,True,0,1,1,2
+5ff99bb6-dd49f03c,clear,city street,night,1280,720,17,15,2,1,1,0,False,False,False,0,0,0,0
+3aa08fa1-b6ede713,clear,city street,night,1280,720,22,9,13,7,1,6,False,False,True,3,2,0,1
+1819e8c8-de216231,undefined,city street,daytime,1280,720,21,19,2,7,4,3,True,False,False,0,0,1,2
+851cddc7-b5c6aad2,clear,city street,night,1280,720,16,11,5,1,1,0,False,False,False,0,0,0,0
+05fa6494-51df9bd3,snowy,residential,daytime,1280,720,19,13,6,2,2,0,False,True,False,0,0,0,0
+10f92555-e2e18af8,clear,city street,night,1280,720,13,5,8,2,1,1,True,False,False,0,0,1,0
+7cbd325d-50e474f7,snowy,highway,night,1280,720,27,17,10,4,4,0,False,False,False,0,0,0,0
+07db090a-afa52289,clear,city street,night,1280,720,17,13,4,1,1,0,False,False,False,0,0,0,0
+4147adc8-0ad491a4,undefined,city street,daytime,1280,720,53,43,10,8,5,3,False,True,False,2,0,0,1
+168d16ae-3aa42c4a,snowy,residential,night,1280,720,13,12,1,1,0,1,False,False,False,0,0,1,0
+9ee2253f-cd659564,clear,city street,daytime,1280,720,22,19,3,9,9,0,False,False,True,0,0,0,0
+aa94c316-cf8825cd,clear,residential,daytime,1280,720,32,21,11,0,0,0,False,False,False,0,0,0,0
+5144b106-59b6f6d9,clear,city street,night,1280,720,39,19,20,14,3,11,False,False,True,2,0,8,1
+60c678e7-31cf8e6a,clear,highway,daytime,1280,720,30,6,24,2,1,1,False,False,False,1,0,0,0
+55499f6b-d0b0ac81,clear,highway,night,1280,720,24,16,8,1,1,0,False,False,False,0,0,0,0
+06ce2498-6092fb43,overcast,city street,daytime,1280,720,63,38,25,10,2,8,False,False,True,7,0,0,1
+3ee6752c-37cf02dc,partly cloudy,highway,daytime,1280,720,12,4,8,2,2,0,True,False,True,0,0,0,0
+647e8e1c-7c2140d4,snowy,highway,night,1280,720,19,17,2,9,4,5,True,False,True,0,0,5,0
+0fa7d0a7-6a337420,clear,highway,daytime,1280,720,17,8,9,0,0,0,False,False,False,0,0,0,0
+2ddbd226-117d7f38,overcast,highway,daytime,1280,720,48,24,24,9,5,4,False,False,True,0,0,4,0
+4e489c49-4c6b8206,clear,city street,night,1280,720,16,14,2,2,0,2,False,False,False,0,0,2,0
+a5c7ca79-aa1c8148,partly cloudy,city street,daytime,1280,720,43,31,12,5,1,4,False,False,True,0,0,1,3
+80e09f7b-f1f58c82,overcast,city street,daytime,1280,720,40,26,14,9,4,5,False,False,False,0,0,3,2
+69aed402-3705114b,clear,undefined,night,1280,720,13,5,8,1,1,0,False,False,False,0,0,0,0
+2c9bd44c-cc7c1f31,partly cloudy,highway,dawn/dusk,1280,720,20,16,4,5,5,0,False,False,True,0,0,0,0
+7766e2c4-818a12d1,clear,highway,night,1280,720,27,15,12,7,7,0,False,False,True,0,0,0,0
+14df900d-b8d58747,clear,city street,daytime,1280,720,21,9,12,1,1,0,False,True,False,0,0,0,0
+76e80c26-2f48746d,partly cloudy,residential,daytime,1280,720,22,12,10,1,0,1,False,False,False,0,0,0,1
+2d5be3d1-d1ff5994,clear,city street,night,1280,720,14,5,9,5,3,2,False,False,False,2,0,0,0
+2954b457-c58e8b45,clear,city street,daytime,1280,720,22,18,4,0,0,0,False,False,False,0,0,0,0
+62be8ea4-a8754154,overcast,city street,daytime,1280,720,39,33,6,21,13,8,True,True,True,0,0,6,2
+3660d219-72063049,clear,city street,daytime,1280,720,72,54,18,16,10,6,False,True,False,3,0,0,3
+0e4e23dd-3a4d3d72,clear,city street,night,1280,720,27,20,7,9,3,6,False,False,False,4,0,2,0
+2d1a096a-87a2f809,overcast,highway,daytime,1280,720,20,10,10,3,3,0,True,False,False,0,0,0,0
+ac9be774-980d3d79,rainy,city street,daytime,1280,720,19,17,2,1,0,1,False,False,True,0,0,1,0
+826130ff-7e1fd224,overcast,city street,daytime,1280,720,38,33,5,17,8,9,False,False,True,0,0,2,7
+a65d7ec1-32b69829,snowy,city street,daytime,1280,720,39,34,5,27,16,11,True,False,True,6,0,0,5
+9bd19b4a-f8101944,undefined,city street,daytime,1280,720,27,16,11,8,4,4,False,True,True,0,0,2,2
+4b0e01fb-7cbf8f9a,partly cloudy,highway,daytime,1280,720,39,28,11,11,11,0,True,False,True,0,0,0,0
+3a34db71-9ebd5289,clear,city street,night,1280,720,31,13,18,5,5,0,False,False,False,0,0,0,0
+0f75e5c5-3cd15c6e,clear,highway,night,1280,720,28,23,5,10,4,6,True,False,True,2,0,3,1
+0dc6575e-6450f9d6,snowy,highway,daytime,1280,720,23,10,13,3,3,0,False,False,False,0,0,0,0
+85dc764c-897f92ce,clear,city street,daytime,1280,720,21,13,8,2,2,0,False,False,True,0,0,0,0
+b03c15d6-882278dc,clear,city street,night,1280,720,38,24,14,11,6,5,False,False,True,1,0,4,0
+4e37abda-96ded075,rainy,highway,night,1280,720,36,21,15,9,0,9,False,False,False,3,0,2,4
+a5a340f9-6cc4da84,clear,highway,daytime,1280,720,38,28,10,14,14,0,True,False,True,0,0,0,0
+a9c2e4e5-7e64ce86,snowy,city street,night,1280,720,24,21,3,1,1,0,False,False,False,0,0,0,0
+60721d7b-f854ec5c,clear,highway,daytime,1280,720,31,18,13,0,0,0,False,False,False,0,0,0,0
+51a79f7c-08d11708,partly cloudy,highway,daytime,1280,720,19,11,8,3,3,0,False,False,True,0,0,0,0
+82fee9ea-de0cd356,clear,residential,night,1280,720,25,17,8,2,2,0,False,False,False,0,0,0,0
+59c9d52d-5a9a43d6,overcast,city street,dawn/dusk,1280,720,33,23,10,7,2,5,False,False,False,2,0,3,0
+487d6810-e51c1695,clear,residential,daytime,1280,720,13,9,4,0,0,0,False,False,False,0,0,0,0
+93b93cd9-25ac23b2,clear,city street,daytime,1280,720,42,33,9,7,3,4,False,False,True,0,0,4,0
+006a7635-c42f9f97,overcast,city street,daytime,1280,720,24,17,7,5,1,4,True,False,True,0,1,0,3
+aff1c8f4-70832ee9,clear,undefined,night,1280,720,53,44,9,19,11,8,False,False,True,1,0,5,2
+6d0b8fad-7ecbb35e,clear,city street,night,1280,720,14,5,9,1,1,0,False,False,False,0,0,0,0
+a850d055-10de3df5,clear,city street,night,1280,720,23,19,4,7,3,4,False,False,True,1,0,3,0
+202d68d3-3ae2300e,clear,city street,night,1280,720,33,18,15,5,0,5,False,True,False,2,0,3,0
+925b0130-fd148eb1,clear,residential,daytime,1280,720,27,18,9,2,2,0,False,False,False,0,0,0,0
+336ebb9c-5acb176b,clear,city street,dawn/dusk,1280,720,26,19,7,3,3,0,False,False,True,0,0,0,0
+abad400d-627345ea,clear,residential,night,1280,720,21,16,5,4,1,3,False,False,True,1,0,2,0
+b102f200-7ce82b1f,partly cloudy,highway,daytime,1280,720,20,8,12,0,0,0,False,False,False,0,0,0,0
+8ee3dfe8-564c4b46,undefined,residential,daytime,1280,720,22,16,6,6,6,0,False,False,True,0,0,0,0
+2f805c04-a20c2fd6,partly cloudy,city street,dawn/dusk,1280,720,45,34,11,8,6,2,True,False,True,0,0,1,1
+17ffc2bb-69e98c8c,snowy,highway,daytime,1280,720,34,21,13,4,4,0,True,False,False,0,0,0,0
+5f1006e5-47c8e024,clear,highway,night,1280,720,16,7,9,1,1,0,False,False,False,0,0,0,0
+2a7e1ff7-375a2cfe,partly cloudy,city street,daytime,1280,720,35,20,15,8,4,4,True,False,False,0,0,2,2
+8c4f4ee6-10bf1bb0,clear,city street,night,1280,720,34,23,11,20,15,5,True,False,True,0,0,5,0
+364b9828-cd2be32f,clear,residential,daytime,1280,720,28,25,3,0,0,0,False,False,False,0,0,0,0
+a71e3eb6-4582f201,snowy,residential,daytime,1280,720,17,15,2,2,2,0,False,False,True,0,0,0,0
+896b4e9f-45a7893d,clear,city street,night,1280,720,53,33,20,16,2,14,False,True,False,12,0,0,2
+3f7ee13f-c8d31c29,undefined,city street,daytime,1280,720,11,7,4,0,0,0,False,False,False,0,0,0,0
+48b1bd4b-8aa114d0,clear,highway,dawn/dusk,1280,720,19,12,7,0,0,0,False,False,False,0,0,0,0
+6e0fa2a3-a8f2be95,overcast,residential,daytime,1280,720,10,7,3,0,0,0,False,False,False,0,0,0,0
+593d17e0-804e44e2,clear,city street,daytime,1280,720,23,22,1,2,2,0,False,False,False,0,0,0,0
+79b32938-80061bc4,clear,undefined,night,1280,720,14,9,5,3,1,2,False,False,False,0,0,2,0
+286cc2d1-5b281765,clear,city street,dawn/dusk,1280,720,39,25,14,9,1,8,False,True,True,1,0,4,3
+9f99d91c-d65e639b,snowy,city street,night,1280,720,27,21,6,10,4,6,True,False,True,5,0,1,0
+11c5dbd4-809028f4,rainy,city street,night,1280,720,44,37,7,13,5,8,True,False,True,1,1,5,1
+2726b371-6f9d5966,clear,city street,daytime,1280,720,31,20,11,11,6,5,True,True,False,0,0,1,4
+09ac21d6-eefa8ed0,clear,highway,daytime,1280,720,14,5,9,4,4,0,False,False,True,0,0,0,0
+2e4632b7-422a6e60,overcast,city street,daytime,1280,720,46,31,15,20,9,11,True,False,True,3,0,0,8
+36824007-fc17e83d,clear,city street,night,1280,720,29,21,8,10,3,7,False,False,False,4,0,3,0
+9e9bbeed-59d4a54b,clear,city street,daytime,1280,720,28,20,8,7,0,7,False,False,True,0,0,2,5
+36ae0153-13af7348,overcast,city street,daytime,1280,720,51,38,13,24,13,11,False,False,False,1,0,5,5
+37c6f422-f8b290e2,undefined,residential,daytime,1280,720,16,14,2,0,0,0,False,False,False,0,0,0,0
+20931284-54468367,clear,highway,daytime,1280,720,33,20,13,4,4,0,True,True,False,0,0,0,0
+346a266d-f8cc797d,clear,city street,night,1280,720,37,28,9,13,7,6,False,False,True,1,0,5,0
+77d72c41-5e8ca52a,snowy,city street,night,1280,720,7,6,1,0,0,0,False,False,False,0,0,0,0
+73266345-4b44d514,clear,city street,night,1280,720,45,25,20,7,3,4,False,False,True,0,0,4,0
+21c2a1fd-944077ef,rainy,city street,daytime,1280,720,33,25,8,10,5,5,False,False,True,1,0,3,1
+0b0b93b3-5bb0e887,snowy,city street,daytime,1280,720,12,11,1,3,0,3,False,False,True,0,0,2,1
+7e354aa6-fceac3ac,clear,highway,daytime,1280,720,12,5,7,2,2,0,False,False,False,0,0,0,0
+a9bde96c-bcf2d775,undefined,city street,daytime,1280,720,32,15,17,6,4,2,False,False,False,1,0,1,0
+2397e824-3b3abc1f,clear,residential,daytime,1280,720,29,17,12,1,1,0,False,False,False,0,0,0,0
+2edb863b-fd4f0314,clear,highway,night,1280,720,20,9,11,0,0,0,False,False,False,0,0,0,0
+74289d3e-54475a49,overcast,highway,daytime,1280,720,46,28,18,5,5,0,True,False,True,0,0,0,0
+58b239db-0af1c78c,clear,highway,night,1280,720,51,33,18,23,10,13,True,False,True,2,0,9,2
+91553e0e-1ee5e186,rainy,city street,daytime,1280,720,14,11,3,5,1,4,False,False,False,1,0,1,2
+48f50032-73f5ae75,partly cloudy,city street,daytime,1280,720,45,25,20,12,8,4,False,False,True,4,0,0,0
+41133733-f2c4f498,clear,city street,daytime,1280,720,11,6,5,0,0,0,False,False,False,0,0,0,0
+614fd0a8-75963d79,snowy,city street,daytime,1280,720,29,26,3,12,8,4,False,False,True,0,2,0,2
+6d52af37-1c46ea42,rainy,city street,daytime,1280,720,30,18,12,4,2,2,False,False,True,0,0,2,0
+844c91e0-2afc20af,clear,highway,night,1280,720,20,9,11,2,2,0,False,False,False,0,0,0,0
+921f6518-683cbad4,overcast,city street,daytime,1280,720,71,44,27,18,9,9,True,False,False,1,0,3,5
+3961fe01-4525f3ba,partly cloudy,residential,daytime,1280,720,19,17,2,1,1,0,False,False,False,0,0,0,0
+3c2cdbc2-cd8e4931,overcast,highway,daytime,1280,720,19,10,9,1,1,0,True,False,False,0,0,0,0
+2474cb06-ee0169a5,overcast,highway,daytime,1280,720,18,8,10,5,5,0,False,True,False,0,0,0,0
+924c642e-6374bdee,overcast,highway,daytime,1280,720,33,19,14,14,10,4,True,False,True,0,0,2,2
+901ea0c0-8605d49d,clear,highway,daytime,1280,720,12,4,8,1,1,0,False,False,False,0,0,0,0
+1e6a6965-4b3d39fe,overcast,residential,daytime,1280,720,17,15,2,1,1,0,False,False,False,0,0,0,0
+02995fe4-158af38b,clear,city street,night,1280,720,17,13,4,0,0,0,False,False,False,0,0,0,0
+2e16d436-ce4fce25,undefined,highway,daytime,1280,720,26,13,13,12,5,7,True,False,True,3,0,2,2
+29da0a66-be26abfa,rainy,highway,dawn/dusk,1280,720,24,19,5,8,1,7,False,False,True,1,0,2,4
+5a707cae-0e32f08e,snowy,city street,night,1280,720,25,11,14,6,4,2,False,False,False,0,0,2,0
+50ccf24c-8152a6f7,snowy,city street,daytime,1280,720,49,43,6,13,3,10,False,False,True,5,0,0,5
+284a6663-3acae3bb,partly cloudy,city street,daytime,1280,720,26,21,5,6,2,4,True,True,True,1,0,1,2
+8bf67cb6-6cd9b942,undefined,highway,daytime,1280,720,47,36,11,20,6,14,False,False,True,0,0,4,10
+56893e8f-4e7db86c,overcast,highway,dawn/dusk,1280,720,29,19,10,11,11,0,True,False,True,0,0,0,0
+724b5120-d2f1dc72,undefined,city street,daytime,1280,720,22,16,6,7,3,4,True,False,True,0,0,3,1
+66effbb9-93f2aede,clear,city street,daytime,1280,720,12,4,8,2,2,0,False,False,False,0,0,0,0
+1c71bc03-da381c25,clear,city street,night,1280,720,20,14,6,4,3,1,False,False,False,1,0,0,0
+1eaa4848-d77c3afe,overcast,residential,daytime,1280,720,18,16,2,2,2,0,False,False,False,0,0,0,0

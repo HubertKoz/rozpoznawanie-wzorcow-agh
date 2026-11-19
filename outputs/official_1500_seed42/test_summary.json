@@ -1,0 +1,28 @@
+{
+  "matched_lights": 21,
+  "color_accuracy": 0.7619047619047619,
+  "test_images": 300,
+  "metadata": {
+    "manifest_sha256": "8c26a9f3f64d011f1e6a5712b593f6076e56927d598783d36617e8ed2c21cf1b",
+    "params": {
+      "saturation": 100,
+      "value": 65,
+      "sign_min_area": 70,
+      "light_min_area": 25,
+      "score_threshold": 0.38,
+      "max_y": 0.85
+    },
+    "code_sha256": "38b89df6c8623b14a5fdb35a77e72bc8c18d714c58d40208a06309923d80d569",
+    "coordinates": "original image pixels xyxy",
+    "detection_classes": [
+      "traffic_sign",
+      "traffic_light"
+    ],
+    "color_classes": [
+      "red",
+      "yellow",
+      "green",
+      "unknown"
+    ]
+  }
+}

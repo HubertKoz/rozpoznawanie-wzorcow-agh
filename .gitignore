@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.zip
+bdd100k_images_100k/
+bdd100k_labels/
+ai/

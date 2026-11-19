@@ -1,0 +1,3 @@
+class,covered_GT,all_GT,proposal_recall
+traffic_sign,105,474,0.22151898734177214
+traffic_light,70,413,0.1694915254237288

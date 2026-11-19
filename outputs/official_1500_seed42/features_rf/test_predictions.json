@@ -1,0 +1,10161 @@
+{
+  "metadata": {
+    "manifest_sha256": "8c26a9f3f64d011f1e6a5712b593f6076e56927d598783d36617e8ed2c21cf1b",
+    "variant": "without_texture",
+    "columns": [
+      "geometry.width",
+      "geometry.height",
+      "geometry.aspect",
+      "geometry.area",
+      "geometry.center_x",
+      "geometry.center_y",
+      "color.h_hist_00",
+      "color.h_hist_01",
+      "color.h_hist_02",
+      "color.h_hist_03",
+      "color.h_hist_04",
+      "color.h_hist_05",
+      "color.h_hist_06",
+      "color.h_hist_07",
+      "color.h_hist_08",
+      "color.h_hist_09",
+      "color.h_hist_10",
+      "color.h_hist_11",
+      "color.s_hist_00",
+      "color.s_hist_01",
+      "color.s_hist_02",
+      "color.s_hist_03",
+      "color.s_hist_04",
+      "color.s_hist_05",
+      "color.s_hist_06",
+      "color.s_hist_07",
+      "color.v_hist_00",
+      "color.v_hist_01",
+      "color.v_hist_02",
+      "color.v_hist_03",
+      "color.v_hist_04",
+      "color.v_hist_05",
+      "color.v_hist_06",
+      "color.v_hist_07",
+      "color.fraction_red",
+      "color.fraction_yellow",
+      "color.fraction_green",
+      "color.fraction_blue",
+      "color.fraction_white",
+      "color.fraction_dark",
+      "edges.orientation_00",
+      "edges.orientation_01",
+      "edges.orientation_02",
+      "edges.orientation_03",
+      "edges.orientation_04",
+      "edges.orientation_05",
+      "edges.orientation_06",
+      "edges.orientation_07",
+      "edges.orientation_08",
+      "edges.density",
+      "edges.magnitude",
+      "hog.bin_000",
+      "hog.bin_001",
+      "hog.bin_002",
+      "hog.bin_003",
+      "hog.bin_004",
+      "hog.bin_005",
+      "hog.bin_006",
+      "hog.bin_007",
+      "hog.bin_008",
+      "hog.bin_009",
+      "hog.bin_010",
+      "hog.bin_011",
+      "hog.bin_012",
+      "hog.bin_013",
+      "hog.bin_014",
+      "hog.bin_015",
+      "hog.bin_016",
+      "hog.bin_017",
+      "hog.bin_018",
+      "hog.bin_019",
+      "hog.bin_020",
+      "hog.bin_021",
+      "hog.bin_022",
+      "hog.bin_023",
+      "hog.bin_024",
+      "hog.bin_025",
+      "hog.bin_026",
+      "hog.bin_027",
+      "hog.bin_028",
+      "hog.bin_029",
+      "hog.bin_030",
+      "hog.bin_031",
+      "hog.bin_032",
+      "hog.bin_033",
+      "hog.bin_034",
+      "hog.bin_035",
+      "hog.bin_036",
+      "hog.bin_037",
+      "hog.bin_038",
+      "hog.bin_039",
+      "hog.bin_040",
+      "hog.bin_041",
+      "hog.bin_042",
+      "hog.bin_043",
+      "hog.bin_044",
+      "hog.bin_045",
+      "hog.bin_046",
+      "hog.bin_047",
+      "hog.bin_048",
+      "hog.bin_049",
+      "hog.bin_050",
+      "hog.bin_051",
+      "hog.bin_052",
+      "hog.bin_053",
+      "hog.bin_054",
+      "hog.bin_055",
+      "hog.bin_056",
+      "hog.bin_057",
+      "hog.bin_058",
+      "hog.bin_059",
+      "hog.bin_060",
+      "hog.bin_061",
+      "hog.bin_062",
+      "hog.bin_063",
+      "hog.bin_064",
+      "hog.bin_065",
+      "hog.bin_066",
+      "hog.bin_067",
+      "hog.bin_068",
+      "hog.bin_069",
+      "hog.bin_070",
+      "hog.bin_071",
+      "hog.bin_072",
+      "hog.bin_073",
+      "hog.bin_074",
+      "hog.bin_075",
+      "hog.bin_076",
+      "hog.bin_077",
+      "hog.bin_078",
+      "hog.bin_079",
+      "hog.bin_080",
+      "hog.bin_081",
+      "hog.bin_082",
+      "hog.bin_083",
+      "hog.bin_084",
+      "hog.bin_085",
+      "hog.bin_086",
+      "hog.bin_087",
+      "hog.bin_088",
+      "hog.bin_089",
+      "hog.bin_090",
+      "hog.bin_091",
+      "hog.bin_092",
+      "hog.bin_093",
+      "hog.bin_094",
+      "hog.bin_095",
+      "hog.bin_096",
+      "hog.bin_097",
+      "hog.bin_098",
+      "hog.bin_099",
+      "hog.bin_100",
+      "hog.bin_101",
+      "hog.bin_102",
+      "hog.bin_103",
+      "hog.bin_104",
+      "hog.bin_105",
+      "hog.bin_106",
+      "hog.bin_107",
+      "hog.bin_108",
+      "hog.bin_109",
+      "hog.bin_110",
+      "hog.bin_111",
+      "hog.bin_112",
+      "hog.bin_113",
+      "hog.bin_114",
+      "hog.bin_115",
+      "hog.bin_116",
+      "hog.bin_117",
+      "hog.bin_118",
+      "hog.bin_119",
+      "hog.bin_120",
+      "hog.bin_121",
+      "hog.bin_122",
+      "hog.bin_123",
+      "hog.bin_124",
+      "hog.bin_125",
+      "hog.bin_126",
+      "hog.bin_127",
+      "hog.bin_128",
+      "hog.bin_129",
+      "hog.bin_130",
+      "hog.bin_131",
+      "hog.bin_132",
+      "hog.bin_133",
+      "hog.bin_134",
+      "hog.bin_135",
+      "hog.bin_136",
+      "hog.bin_137",
+      "hog.bin_138",
+      "hog.bin_139",
+      "hog.bin_140",
+      "hog.bin_141",
+      "hog.bin_142",
+      "hog.bin_143",
+      "hog.bin_144",
+      "hog.bin_145",
+      "hog.bin_146",
+      "hog.bin_147",
+      "hog.bin_148",
+      "hog.bin_149",
+      "hog.bin_150",
+      "hog.bin_151",
+      "hog.bin_152",
+      "hog.bin_153",
+      "hog.bin_154",
+      "hog.bin_155",
+      "hog.bin_156",
+      "hog.bin_157",
+      "hog.bin_158",
+      "hog.bin_159",
+      "hog.bin_160",
+      "hog.bin_161",
+      "hog.bin_162",
+      "hog.bin_163",
+      "hog.bin_164",
+      "hog.bin_165",
+      "hog.bin_166",
+      "hog.bin_167",
+      "hog.bin_168",
+      "hog.bin_169",
+      "hog.bin_170",
+      "hog.bin_171",
+      "hog.bin_172",
+      "hog.bin_173",
+      "hog.bin_174",
+      "hog.bin_175",
+      "hog.bin_176",
+      "hog.bin_177",
+      "hog.bin_178",
+      "hog.bin_179",
+      "hog.bin_180",
+      "hog.bin_181",
+      "hog.bin_182",
+      "hog.bin_183",
+      "hog.bin_184",
+      "hog.bin_185",
+      "hog.bin_186",
+      "hog.bin_187",
+      "hog.bin_188",
+      "hog.bin_189",
+      "hog.bin_190",
+      "hog.bin_191",
+      "hog.bin_192",
+      "hog.bin_193",
+      "hog.bin_194",
+      "hog.bin_195",
+      "hog.bin_196",
+      "hog.bin_197",
+      "hog.bin_198",
+      "hog.bin_199",
+      "hog.bin_200",
+      "hog.bin_201",
+      "hog.bin_202",
+      "hog.bin_203",
+      "hog.bin_204",
+      "hog.bin_205",
+      "hog.bin_206",
+      "hog.bin_207",
+      "hog.bin_208",
+      "hog.bin_209",
+      "hog.bin_210",
+      "hog.bin_211",
+      "hog.bin_212",
+      "hog.bin_213",
+      "hog.bin_214",
+      "hog.bin_215",
+      "hog.bin_216",
+      "hog.bin_217",
+      "hog.bin_218",
+      "hog.bin_219",
+      "hog.bin_220",
+      "hog.bin_221",
+      "hog.bin_222",
+      "hog.bin_223",
+      "hog.bin_224",
+      "hog.bin_225",
+      "hog.bin_226",
+      "hog.bin_227",
+      "hog.bin_228",
+      "hog.bin_229",
+      "hog.bin_230",
+      "hog.bin_231",
+      "hog.bin_232",
+      "hog.bin_233",
+      "hog.bin_234",
+      "hog.bin_235",
+      "hog.bin_236",
+      "hog.bin_237",
+      "hog.bin_238",
+      "hog.bin_239",
+      "hog.bin_240",
+      "hog.bin_241",
+      "hog.bin_242",
+      "hog.bin_243",
+      "hog.bin_244",
+      "hog.bin_245",
+      "hog.bin_246",
+      "hog.bin_247",
+      "hog.bin_248",
+      "hog.bin_249",
+      "hog.bin_250",
+      "hog.bin_251",
+      "hog.bin_252",
+      "hog.bin_253",
+      "hog.bin_254",
+      "hog.bin_255",
+      "hog.bin_256",
+      "hog.bin_257",
+      "hog.bin_258",
+      "hog.bin_259",
+      "hog.bin_260",
+      "hog.bin_261",
+      "hog.bin_262",
+      "hog.bin_263",
+      "hog.bin_264",
+      "hog.bin_265",
+      "hog.bin_266",
+      "hog.bin_267",
+      "hog.bin_268",
+      "hog.bin_269",
+      "hog.bin_270",
+      "hog.bin_271",
+      "hog.bin_272",
+      "hog.bin_273",
+      "hog.bin_274",
+      "hog.bin_275",
+      "hog.bin_276",
+      "hog.bin_277",
+      "hog.bin_278",
+      "hog.bin_279",
+      "hog.bin_280",
+      "hog.bin_281",
+      "hog.bin_282",
+      "hog.bin_283",
+      "hog.bin_284",
+      "hog.bin_285",
+      "hog.bin_286",
+      "hog.bin_287",
+      "hog.bin_288",
+      "hog.bin_289",
+      "hog.bin_290",
+      "hog.bin_291",
+      "hog.bin_292",
+      "hog.bin_293",
+      "hog.bin_294",
+      "hog.bin_295",
+      "hog.bin_296",
+      "hog.bin_297",
+      "hog.bin_298",
+      "hog.bin_299",
+      "hog.bin_300",
+      "hog.bin_301",
+      "hog.bin_302",
+      "hog.bin_303",
+      "hog.bin_304",
+      "hog.bin_305",
+      "hog.bin_306",
+      "hog.bin_307",
+      "hog.bin_308",
+      "hog.bin_309",
+      "hog.bin_310",
+      "hog.bin_311",
+      "hog.bin_312",
+      "hog.bin_313",
+      "hog.bin_314",
+      "hog.bin_315",
+      "hog.bin_316",
+      "hog.bin_317",
+      "hog.bin_318",
+      "hog.bin_319",
+      "hog.bin_320",
+      "hog.bin_321",
+      "hog.bin_322",
+      "hog.bin_323"
+    ],
+    "threshold": 0.5,
+    "proposal_limit": 100,
+    "seed": 42,
+    "feature_code_sha256": "8a9c8b610fe74145a8f2882bac2966e919c98682f953dd3aa8123f2872393a9e",
+    "classical_code_sha256": "38b89df6c8623b14a5fdb35a77e72bc8c18d714c58d40208a06309923d80d569"
+  },
+  "predictions": {
+    "d8960a48-e680b52f": [
+      {
+        "class": "traffic_sign",
+        "box": [
+          617,
+          330,
+          658,
+          344
+        ],
+        "score": 0.6144207169350829,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          1229,
+          235,
+          1254,
+          288
+        ],
+        "score": 0.5963530957373251,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          1090,
+          334,
+          1107,
+          343
+        ],
+        "score": 0.5517658311902307,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          715,
+          347,
+          746,
+          357
+        ],
+        "score": 0.5227866510075144,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          998,
+          289,
+          1023,
+          320
+        ],
+        "score": 0.5157838916799441,
+        "color": null
+      }
+    ],
+    "cb1d8d95-283dd8d2": [
+      {
+        "class": "traffic_sign",
+        "box": [
+          770,
+          328,
+          808,
+          339
+        ],
+        "score": 0.5077827436919672,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          401,
+          227,
+          418,
+          237
+        ],
+        "score": 0.5043335719719618,
+        "color": null
+      }
+    ],
+    "e3a6ecd9-ddd177dc": [
+      {
+        "class": "traffic_sign",
+        "box": [
+          1129,
+          146,
+          1191,
+          164
+        ],
+        "score": 0.5989810633872013,
+        "color": null
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          947,
+          217,
+          975,
+          258
+        ],
+        "score": 0.588982782878511,
+        "color": "green"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          612,
+          426,
+          620,
+          439
+        ],
+        "score": 0.5786512904034413,
+        "color": "yellow"
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          221,
+          416,
+          248,
+          448
+        ],
+        "score": 0.5009827836495098,
+        "color": null
+      }
+    ],
+    "e7556e11-6206b2e5": [
+      {
+        "class": "traffic_sign",
+        "box": [
+          471,
+          205,
+          490,
+          216
+        ],
+        "score": 0.6219714977986012,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          586,
+          222,
+          629,
+          247
+        ],
+        "score": 0.5769955971429453,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          64,
+          339,
+          96,
+          357
+        ],
+        "score": 0.545220827782663,
+        "color": null
+      }
+    ],
+    "d8a52ba3-97a9cd4b": [
+      {
+        "class": "traffic_sign",
+        "box": [
+          816,
+          300,
+          838,
+          310
+        ],
+        "score": 0.5648879588551775,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          686,
+          248,
+          702,
+          262
+        ],
+        "score": 0.5302753204432346,
+        "color": null
+      }
+    ],
+    "ed0226e8-ad2d279e": [
+      {
+        "class": "traffic_sign",
+        "box": [
+          731,
+          306,
+          757,
+          325
+        ],
+        "score": 0.6585055336545635,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          807,
+          254,
+          818,
+          266
+        ],
+        "score": 0.5198829239296878,
+        "color": null
+      }
+    ],
+    "e3ebc7ef-6bfb781e": [
+      {
+        "class": "traffic_light",
+        "box": [
+          457,
+          333,
+          475,
+          345
+        ],
+        "score": 0.5555659362179196,
+        "color": "red"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          433,
+          335,
+          448,
+          344
+        ],
+        "score": 0.5544881605795262,
+        "color": "red"
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          647,
+          244,
+          668,
+          250
+        ],
+        "score": 0.5306443058853,
+        "color": null
+      }
+    ],
+    "cd53d8d1-1eda8dd2": [
+      {
+        "class": "traffic_sign",
+        "box": [
+          1200,
+          0,
+          1231,
+          41
+        ],
+        "score": 0.5427649067397494,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          479,
+          413,
+          551,
+          445
+        ],
+        "score": 0.5305646666499703,
+        "color": null
+      }
+    ],
+    "f6fda303-408bb2df": [
+      {
+        "class": "traffic_sign",
+        "box": [
+          687,
+          279,
+          719,
+          311
+        ],
+        "score": 0.8069990995848909,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          465,
+          285,
+          497,
+          316
+        ],
+        "score": 0.7644500259820761,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          583,
+          272,
+          629,
+          315
+        ],
+        "score": 0.7540045761679203,
+        "color": null
+      }
+    ],
+    "f047d616-afd90907": [
+      {
+        "class": "traffic_light",
+        "box": [
+          718,
+          203,
+          734,
+          219
+        ],
+        "score": 0.5509148232280558,
+        "color": "yellow"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          590,
+          322,
+          600,
+          337
+        ],
+        "score": 0.515193830201162,
+        "color": "red"
+      }
+    ],
+    "cf7eca51-c4db7fb8": [
+      {
+        "class": "traffic_light",
+        "box": [
+          514,
+          369,
+          530,
+          393
+        ],
+        "score": 0.8286568815634421,
+        "color": "green"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          0,
+          120,
+          9,
+          156
+        ],
+        "score": 0.6561754703261687,
+        "color": "red"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          514,
+          385,
+          530,
+          409
+        ],
+        "score": 0.5910761058742258,
+        "color": "green"
+      }
+    ],
+    "f7b3b5ae-fe04957f": [
+      {
+        "class": "traffic_light",
+        "box": [
+          351,
+          225,
+          360,
+          250
+        ],
+        "score": 0.7739035581572337,
+        "color": "yellow"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          688,
+          247,
+          703,
+          262
+        ],
+        "score": 0.6587533208105683,
+        "color": "green"
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          252,
+          119,
+          288,
+          176
+        ],
+        "score": 0.6574177727440486,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          336,
+          175,
+          359,
+          203
+        ],
+        "score": 0.6544705144383461,
+        "color": null
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          105,
+          230,
+          119,
+          242
+        ],
+        "score": 0.5156365475105967,
+        "color": "red"
+      }
+    ],
+    "e4db15b0-579e14d4": [
+      {
+        "class": "traffic_sign",
+        "box": [
+          935,
+          301,
+          974,
+          343
+        ],
+        "score": 0.6185834730320351,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          723,
+          390,
+          740,
+          418
+        ],
+        "score": 0.542885603057938,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          1108,
+          303,
+          1125,
+          331
+        ],
+        "score": 0.5288290186814745,
+        "color": null
+      }
+    ],
+    "fdab6841-01aeabd0": [
+      {
+        "class": "traffic_light",
+        "box": [
+          1083,
+          418,
+          1092,
+          434
+        ],
+        "score": 0.5775958449106544,
+        "color": "green"
+      }
+    ],
+    "e809865b-49981ba3": [
+      {
+        "class": "traffic_sign",
+        "box": [
+          395,
+          149,
+          425,
+          161
+        ],
+        "score": 0.7350455821557658,
+        "color": null
+      }
+    ],
+    "f070b988-1bbf7726": [
+      {
+        "class": "traffic_sign",
+        "box": [
+          221,
+          407,
+          240,
+          425
+        ],
+        "score": 0.5770527145970378,
+        "color": null
+      }
+    ],
+    "e515fca5-b86ee17a": [
+      {
+        "class": "traffic_sign",
+        "box": [
+          428,
+          285,
+          447,
+          299
+        ],
+        "score": 0.5024983249846052,
+        "color": null
+      }
+    ],
+    "cf107902-d5c1be85": [
+      {
+        "class": "traffic_sign",
+        "box": [
+          607,
+          342,
+          625,
+          354
+        ],
+        "score": 0.6418451858002057,
+        "color": null
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          1247,
+          106,
+          1259,
+          145
+        ],
+        "score": 0.5861627735782704,
+        "color": "yellow"
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          702,
+          328,
+          741,
+          349
+        ],
+        "score": 0.5583430027838966,
+        "color": null
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          946,
+          336,
+          956,
+          347
+        ],
+        "score": 0.5430845555776281,
+        "color": "red"
+      }
+    ],
+    "f2ac840d-57526adb": [
+      {
+        "class": "traffic_light",
+        "box": [
+          563,
+          97,
+          585,
+          120
+        ],
+        "score": 0.8114226926873865,
+        "color": "green"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          856,
+          209,
+          885,
+          242
+        ],
+        "score": 0.7971253350081449,
+        "color": "green"
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          780,
+          263,
+          793,
+          280
+        ],
+        "score": 0.6750426149402816,
+        "color": null
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          413,
+          57,
+          435,
+          79
+        ],
+        "score": 0.5850583803596748,
+        "color": "red"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          575,
+          529,
+          596,
+          545
+        ],
+        "score": 0.5413262063555507,
+        "color": "green"
+      }
+    ],
+    "f71668fe-5e53d546": [
+      {
+        "class": "traffic_sign",
+        "box": [
+          517,
+          18,
+          550,
+          42
+        ],
+        "score": 0.6696251700956961,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          471,
+          167,
+          507,
+          190
+        ],
+        "score": 0.6210703933161122,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          516,
+          169,
+          549,
+          192
+        ],
+        "score": 0.5951474399933095,
+        "color": null
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          664,
+          317,
+          671,
+          336
+        ],
+        "score": 0.5852446834928727,
+        "color": "red"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          429,
+          262,
+          457,
+          285
+        ],
+        "score": 0.5647495463952487,
+        "color": "red"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          523,
+          313,
+          530,
+          323
+        ],
+        "score": 0.5274287565343706,
+        "color": "yellow"
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          426,
+          43,
+          462,
+          67
+        ],
+        "score": 0.519694229265429,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          472,
+          45,
+          507,
+          69
+        ],
+        "score": 0.5126347924076863,
+        "color": null
+      }
+    ],
+    "e8e22277-28d45498": [],
+    "f4132bdf-7ef0f6f3": [
+      {
+        "class": "traffic_sign",
+        "box": [
+          207,
+          287,
+          262,
+          314
+        ],
+        "score": 0.6665970655218583,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          379,
+          291,
+          425,
+          319
+        ],
+        "score": 0.6335706045082737,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          80,
+          313,
+          139,
+          342
+        ],
+        "score": 0.6065986114494315,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          81,
+          286,
+          141,
+          311
+        ],
+        "score": 0.5351447313217343,
+        "color": null
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          1241,
+          445,
+          1252,
+          460
+        ],
+        "score": 0.5313243556489498,
+        "color": "red"
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          258,
+          391,
+          330,
+          437
+        ],
+        "score": 0.5098869229622103,
+        "color": null
+      }
+    ],
+    "fb80f913-3e1a5ea5": [
+      {
+        "class": "traffic_sign",
+        "box": [
+          308,
+          314,
+          344,
+          330
+        ],
+        "score": 0.763818882500755,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          764,
+          252,
+          777,
+          266
+        ],
+        "score": 0.5935258469602781,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          159,
+          318,
+          191,
+          333
+        ],
+        "score": 0.5780198356205444,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          1071,
+          168,
+          1113,
+          217
+        ],
+        "score": 0.5429441311110221,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          529,
+          269,
+          544,
+          295
+        ],
+        "score": 0.5373857225432517,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          1095,
+          251,
+          1122,
+          278
+        ],
+        "score": 0.5046144585735672,
+        "color": null
+      }
+    ],
+    "fc47f81b-de998d72": [
+      {
+        "class": "traffic_light",
+        "box": [
+          1262,
+          232,
+          1280,
+          255
+        ],
+        "score": 0.6066796537407717,
+        "color": "red"
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          949,
+          189,
+          969,
+          219
+        ],
+        "score": 0.5968385054241676,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          969,
+          238,
+          985,
+          261
+        ],
+        "score": 0.5042929863960084,
+        "color": null
+      }
+    ],
+    "e1d08de5-b3eb5958": [],
+    "f9306f7c-67ce0981": [
+      {
+        "class": "traffic_sign",
+        "box": [
+          16,
+          347,
+          72,
+          393
+        ],
+        "score": 0.6835307162981918,
+        "color": null
+      }
+    ],
+    "d87af984-ff350405": [],
+    "f0819712-f74a983d": [],
+    "e6deb704-45716d6f": [],
+    "e1a3dd50-b258a60a": [
+      {
+        "class": "traffic_light",
+        "box": [
+          938,
+          228,
+          945,
+          239
+        ],
+        "score": 0.5672686017214549,
+        "color": "green"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          1099,
+          327,
+          1111,
+          345
+        ],
+        "score": 0.5542481076385731,
+        "color": "red"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          920,
+          366,
+          941,
+          415
+        ],
+        "score": 0.5015748944311781,
+        "color": "red"
+      }
+    ],
+    "f64d25b7-597a624e": [
+      {
+        "class": "traffic_sign",
+        "box": [
+          569,
+          52,
+          642,
+          74
+        ],
+        "score": 0.6365418050437747,
+        "color": null
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          544,
+          20,
+          570,
+          66
+        ],
+        "score": 0.5607648038597172,
+        "color": "green"
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          262,
+          98,
+          332,
+          193
+        ],
+        "score": 0.5408623906807413,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          382,
+          140,
+          427,
+          169
+        ],
+        "score": 0.520297751321718,
+        "color": null
+      }
+    ],
+    "e7042f23-61951f34": [],
+    "ec1d4f78-165b94dd": [
+      {
+        "class": "traffic_light",
+        "box": [
+          928,
+          383,
+          944,
+          397
+        ],
+        "score": 0.5681231414948297,
+        "color": "red"
+      }
+    ],
+    "cc4f9db8-0a70a66e": [
+      {
+        "class": "traffic_light",
+        "box": [
+          679,
+          351,
+          693,
+          376
+        ],
+        "score": 0.76475398008837,
+        "color": "green"
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          350,
+          334,
+          371,
+          364
+        ],
+        "score": 0.6813310910700736,
+        "color": null
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          1264,
+          448,
+          1280,
+          464
+        ],
+        "score": 0.5318840171075432,
+        "color": "green"
+      }
+    ],
+    "e1987604-cfcb6fef": [
+      {
+        "class": "traffic_sign",
+        "box": [
+          776,
+          317,
+          839,
+          366
+        ],
+        "score": 0.5706445905045957,
+        "color": null
+      }
+    ],
+    "eb859fca-b2172770": [
+      {
+        "class": "traffic_light",
+        "box": [
+          469,
+          239,
+          481,
+          266
+        ],
+        "score": 0.7945434229275393,
+        "color": "green"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          607,
+          199,
+          632,
+          274
+        ],
+        "score": 0.6027424922467597,
+        "color": "red"
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          793,
+          180,
+          815,
+          209
+        ],
+        "score": 0.600810040884697,
+        "color": null
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          614,
+          225,
+          628,
+          263
+        ],
+        "score": 0.5377091442352931,
+        "color": "green"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          193,
+          236,
+          204,
+          256
+        ],
+        "score": 0.5129395130511432,
+        "color": "yellow"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          130,
+          224,
+          145,
+          248
+        ],
+        "score": 0.5116104557361382,
+        "color": "yellow"
+      }
+    ],
+    "f340ca3d-c0f52b5b": [
+      {
+        "class": "traffic_sign",
+        "box": [
+          1160,
+          198,
+          1202,
+          210
+        ],
+        "score": 0.5563938211422759,
+        "color": null
+      }
+    ],
+    "f731cece-41367981": [
+      {
+        "class": "traffic_light",
+        "box": [
+          200,
+          296,
+          214,
+          308
+        ],
+        "score": 0.7892277942393625,
+        "color": "green"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          277,
+          296,
+          293,
+          308
+        ],
+        "score": 0.6679010624706307,
+        "color": "green"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          617,
+          322,
+          638,
+          360
+        ],
+        "score": 0.5985446227076607,
+        "color": "red"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          618,
+          335,
+          634,
+          350
+        ],
+        "score": 0.517679331524699,
+        "color": "red"
+      }
+    ],
+    "d69dd484-431836d5": [],
+    "e975f798-7f1c86a2": [
+      {
+        "class": "traffic_sign",
+        "box": [
+          464,
+          176,
+          524,
+          205
+        ],
+        "score": 0.6790086583750252,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          1010,
+          142,
+          1271,
+          219
+        ],
+        "score": 0.6765237783723341,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          927,
+          252,
+          956,
+          261
+        ],
+        "score": 0.5719188542529813,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          855,
+          120,
+          871,
+          132
+        ],
+        "score": 0.5584479370356236,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          768,
+          102,
+          956,
+          152
+        ],
+        "score": 0.542421598237028,
+        "color": null
+      }
+    ],
+    "e2aa4331-a75460d8": [
+      {
+        "class": "traffic_light",
+        "box": [
+          600,
+          311,
+          615,
+          341
+        ],
+        "score": 0.6976328328576552,
+        "color": "red"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          828,
+          339,
+          840,
+          357
+        ],
+        "score": 0.5712112640684026,
+        "color": "red"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          40,
+          199,
+          62,
+          243
+        ],
+        "score": 0.5076009792348187,
+        "color": "yellow"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          600,
+          331,
+          615,
+          361
+        ],
+        "score": 0.5018144513627706,
+        "color": "red"
+      }
+    ],
+    "fc7c83d0-36742091": [
+      {
+        "class": "traffic_sign",
+        "box": [
+          795,
+          280,
+          816,
+          291
+        ],
+        "score": 0.7780119481134485,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          157,
+          204,
+          187,
+          234
+        ],
+        "score": 0.6240339378395497,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          751,
+          319,
+          776,
+          328
+        ],
+        "score": 0.5571644289034225,
+        "color": null
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          609,
+          283,
+          624,
+          293
+        ],
+        "score": 0.5518665846810464,
+        "color": "red"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          870,
+          204,
+          876,
+          216
+        ],
+        "score": 0.5296522764662225,
+        "color": "red"
+      }
+    ],
+    "f85f36a7-71385bc1": [
+      {
+        "class": "traffic_light",
+        "box": [
+          388,
+          299,
+          429,
+          328
+        ],
+        "score": 0.6169019387917684,
+        "color": "green"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          796,
+          370,
+          802,
+          380
+        ],
+        "score": 0.5287632197452936,
+        "color": "red"
+      }
+    ],
+    "d74da9b6-67e4a930": [
+      {
+        "class": "traffic_sign",
+        "box": [
+          194,
+          0,
+          226,
+          11
+        ],
+        "score": 0.5398213073999784,
+        "color": null
+      }
+    ],
+    "d385e918-86033693": [],
+    "f3b80b54-054b1218": [
+      {
+        "class": "traffic_sign",
+        "box": [
+          401,
+          127,
+          438,
+          177
+        ],
+        "score": 0.6316689394210852,
+        "color": null
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          698,
+          296,
+          712,
+          312
+        ],
+        "score": 0.5844380514164871,
+        "color": "green"
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          297,
+          250,
+          312,
+          264
+        ],
+        "score": 0.5753850822845936,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          295,
+          214,
+          310,
+          228
+        ],
+        "score": 0.5602803622201171,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          874,
+          297,
+          893,
+          315
+        ],
+        "score": 0.5334219130901316,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          291,
+          159,
+          305,
+          173
+        ],
+        "score": 0.5061304384792377,
+        "color": null
+      }
+    ],
+    "daa9d119-9f47d320": [
+      {
+        "class": "traffic_sign",
+        "box": [
+          572,
+          324,
+          637,
+          354
+        ],
+        "score": 0.5262632612508757,
+        "color": null
+      }
+    ],
+    "d3335fa1-dc243957": [
+      {
+        "class": "traffic_sign",
+        "box": [
+          900,
+          295,
+          947,
+          334
+        ],
+        "score": 0.6641662894010486,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          699,
+          295,
+          718,
+          322
+        ],
+        "score": 0.516267182003392,
+        "color": null
+      }
+    ],
+    "d7304e93-2cfe7086": [
+      {
+        "class": "traffic_sign",
+        "box": [
+          737,
+          335,
+          751,
+          347
+        ],
+        "score": 0.6640000463668895,
+        "color": null
+      }
+    ],
+    "e7b664bb-ceb4f0b6": [
+      {
+        "class": "traffic_light",
+        "box": [
+          906,
+          373,
+          917,
+          391
+        ],
+        "score": 0.6387570033651788,
+        "color": "red"
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          848,
+          311,
+          866,
+          333
+        ],
+        "score": 0.5277418741111141,
+        "color": null
+      }
+    ],
+    "e7397582-d188c942": [],
+    "d7111d78-44af001d": [
+      {
+        "class": "traffic_light",
+        "box": [
+          143,
+          368,
+          154,
+          383
+        ],
+        "score": 0.6794534833867606,
+        "color": "red"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          488,
+          413,
+          499,
+          440
+        ],
+        "score": 0.5767542537470938,
+        "color": "green"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          550,
+          409,
+          568,
+          436
+        ],
+        "score": 0.5666117658757763,
+        "color": "red"
+      }
+    ],
+    "d70ee0bd-82db14cb": [],
+    "f875bf12-96309dd3": [
+      {
+        "class": "traffic_sign",
+        "box": [
+          200,
+          353,
+          224,
+          366
+        ],
+        "score": 0.6314948220258995,
+        "color": null
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          1262,
+          330,
+          1280,
+          353
+        ],
+        "score": 0.5545837080307771,
+        "color": "red"
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          748,
+          225,
+          775,
+          250
+        ],
+        "score": 0.5095415013564293,
+        "color": null
+      }
+    ],
+    "f60ef63d-ef3852dc": [],
+    "e7d4388e-3f1d2058": [
+      {
+        "class": "traffic_light",
+        "box": [
+          1102,
+          60,
+          1109,
+          78
+        ],
+        "score": 0.5828059786742407,
+        "color": "red"
+      }
+    ],
+    "ef6e3aa4-16b8996f": [
+      {
+        "class": "traffic_sign",
+        "box": [
+          755,
+          200,
+          795,
+          212
+        ],
+        "score": 0.5035366714083065,
+        "color": null
+      }
+    ],
+    "dc217241-9041a94f": [
+      {
+        "class": "traffic_light",
+        "box": [
+          543,
+          304,
+          555,
+          317
+        ],
+        "score": 0.7974009041195872,
+        "color": "green"
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          759,
+          278,
+          789,
+          290
+        ],
+        "score": 0.6059130554149479,
+        "color": null
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          642,
+          196,
+          696,
+          240
+        ],
+        "score": 0.5058946803532839,
+        "color": "green"
+      }
+    ],
+    "d6413554-dd860b71": [
+      {
+        "class": "traffic_sign",
+        "box": [
+          180,
+          268,
+          208,
+          279
+        ],
+        "score": 0.6084424759201404,
+        "color": null
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          431,
+          111,
+          452,
+          148
+        ],
+        "score": 0.6079976146053355,
+        "color": "green"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          191,
+          112,
+          214,
+          179
+        ],
+        "score": 0.5936956052930721,
+        "color": "green"
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          299,
+          279,
+          324,
+          301
+        ],
+        "score": 0.5700405536544816,
+        "color": null
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          10,
+          85,
+          30,
+          128
+        ],
+        "score": 0.5361122058946536,
+        "color": "yellow"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          117,
+          255,
+          135,
+          288
+        ],
+        "score": 0.5099345894845534,
+        "color": "red"
+      }
+    ],
+    "d4e251b2-278a1e19": [],
+    "cfba56eb-39482387": [
+      {
+        "class": "traffic_light",
+        "box": [
+          678,
+          416,
+          688,
+          425
+        ],
+        "score": 0.5265896710657781,
+        "color": "yellow"
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          65,
+          255,
+          101,
+          306
+        ],
+        "score": 0.5012633130152232,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          885,
+          387,
+          916,
+          401
+        ],
+        "score": 0.5011735972872884,
+        "color": null
+      }
+    ],
+    "f9cda0db-3a3804ab": [
+      {
+        "class": "traffic_sign",
+        "box": [
+          704,
+          310,
+          728,
+          320
+        ],
+        "score": 0.6883473979386188,
+        "color": null
+      }
+    ],
+    "f9faca77-057b54e1": [],
+    "e494ca68-458e95e4": [
+      {
+        "class": "traffic_light",
+        "box": [
+          633,
+          332,
+          644,
+          350
+        ],
+        "score": 0.5459724491486961,
+        "color": "red"
+      }
+    ],
+    "f32e8214-c8d7fd24": [
+      {
+        "class": "traffic_light",
+        "box": [
+          250,
+          368,
+          256,
+          381
+        ],
+        "score": 0.6336643580738786,
+        "color": "red"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          123,
+          437,
+          129,
+          452
+        ],
+        "score": 0.6212767645778426,
+        "color": "red"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          458,
+          282,
+          464,
+          300
+        ],
+        "score": 0.5697113350377299,
+        "color": "red"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          742,
+          367,
+          760,
+          396
+        ],
+        "score": 0.5515900105739425,
+        "color": "red"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          719,
+          354,
+          730,
+          369
+        ],
+        "score": 0.517931574321452,
+        "color": "unknown"
+      }
+    ],
+    "e8c9fc75-4f8deaae": [
+      {
+        "class": "traffic_sign",
+        "box": [
+          1162,
+          284,
+          1186,
+          312
+        ],
+        "score": 0.5787680549470978,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          862,
+          12,
+          882,
+          48
+        ],
+        "score": 0.5390918940158141,
+        "color": null
+      }
+    ],
+    "e3d7751e-d10ad020": [],
+    "ded0c0e7-d0b6a516": [
+      {
+        "class": "traffic_sign",
+        "box": [
+          688,
+          240,
+          707,
+          258
+        ],
+        "score": 0.5345297083442498,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          664,
+          115,
+          682,
+          155
+        ],
+        "score": 0.5261154577657503,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          776,
+          351,
+          792,
+          361
+        ],
+        "score": 0.5248556911430401,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          664,
+          179,
+          681,
+          197
+        ],
+        "score": 0.5087379107817939,
+        "color": null
+      }
+    ],
+    "f8661abb-feab0269": [
+      {
+        "class": "traffic_sign",
+        "box": [
+          1003,
+          403,
+          1057,
+          432
+        ],
+        "score": 0.6070738262644229,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          991,
+          275,
+          1017,
+          295
+        ],
+        "score": 0.5690950034880202,
+        "color": null
+      }
+    ],
+    "f626989c-c9947adb": [
+      {
+        "class": "traffic_light",
+        "box": [
+          361,
+          328,
+          369,
+          337
+        ],
+        "score": 0.7148363990036242,
+        "color": "green"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          503,
+          321,
+          513,
+          336
+        ],
+        "score": 0.7103542783792794,
+        "color": "green"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          472,
+          317,
+          479,
+          324
+        ],
+        "score": 0.554735706106884,
+        "color": "green"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          42,
+          310,
+          59,
+          326
+        ],
+        "score": 0.5002119108158652,
+        "color": "unknown"
+      }
+    ],
+    "cb0676bb-c22aecec": [
+      {
+        "class": "traffic_light",
+        "box": [
+          944,
+          195,
+          954,
+          227
+        ],
+        "score": 0.631322599707256,
+        "color": "yellow"
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          554,
+          139,
+          584,
+          169
+        ],
+        "score": 0.6178042015993948,
+        "color": null
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          518,
+          136,
+          535,
+          164
+        ],
+        "score": 0.5441872923305227,
+        "color": "red"
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          611,
+          174,
+          656,
+          213
+        ],
+        "score": 0.5310910633803849,
+        "color": null
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          827,
+          36,
+          841,
+          75
+        ],
+        "score": 0.5118828143815475,
+        "color": "red"
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          476,
+          226,
+          502,
+          243
+        ],
+        "score": 0.5116459292173531,
+        "color": null
+      }
+    ],
+    "f828f401-8a2f4c56": [
+      {
+        "class": "traffic_sign",
+        "box": [
+          945,
+          237,
+          980,
+          263
+        ],
+        "score": 0.7653389881327388,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          832,
+          164,
+          1001,
+          330
+        ],
+        "score": 0.7335939077903103,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          793,
+          391,
+          825,
+          405
+        ],
+        "score": 0.5499859214781123,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          848,
+          225,
+          971,
+          265
+        ],
+        "score": 0.5461638096735012,
+        "color": null
+      }
+    ],
+    "d19bdda5-7c71f1a4": [
+      {
+        "class": "traffic_sign",
+        "box": [
+          215,
+          265,
+          280,
+          306
+        ],
+        "score": 0.5336892642353555,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          700,
+          0,
+          751,
+          45
+        ],
+        "score": 0.5020005337382895,
+        "color": null
+      }
+    ],
+    "f7cd00a2-966985b9": [
+      {
+        "class": "traffic_sign",
+        "box": [
+          270,
+          349,
+          293,
+          379
+        ],
+        "score": 0.5508610884583631,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          886,
+          291,
+          905,
+          302
+        ],
+        "score": 0.531462289508362,
+        "color": null
+      }
+    ],
+    "d127cae6-26695614": [],
+    "d6a6f34c-7b03afed": [],
+    "df87f482-1af5a062": [
+      {
+        "class": "traffic_light",
+        "box": [
+          858,
+          325,
+          875,
+          373
+        ],
+        "score": 0.6123405058189948,
+        "color": "yellow"
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          995,
+          216,
+          1040,
+          268
+        ],
+        "score": 0.522374391500062,
+        "color": null
+      }
+    ],
+    "e19c4ec4-c99badee": [
+      {
+        "class": "traffic_light",
+        "box": [
+          241,
+          96,
+          257,
+          120
+        ],
+        "score": 0.6778109332447001,
+        "color": "yellow"
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          606,
+          0,
+          694,
+          56
+        ],
+        "score": 0.6125056302367411,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          377,
+          387,
+          423,
+          414
+        ],
+        "score": 0.5972155059864054,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          320,
+          163,
+          348,
+          219
+        ],
+        "score": 0.5060876912718474,
+        "color": null
+      }
+    ],
+    "d4c08810-6e774772": [
+      {
+        "class": "traffic_sign",
+        "box": [
+          298,
+          309,
+          320,
+          318
+        ],
+        "score": 0.6611302320760085,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          1229,
+          231,
+          1254,
+          257
+        ],
+        "score": 0.6524116224432164,
+        "color": null
+      }
+    ],
+    "f1cbd211-0eabf8c8": [
+      {
+        "class": "traffic_light",
+        "box": [
+          551,
+          295,
+          561,
+          311
+        ],
+        "score": 0.894689558461122,
+        "color": "green"
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          656,
+          307,
+          672,
+          327
+        ],
+        "score": 0.6416617929664745,
+        "color": null
+      }
+    ],
+    "e5df48ff-08b8e7db": [
+      {
+        "class": "traffic_light",
+        "box": [
+          605,
+          304,
+          611,
+          318
+        ],
+        "score": 0.7193750824315641,
+        "color": "green"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          674,
+          312,
+          681,
+          324
+        ],
+        "score": 0.6965310616244615,
+        "color": "green"
+      }
+    ],
+    "da0e512d-93320ba0": [
+      {
+        "class": "traffic_sign",
+        "box": [
+          167,
+          78,
+          238,
+          181
+        ],
+        "score": 0.5718632131563306,
+        "color": null
+      }
+    ],
+    "cc9972d3-9f8c6c91": [
+      {
+        "class": "traffic_light",
+        "box": [
+          736,
+          320,
+          746,
+          341
+        ],
+        "score": 0.6606494269809238,
+        "color": "green"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          731,
+          343,
+          738,
+          352
+        ],
+        "score": 0.6571135660375185,
+        "color": "red"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          3,
+          278,
+          21,
+          291
+        ],
+        "score": 0.5999045585708237,
+        "color": "red"
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          375,
+          265,
+          457,
+          333
+        ],
+        "score": 0.5363041235239163,
+        "color": null
+      }
+    ],
+    "ea27ed9d-77b7ed5d": [
+      {
+        "class": "traffic_light",
+        "box": [
+          385,
+          379,
+          397,
+          390
+        ],
+        "score": 0.8077552306084221,
+        "color": "green"
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          261,
+          266,
+          336,
+          318
+        ],
+        "score": 0.6920639531007418,
+        "color": null
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          513,
+          316,
+          533,
+          333
+        ],
+        "score": 0.6073535826899739,
+        "color": "red"
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          161,
+          346,
+          179,
+          364
+        ],
+        "score": 0.5026438244822186,
+        "color": null
+      }
+    ],
+    "cb2fdf4d-4b15f621": [
+      {
+        "class": "traffic_sign",
+        "box": [
+          266,
+          407,
+          306,
+          419
+        ],
+        "score": 0.5014802799424217,
+        "color": null
+      }
+    ],
+    "e7da1569-8a01762c": [
+      {
+        "class": "traffic_sign",
+        "box": [
+          428,
+          239,
+          451,
+          257
+        ],
+        "score": 0.6618545808604486,
+        "color": null
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          1020,
+          9,
+          1033,
+          40
+        ],
+        "score": 0.5160964232994835,
+        "color": "yellow"
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          848,
+          336,
+          901,
+          354
+        ],
+        "score": 0.5022402595287208,
+        "color": null
+      }
+    ],
+    "de5a1b01-0d86fb3c": [
+      {
+        "class": "traffic_light",
+        "box": [
+          239,
+          191,
+          254,
+          221
+        ],
+        "score": 0.683335383206506,
+        "color": "yellow"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          473,
+          397,
+          482,
+          415
+        ],
+        "score": 0.6710744772533437,
+        "color": "red"
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          666,
+          370,
+          696,
+          381
+        ],
+        "score": 0.6668470682987391,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          1011,
+          329,
+          1031,
+          355
+        ],
+        "score": 0.6528897611960822,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          1002,
+          402,
+          1039,
+          426
+        ],
+        "score": 0.6290773832832233,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          1021,
+          295,
+          1071,
+          325
+        ],
+        "score": 0.6109479512265183,
+        "color": null
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          239,
+          211,
+          254,
+          241
+        ],
+        "score": 0.5948419091537009,
+        "color": "yellow"
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          1133,
+          266,
+          1209,
+          307
+        ],
+        "score": 0.5482409405842181,
+        "color": null
+      }
+    ],
+    "eee47c25-3c21a728": [
+      {
+        "class": "traffic_sign",
+        "box": [
+          395,
+          259,
+          413,
+          274
+        ],
+        "score": 0.6799889745714082,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          41,
+          384,
+          67,
+          400
+        ],
+        "score": 0.6622060592113561,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          890,
+          111,
+          946,
+          148
+        ],
+        "score": 0.5325551999945269,
+        "color": null
+      }
+    ],
+    "dde5dc75-eaa77e0c": [
+      {
+        "class": "traffic_sign",
+        "box": [
+          1211,
+          260,
+          1224,
+          281
+        ],
+        "score": 0.5727514430952372,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          687,
+          218,
+          736,
+          234
+        ],
+        "score": 0.5604037528617404,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          552,
+          284,
+          600,
+          298
+        ],
+        "score": 0.5528833047424374,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          32,
+          128,
+          43,
+          139
+        ],
+        "score": 0.540516258047685,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          297,
+          269,
+          341,
+          298
+        ],
+        "score": 0.5109143605323022,
+        "color": null
+      }
+    ],
+    "df50cbc5-c4f61e0b": [
+      {
+        "class": "traffic_light",
+        "box": [
+          672,
+          280,
+          687,
+          293
+        ],
+        "score": 0.8160684243768844,
+        "color": "green"
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          477,
+          353,
+          528,
+          378
+        ],
+        "score": 0.599120139443108,
+        "color": null
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          200,
+          248,
+          225,
+          273
+        ],
+        "score": 0.5447384539855689,
+        "color": "red"
+      }
+    ],
+    "e244ce53-3d17d56b": [],
+    "e1b772d4-f4e80091": [
+      {
+        "class": "traffic_sign",
+        "box": [
+          935,
+          283,
+          980,
+          305
+        ],
+        "score": 0.7757903540265946,
+        "color": null
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          214,
+          306,
+          226,
+          327
+        ],
+        "score": 0.6114230323947041,
+        "color": "red"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          214,
+          292,
+          226,
+          313
+        ],
+        "score": 0.5876455228250805,
+        "color": "red"
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          991,
+          123,
+          1016,
+          131
+        ],
+        "score": 0.5747527334116107,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          564,
+          184,
+          574,
+          197
+        ],
+        "score": 0.5347203846096007,
+        "color": null
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          751,
+          116,
+          771,
+          148
+        ],
+        "score": 0.5246457372498083,
+        "color": "red"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          1007,
+          273,
+          1027,
+          315
+        ],
+        "score": 0.5054030948089522,
+        "color": "red"
+      }
+    ],
+    "e6cad7b8-df552b6f": [
+      {
+        "class": "traffic_sign",
+        "box": [
+          1228,
+          386,
+          1242,
+          400
+        ],
+        "score": 0.5555789455551509,
+        "color": null
+      }
+    ],
+    "d89507f2-5b28e442": [
+      {
+        "class": "traffic_light",
+        "box": [
+          689,
+          317,
+          692,
+          330
+        ],
+        "score": 0.8277759563563073,
+        "color": "green"
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          555,
+          321,
+          583,
+          331
+        ],
+        "score": 0.691890680801816,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          961,
+          304,
+          989,
+          328
+        ],
+        "score": 0.68915760270064,
+        "color": null
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          730,
+          323,
+          739,
+          341
+        ],
+        "score": 0.6567634393302907,
+        "color": "red"
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          772,
+          320,
+          786,
+          333
+        ],
+        "score": 0.6323027968740622,
+        "color": null
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          770,
+          346,
+          777,
+          355
+        ],
+        "score": 0.5835662399144479,
+        "color": "red"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          311,
+          336,
+          322,
+          354
+        ],
+        "score": 0.5643629234015206,
+        "color": "red"
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          115,
+          301,
+          131,
+          313
+        ],
+        "score": 0.5388602463318858,
+        "color": null
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          730,
+          311,
+          739,
+          329
+        ],
+        "score": 0.5275983407891025,
+        "color": "red"
+      }
+    ],
+    "fd25e69f-3808d32b": [
+      {
+        "class": "traffic_sign",
+        "box": [
+          817,
+          298,
+          858,
+          309
+        ],
+        "score": 0.5859300128368736,
+        "color": null
+      }
+    ],
+    "f4b31ecc-adb6e470": [
+      {
+        "class": "traffic_light",
+        "box": [
+          510,
+          344,
+          522,
+          356
+        ],
+        "score": 0.8525975198315205,
+        "color": "green"
+      }
+    ],
+    "e503d261-29096112": [
+      {
+        "class": "traffic_sign",
+        "box": [
+          1157,
+          128,
+          1209,
+          192
+        ],
+        "score": 0.6796860472776542,
+        "color": null
+      }
+    ],
+    "cb1294f1-fba3ff7d": [
+      {
+        "class": "traffic_sign",
+        "box": [
+          1176,
+          232,
+          1208,
+          248
+        ],
+        "score": 0.7531095587137853,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          960,
+          283,
+          996,
+          319
+        ],
+        "score": 0.635125329339695,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          817,
+          412,
+          852,
+          446
+        ],
+        "score": 0.5732900134517946,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          391,
+          260,
+          423,
+          286
+        ],
+        "score": 0.5547965668613868,
+        "color": null
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          420,
+          156,
+          424,
+          167
+        ],
+        "score": 0.5363263931282161,
+        "color": "unknown"
+      }
+    ],
+    "da47d775-56b5d033": [
+      {
+        "class": "traffic_light",
+        "box": [
+          532,
+          370,
+          548,
+          397
+        ],
+        "score": 0.641649962388681,
+        "color": "green"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          768,
+          401,
+          792,
+          424
+        ],
+        "score": 0.5517502788137363,
+        "color": "red"
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          705,
+          394,
+          714,
+          405
+        ],
+        "score": 0.5357454073903531,
+        "color": null
+      }
+    ],
+    "fc698fe0-e8779537": [
+      {
+        "class": "traffic_light",
+        "box": [
+          557,
+          336,
+          568,
+          354
+        ],
+        "score": 0.6767206832300146,
+        "color": "green"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          565,
+          395,
+          572,
+          425
+        ],
+        "score": 0.5676390442491829,
+        "color": "yellow"
+      }
+    ],
+    "d456038c-06f7b60f": [
+      {
+        "class": "traffic_sign",
+        "box": [
+          802,
+          425,
+          816,
+          437
+        ],
+        "score": 0.547314760479055,
+        "color": null
+      }
+    ],
+    "cf7168be-4895e1c0": [
+      {
+        "class": "traffic_sign",
+        "box": [
+          425,
+          304,
+          441,
+          314
+        ],
+        "score": 0.5614362047213015,
+        "color": null
+      }
+    ],
+    "e994a77b-ab001f88": [
+      {
+        "class": "traffic_light",
+        "box": [
+          366,
+          187,
+          387,
+          208
+        ],
+        "score": 0.8221569075898242,
+        "color": "green"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          594,
+          170,
+          615,
+          193
+        ],
+        "score": 0.8154581939482084,
+        "color": "green"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          363,
+          164,
+          388,
+          203
+        ],
+        "score": 0.6743986586347309,
+        "color": "green"
+      }
+    ],
+    "e9053c5b-07ed78f7": [
+      {
+        "class": "traffic_sign",
+        "box": [
+          588,
+          275,
+          627,
+          287
+        ],
+        "score": 0.6886902881886695,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          838,
+          66,
+          865,
+          99
+        ],
+        "score": 0.6154077685659185,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          839,
+          0,
+          866,
+          15
+        ],
+        "score": 0.6057574091677554,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          734,
+          304,
+          757,
+          317
+        ],
+        "score": 0.5912923529933858,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          999,
+          204,
+          1022,
+          228
+        ],
+        "score": 0.5604841872731112,
+        "color": null
+      }
+    ],
+    "f1f44e2b-fd9b461c": [
+      {
+        "class": "traffic_sign",
+        "box": [
+          736,
+          46,
+          758,
+          66
+        ],
+        "score": 0.5887593781460947,
+        "color": null
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          902,
+          23,
+          926,
+          59
+        ],
+        "score": 0.5747651018530244,
+        "color": "green"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          1265,
+          193,
+          1280,
+          215
+        ],
+        "score": 0.5547260477175544,
+        "color": "yellow"
+      }
+    ],
+    "f950fbec-b0faa463": [
+      {
+        "class": "traffic_sign",
+        "box": [
+          852,
+          241,
+          888,
+          261
+        ],
+        "score": 0.812373172988035,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          1247,
+          192,
+          1280,
+          235
+        ],
+        "score": 0.705236576423098,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          1050,
+          192,
+          1067,
+          228
+        ],
+        "score": 0.5929822705407346,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          863,
+          8,
+          912,
+          19
+        ],
+        "score": 0.5125004208050644,
+        "color": null
+      }
+    ],
+    "d79af817-92ac5ae7": [
+      {
+        "class": "traffic_light",
+        "box": [
+          626,
+          314,
+          637,
+          325
+        ],
+        "score": 0.8531857839678006,
+        "color": "green"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          600,
+          300,
+          617,
+          316
+        ],
+        "score": 0.7954373843058535,
+        "color": "green"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          716,
+          195,
+          743,
+          231
+        ],
+        "score": 0.7654977055258344,
+        "color": "green"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          419,
+          192,
+          454,
+          230
+        ],
+        "score": 0.6921792579756795,
+        "color": "green"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          641,
+          318,
+          659,
+          348
+        ],
+        "score": 0.5395917029901056,
+        "color": "green"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          485,
+          305,
+          496,
+          332
+        ],
+        "score": 0.5152648324194251,
+        "color": "yellow"
+      }
+    ],
+    "cb32ab44-9feb37f3": [
+      {
+        "class": "traffic_light",
+        "box": [
+          562,
+          327,
+          574,
+          346
+        ],
+        "score": 0.7966609254580994,
+        "color": "green"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          500,
+          334,
+          511,
+          357
+        ],
+        "score": 0.5830363364079201,
+        "color": "yellow"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          380,
+          282,
+          389,
+          307
+        ],
+        "score": 0.530004677292649,
+        "color": "yellow"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          344,
+          77,
+          361,
+          102
+        ],
+        "score": 0.5298394552406825,
+        "color": "yellow"
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          500,
+          321,
+          514,
+          327
+        ],
+        "score": 0.5046224549573342,
+        "color": null
+      }
+    ],
+    "ea690cf5-4118d156": [
+      {
+        "class": "traffic_light",
+        "box": [
+          605,
+          0,
+          639,
+          32
+        ],
+        "score": 0.5944090984082648,
+        "color": "green"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          197,
+          141,
+          224,
+          185
+        ],
+        "score": 0.5795183310823648,
+        "color": "green"
+      }
+    ],
+    "e19732dd-5e5a0503": [
+      {
+        "class": "traffic_sign",
+        "box": [
+          374,
+          239,
+          424,
+          309
+        ],
+        "score": 0.7490394288308232,
+        "color": null
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          112,
+          213,
+          123,
+          231
+        ],
+        "score": 0.7436352400662717,
+        "color": "green"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          754,
+          118,
+          769,
+          142
+        ],
+        "score": 0.6714136021494977,
+        "color": "green"
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          732,
+          264,
+          751,
+          288
+        ],
+        "score": 0.6652008686335864,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          716,
+          203,
+          743,
+          222
+        ],
+        "score": 0.6089014624700201,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          868,
+          156,
+          882,
+          171
+        ],
+        "score": 0.5615369004075743,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          1042,
+          367,
+          1073,
+          398
+        ],
+        "score": 0.5603451269601334,
+        "color": null
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          112,
+          225,
+          123,
+          243
+        ],
+        "score": 0.5530795386686781,
+        "color": "green"
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          450,
+          212,
+          470,
+          234
+        ],
+        "score": 0.5483783381427088,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          1094,
+          108,
+          1109,
+          132
+        ],
+        "score": 0.5202863449995011,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          513,
+          288,
+          632,
+          327
+        ],
+        "score": 0.5008099153862708,
+        "color": null
+      }
+    ],
+    "cd17a152-66e48a91": [
+      {
+        "class": "traffic_sign",
+        "box": [
+          977,
+          311,
+          1019,
+          321
+        ],
+        "score": 0.5291880022164159,
+        "color": null
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          1200,
+          185,
+          1232,
+          223
+        ],
+        "score": 0.5192127323917357,
+        "color": "red"
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          1223,
+          232,
+          1280,
+          299
+        ],
+        "score": 0.5130602494294537,
+        "color": null
+      }
+    ],
+    "f67d34c5-880e3680": [
+      {
+        "class": "traffic_light",
+        "box": [
+          736,
+          250,
+          751,
+          289
+        ],
+        "score": 0.6437793368461625,
+        "color": "yellow"
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          1184,
+          223,
+          1236,
+          288
+        ],
+        "score": 0.6421738687429742,
+        "color": null
+      }
+    ],
+    "eff32a3b-1a3e4181": [
+      {
+        "class": "traffic_sign",
+        "box": [
+          207,
+          333,
+          236,
+          348
+        ],
+        "score": 0.6367194824272032,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          294,
+          296,
+          323,
+          354
+        ],
+        "score": 0.5534395799110358,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          265,
+          357,
+          310,
+          379
+        ],
+        "score": 0.5205497000584834,
+        "color": null
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          610,
+          353,
+          617,
+          365
+        ],
+        "score": 0.5023312706165236,
+        "color": "unknown"
+      }
+    ],
+    "e89b90b0-92811c3c": [
+      {
+        "class": "traffic_sign",
+        "box": [
+          747,
+          381,
+          826,
+          424
+        ],
+        "score": 0.5900131328974231,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          581,
+          430,
+          625,
+          449
+        ],
+        "score": 0.575070457183023,
+        "color": null
+      }
+    ],
+    "e8b336b2-0fca6da0": [
+      {
+        "class": "traffic_sign",
+        "box": [
+          320,
+          257,
+          361,
+          277
+        ],
+        "score": 0.7835857548570114,
+        "color": null
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          1265,
+          313,
+          1280,
+          346
+        ],
+        "score": 0.6433574587598013,
+        "color": "green"
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          1261,
+          372,
+          1280,
+          389
+        ],
+        "score": 0.6348098611504177,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          489,
+          361,
+          503,
+          386
+        ],
+        "score": 0.5328607864516415,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          0,
+          71,
+          62,
+          88
+        ],
+        "score": 0.505932514147333,
+        "color": null
+      }
+    ],
+    "d5002ab1-4efa5542": [
+      {
+        "class": "traffic_light",
+        "box": [
+          624,
+          174,
+          643,
+          195
+        ],
+        "score": 0.9078139741030441,
+        "color": "green"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          501,
+          181,
+          523,
+          203
+        ],
+        "score": 0.77059969574904,
+        "color": "green"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          621,
+          150,
+          645,
+          192
+        ],
+        "score": 0.6985031751046167,
+        "color": "green"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          552,
+          219,
+          563,
+          237
+        ],
+        "score": 0.6721908863033202,
+        "color": "green"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          624,
+          173,
+          633,
+          182
+        ],
+        "score": 0.5090665931380063,
+        "color": "green"
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          680,
+          185,
+          702,
+          200
+        ],
+        "score": 0.5080050269108771,
+        "color": null
+      }
+    ],
+    "e6a13af1-8252572b": [],
+    "f606d566-37746103": [],
+    "e4215557-7f1eef3a": [
+      {
+        "class": "traffic_light",
+        "box": [
+          738,
+          223,
+          751,
+          240
+        ],
+        "score": 0.6337314201645942,
+        "color": "yellow"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          87,
+          305,
+          112,
+          348
+        ],
+        "score": 0.5301133066454055,
+        "color": "red"
+      }
+    ],
+    "eef46b34-61ebc318": [
+      {
+        "class": "traffic_light",
+        "box": [
+          580,
+          206,
+          595,
+          224
+        ],
+        "score": 0.8552532092675672,
+        "color": "green"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          754,
+          234,
+          761,
+          244
+        ],
+        "score": 0.8143594706499089,
+        "color": "green"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          849,
+          208,
+          856,
+          220
+        ],
+        "score": 0.6693108871199356,
+        "color": "yellow"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          576,
+          544,
+          584,
+          557
+        ],
+        "score": 0.6236185412238843,
+        "color": "green"
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          776,
+          284,
+          837,
+          317
+        ],
+        "score": 0.5027163019807501,
+        "color": null
+      }
+    ],
+    "e182faac-df2eea37": [
+      {
+        "class": "traffic_light",
+        "box": [
+          620,
+          180,
+          640,
+          198
+        ],
+        "score": 0.5516853021965565,
+        "color": "green"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          610,
+          131,
+          643,
+          197
+        ],
+        "score": 0.5279135505513229,
+        "color": "green"
+      }
+    ],
+    "cf979754-61248300": [
+      {
+        "class": "traffic_sign",
+        "box": [
+          320,
+          328,
+          344,
+          346
+        ],
+        "score": 0.5642819934252095,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          711,
+          282,
+          732,
+          294
+        ],
+        "score": 0.5566009159130458,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          53,
+          358,
+          77,
+          377
+        ],
+        "score": 0.5501438331762981,
+        "color": null
+      }
+    ],
+    "d18012a5-82d2e992": [
+      {
+        "class": "traffic_sign",
+        "box": [
+          201,
+          263,
+          235,
+          308
+        ],
+        "score": 0.6861843763724093,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          1028,
+          381,
+          1055,
+          432
+        ],
+        "score": 0.6256050541111515,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          83,
+          260,
+          112,
+          307
+        ],
+        "score": 0.604445284066338,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          143,
+          260,
+          177,
+          313
+        ],
+        "score": 0.5116716773699532,
+        "color": null
+      }
+    ],
+    "ef3b1493-d7bbf569": [
+      {
+        "class": "traffic_light",
+        "box": [
+          495,
+          346,
+          516,
+          385
+        ],
+        "score": 0.5975655399584511,
+        "color": "red"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          697,
+          78,
+          706,
+          93
+        ],
+        "score": 0.5954320352332063,
+        "color": "red"
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          591,
+          300,
+          810,
+          379
+        ],
+        "score": 0.5848822763967368,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          873,
+          242,
+          907,
+          286
+        ],
+        "score": 0.5657610985981739,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          206,
+          236,
+          234,
+          252
+        ],
+        "score": 0.5622609028376265,
+        "color": null
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          495,
+          372,
+          516,
+          411
+        ],
+        "score": 0.5593585090482195,
+        "color": "red"
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          790,
+          417,
+          851,
+          444
+        ],
+        "score": 0.5548826270369162,
+        "color": null
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          723,
+          78,
+          734,
+          93
+        ],
+        "score": 0.5346851171252935,
+        "color": "red"
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          1008,
+          270,
+          1036,
+          280
+        ],
+        "score": 0.5319884825552582,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          1198,
+          212,
+          1236,
+          275
+        ],
+        "score": 0.5067340188778916,
+        "color": null
+      }
+    ],
+    "eb11a1ef-c3c5e3d8": [
+      {
+        "class": "traffic_light",
+        "box": [
+          587,
+          49,
+          594,
+          64
+        ],
+        "score": 0.6843206894336169,
+        "color": "green"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          440,
+          65,
+          448,
+          75
+        ],
+        "score": 0.5554693659528697,
+        "color": "green"
+      }
+    ],
+    "cabddb96-ca0ac856": [
+      {
+        "class": "traffic_sign",
+        "box": [
+          1018,
+          152,
+          1048,
+          202
+        ],
+        "score": 0.6261721640319359,
+        "color": null
+      }
+    ],
+    "d69496ca-3c45f0a5": [
+      {
+        "class": "traffic_sign",
+        "box": [
+          160,
+          264,
+          180,
+          273
+        ],
+        "score": 0.5590710344349226,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          460,
+          363,
+          493,
+          381
+        ],
+        "score": 0.5505760624214562,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          1212,
+          168,
+          1257,
+          219
+        ],
+        "score": 0.5479651368507157,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          1033,
+          100,
+          1053,
+          113
+        ],
+        "score": 0.503690881331878,
+        "color": null
+      }
+    ],
+    "f2d46121-8f08bb45": [
+      {
+        "class": "traffic_sign",
+        "box": [
+          911,
+          303,
+          930,
+          332
+        ],
+        "score": 0.526803228776409,
+        "color": null
+      }
+    ],
+    "d4e3f8b4-953d595c": [
+      {
+        "class": "traffic_light",
+        "box": [
+          595,
+          306,
+          608,
+          324
+        ],
+        "score": 0.6509290947927007,
+        "color": "red"
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          671,
+          330,
+          688,
+          347
+        ],
+        "score": 0.5309358161297154,
+        "color": null
+      }
+    ],
+    "d6e3020e-76dd3618": [
+      {
+        "class": "traffic_sign",
+        "box": [
+          868,
+          292,
+          904,
+          303
+        ],
+        "score": 0.5327791146571415,
+        "color": null
+      }
+    ],
+    "d68aa014-1596f36d": [],
+    "d020a2d2-24880194": [
+      {
+        "class": "traffic_sign",
+        "box": [
+          447,
+          209,
+          478,
+          251
+        ],
+        "score": 0.7732451597369641,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          1177,
+          247,
+          1228,
+          282
+        ],
+        "score": 0.5554119836194612,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          1019,
+          215,
+          1039,
+          238
+        ],
+        "score": 0.5058659912071506,
+        "color": null
+      }
+    ],
+    "e33f99d0-636a0b25": [
+      {
+        "class": "traffic_light",
+        "box": [
+          480,
+          302,
+          501,
+          325
+        ],
+        "score": 0.8351391315547736,
+        "color": "green"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          617,
+          316,
+          639,
+          339
+        ],
+        "score": 0.801080189137479,
+        "color": "green"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          478,
+          278,
+          502,
+          320
+        ],
+        "score": 0.5938162961807366,
+        "color": "green"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          493,
+          338,
+          503,
+          350
+        ],
+        "score": 0.5731792033182677,
+        "color": "yellow"
+      }
+    ],
+    "ea238aca-8caf9727": [],
+    "cb7bffcf-5e7c5677": [
+      {
+        "class": "traffic_sign",
+        "box": [
+          509,
+          386,
+          555,
+          413
+        ],
+        "score": 0.5505082384256372,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          1228,
+          209,
+          1250,
+          226
+        ],
+        "score": 0.5013134839107957,
+        "color": null
+      }
+    ],
+    "e617c033-5a06b27f": [
+      {
+        "class": "traffic_light",
+        "box": [
+          574,
+          226,
+          581,
+          238
+        ],
+        "score": 0.6369218973441739,
+        "color": "green"
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          712,
+          308,
+          743,
+          318
+        ],
+        "score": 0.5579602032942951,
+        "color": null
+      }
+    ],
+    "dcc955a4-01f2e5ad": [],
+    "f88c78db-f8e0a1d1": [
+      {
+        "class": "traffic_sign",
+        "box": [
+          594,
+          323,
+          637,
+          344
+        ],
+        "score": 0.6154749212908291,
+        "color": null
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          7,
+          217,
+          18,
+          241
+        ],
+        "score": 0.5962437134048518,
+        "color": "red"
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          472,
+          155,
+          505,
+          171
+        ],
+        "score": 0.5951612470189647,
+        "color": null
+      }
+    ],
+    "db8f9ec0-7855f30c": [
+      {
+        "class": "traffic_sign",
+        "box": [
+          954,
+          322,
+          995,
+          341
+        ],
+        "score": 0.5258940176578768,
+        "color": null
+      }
+    ],
+    "d6b3ba2f-0212804f": [
+      {
+        "class": "traffic_light",
+        "box": [
+          737,
+          301,
+          744,
+          319
+        ],
+        "score": 0.5574115327960434,
+        "color": "red"
+      }
+    ],
+    "f49f01d0-17bc741b": [],
+    "d78dc9db-38171548": [
+      {
+        "class": "traffic_light",
+        "box": [
+          447,
+          358,
+          465,
+          394
+        ],
+        "score": 0.777419656552703,
+        "color": "green"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          420,
+          368,
+          432,
+          381
+        ],
+        "score": 0.7455871808883839,
+        "color": "green"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          465,
+          368,
+          480,
+          385
+        ],
+        "score": 0.6801496050087343,
+        "color": "green"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          260,
+          392,
+          272,
+          415
+        ],
+        "score": 0.5065485181181261,
+        "color": "red"
+      }
+    ],
+    "ef94ed5d-5e649554": [
+      {
+        "class": "traffic_sign",
+        "box": [
+          1136,
+          89,
+          1193,
+          189
+        ],
+        "score": 0.6126836873112615,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          927,
+          223,
+          944,
+          257
+        ],
+        "score": 0.6068892098479969,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          12,
+          377,
+          28,
+          400
+        ],
+        "score": 0.5382525023394842,
+        "color": null
+      }
+    ],
+    "ef0104a0-3f988f8d": [
+      {
+        "class": "traffic_sign",
+        "box": [
+          0,
+          240,
+          14,
+          249
+        ],
+        "score": 0.5240860106152538,
+        "color": null
+      }
+    ],
+    "cb7bffcf-33713cec": [
+      {
+        "class": "traffic_light",
+        "box": [
+          200,
+          462,
+          207,
+          477
+        ],
+        "score": 0.6897806924557728,
+        "color": "yellow"
+      }
+    ],
+    "db456cbe-837adefb": [
+      {
+        "class": "traffic_light",
+        "box": [
+          681,
+          369,
+          702,
+          405
+        ],
+        "score": 0.6796149410511155,
+        "color": "green"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          76,
+          372,
+          96,
+          392
+        ],
+        "score": 0.650440362071092,
+        "color": "red"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          323,
+          384,
+          336,
+          419
+        ],
+        "score": 0.6197688821744226,
+        "color": "yellow"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          593,
+          127,
+          602,
+          142
+        ],
+        "score": 0.6049909709698719,
+        "color": "red"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          656,
+          374,
+          676,
+          404
+        ],
+        "score": 0.5868427252911631,
+        "color": "green"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          795,
+          319,
+          822,
+          376
+        ],
+        "score": 0.5590535475737018,
+        "color": "green"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          936,
+          414,
+          944,
+          429
+        ],
+        "score": 0.5333043981216418,
+        "color": "green"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          110,
+          270,
+          123,
+          294
+        ],
+        "score": 0.5176780379914255,
+        "color": "red"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          795,
+          357,
+          822,
+          414
+        ],
+        "score": 0.505879684335143,
+        "color": "green"
+      }
+    ],
+    "d2e3a899-532fd85a": [
+      {
+        "class": "traffic_light",
+        "box": [
+          948,
+          11,
+          978,
+          81
+        ],
+        "score": 0.5481758762392372,
+        "color": "yellow"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          1237,
+          1,
+          1267,
+          52
+        ],
+        "score": 0.5352884676230487,
+        "color": "yellow"
+      }
+    ],
+    "e4206341-d31cfe4c": [
+      {
+        "class": "traffic_light",
+        "box": [
+          532,
+          385,
+          543,
+          401
+        ],
+        "score": 0.7655504573148971,
+        "color": "red"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          435,
+          394,
+          447,
+          417
+        ],
+        "score": 0.6599245290348228,
+        "color": "green"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          497,
+          372,
+          511,
+          398
+        ],
+        "score": 0.5921474326787254,
+        "color": "red"
+      }
+    ],
+    "d0084541-39203956": [],
+    "d6f3bc83-d951452b": [
+      {
+        "class": "traffic_light",
+        "box": [
+          284,
+          93,
+          294,
+          108
+        ],
+        "score": 0.7003732789566489,
+        "color": "green"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          224,
+          19,
+          234,
+          34
+        ],
+        "score": 0.6981947027501225,
+        "color": "green"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          251,
+          16,
+          266,
+          34
+        ],
+        "score": 0.6242112923219441,
+        "color": "green"
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          502,
+          379,
+          529,
+          392
+        ],
+        "score": 0.5968195583470659,
+        "color": null
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          261,
+          125,
+          271,
+          136
+        ],
+        "score": 0.5886817658837856,
+        "color": "green"
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          864,
+          116,
+          915,
+          180
+        ],
+        "score": 0.5296277552045329,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          491,
+          13,
+          539,
+          29
+        ],
+        "score": 0.5255898785475871,
+        "color": null
+      }
+    ],
+    "cb540cff-6928e2e0": [
+      {
+        "class": "traffic_sign",
+        "box": [
+          211,
+          372,
+          247,
+          417
+        ],
+        "score": 0.6303417694902828,
+        "color": null
+      }
+    ],
+    "d3aa739f-8fa1764f": [],
+    "da321ed7-0b306c64": [
+      {
+        "class": "traffic_light",
+        "box": [
+          679,
+          425,
+          689,
+          440
+        ],
+        "score": 0.8519896148948694,
+        "color": "green"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          648,
+          411,
+          668,
+          441
+        ],
+        "score": 0.7116066987476874,
+        "color": "green"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          785,
+          440,
+          796,
+          450
+        ],
+        "score": 0.631670520660618,
+        "color": "green"
+      }
+    ],
+    "e23841d8-6efc848a": [
+      {
+        "class": "traffic_light",
+        "box": [
+          681,
+          184,
+          706,
+          219
+        ],
+        "score": 0.8766879023639069,
+        "color": "green"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          519,
+          203,
+          530,
+          216
+        ],
+        "score": 0.8695767204266686,
+        "color": "green"
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          836,
+          223,
+          853,
+          238
+        ],
+        "score": 0.6420632496429195,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          999,
+          223,
+          1023,
+          239
+        ],
+        "score": 0.6096955249398549,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          1039,
+          225,
+          1072,
+          238
+        ],
+        "score": 0.5550655571682662,
+        "color": null
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          666,
+          178,
+          684,
+          194
+        ],
+        "score": 0.5014162252122546,
+        "color": "yellow"
+      }
+    ],
+    "fc837ebf-b8bf632c": [
+      {
+        "class": "traffic_sign",
+        "box": [
+          238,
+          342,
+          281,
+          369
+        ],
+        "score": 0.6527710261735775,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          212,
+          393,
+          240,
+          416
+        ],
+        "score": 0.6514302620431576,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          594,
+          329,
+          664,
+          362
+        ],
+        "score": 0.6482695945538711,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          296,
+          398,
+          317,
+          409
+        ],
+        "score": 0.6129618455638558,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          941,
+          363,
+          965,
+          384
+        ],
+        "score": 0.601398802417946,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          961,
+          383,
+          975,
+          397
+        ],
+        "score": 0.560028245119591,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          288,
+          363,
+          349,
+          384
+        ],
+        "score": 0.5372004505200509,
+        "color": null
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          448,
+          348,
+          457,
+          369
+        ],
+        "score": 0.528740245157796,
+        "color": "red"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          1137,
+          332,
+          1158,
+          353
+        ],
+        "score": 0.5130280073747513,
+        "color": "red"
+      }
+    ],
+    "ce143ce5-8ebfc4d6": [
+      {
+        "class": "traffic_sign",
+        "box": [
+          792,
+          94,
+          857,
+          148
+        ],
+        "score": 0.6473160702606244,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          803,
+          198,
+          853,
+          216
+        ],
+        "score": 0.6398009757852844,
+        "color": null
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          502,
+          329,
+          513,
+          351
+        ],
+        "score": 0.6002820533406619,
+        "color": "red"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          481,
+          310,
+          494,
+          323
+        ],
+        "score": 0.5574951288287234,
+        "color": "yellow"
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          619,
+          329,
+          666,
+          384
+        ],
+        "score": 0.5147121787851021,
+        "color": null
+      }
+    ],
+    "fc1ceb59-5b5d3f4d": [
+      {
+        "class": "traffic_light",
+        "box": [
+          560,
+          329,
+          575,
+          347
+        ],
+        "score": 0.9600348721717366,
+        "color": "green"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          0,
+          352,
+          8,
+          369
+        ],
+        "score": 0.747485080021634,
+        "color": "yellow"
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          1223,
+          278,
+          1275,
+          329
+        ],
+        "score": 0.5779811591871526,
+        "color": null
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          650,
+          313,
+          670,
+          343
+        ],
+        "score": 0.5642257492479653,
+        "color": "green"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          650,
+          333,
+          670,
+          363
+        ],
+        "score": 0.5210273200509647,
+        "color": "green"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          48,
+          74,
+          64,
+          120
+        ],
+        "score": 0.510711690893476,
+        "color": "red"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          1074,
+          269,
+          1086,
+          294
+        ],
+        "score": 0.509339089670614,
+        "color": "green"
+      }
+    ],
+    "ce32682a-a13559fd": [
+      {
+        "class": "traffic_light",
+        "box": [
+          647,
+          304,
+          659,
+          323
+        ],
+        "score": 0.8950765033140169,
+        "color": "green"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          675,
+          240,
+          695,
+          267
+        ],
+        "score": 0.8351566465534184,
+        "color": "green"
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          726,
+          256,
+          741,
+          262
+        ],
+        "score": 0.5769785642571231,
+        "color": null
+      }
+    ],
+    "ce131b3a-325525e1": [
+      {
+        "class": "traffic_sign",
+        "box": [
+          63,
+          248,
+          92,
+          264
+        ],
+        "score": 0.5667458510748475,
+        "color": null
+      }
+    ],
+    "e4fd9d6a-241221d4": [],
+    "d654301b-c14628ce": [
+      {
+        "class": "traffic_light",
+        "box": [
+          472,
+          368,
+          487,
+          383
+        ],
+        "score": 0.6658309198838462,
+        "color": "red"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          765,
+          394,
+          776,
+          415
+        ],
+        "score": 0.5024005154545409,
+        "color": "green"
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          323,
+          310,
+          368,
+          338
+        ],
+        "score": 0.5021046684942642,
+        "color": null
+      }
+    ],
+    "d670766c-6af1d0d6": [
+      {
+        "class": "traffic_sign",
+        "box": [
+          775,
+          301,
+          787,
+          319
+        ],
+        "score": 0.8019897990587755,
+        "color": null
+      }
+    ],
+    "f6b20b28-e9465695": [
+      {
+        "class": "traffic_light",
+        "box": [
+          538,
+          298,
+          545,
+          312
+        ],
+        "score": 0.7012685383824372,
+        "color": "green"
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          606,
+          384,
+          631,
+          401
+        ],
+        "score": 0.5985845824672742,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          768,
+          246,
+          842,
+          319
+        ],
+        "score": 0.5940450729040431,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          97,
+          300,
+          151,
+          332
+        ],
+        "score": 0.5630551658242307,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          710,
+          367,
+          735,
+          394
+        ],
+        "score": 0.5051529199177889,
+        "color": null
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          260,
+          362,
+          265,
+          382
+        ],
+        "score": 0.5021276912452803,
+        "color": "green"
+      }
+    ],
+    "cf064625-56a3d15f": [
+      {
+        "class": "traffic_light",
+        "box": [
+          531,
+          310,
+          535,
+          319
+        ],
+        "score": 0.5562703280437028,
+        "color": "yellow"
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          923,
+          218,
+          941,
+          235
+        ],
+        "score": 0.5481656477038791,
+        "color": null
+      }
+    ],
+    "dfc515b2-78c623b8": [
+      {
+        "class": "traffic_sign",
+        "box": [
+          875,
+          154,
+          911,
+          185
+        ],
+        "score": 0.6449489486601853,
+        "color": null
+      }
+    ],
+    "cf917d34-acba0c6f": [
+      {
+        "class": "traffic_sign",
+        "box": [
+          902,
+          144,
+          945,
+          184
+        ],
+        "score": 0.5138536276698684,
+        "color": null
+      }
+    ],
+    "da3e0f4b-fefb1317": [
+      {
+        "class": "traffic_sign",
+        "box": [
+          13,
+          246,
+          34,
+          274
+        ],
+        "score": 0.5837000305015801,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          137,
+          383,
+          171,
+          400
+        ],
+        "score": 0.561260495662918,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          0,
+          106,
+          22,
+          143
+        ],
+        "score": 0.5034950694465344,
+        "color": null
+      }
+    ],
+    "ce46abf5-dfef21df": [
+      {
+        "class": "traffic_light",
+        "box": [
+          510,
+          275,
+          514,
+          289
+        ],
+        "score": 0.610607124587538,
+        "color": "unknown"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          454,
+          267,
+          461,
+          292
+        ],
+        "score": 0.5693785342506483,
+        "color": "unknown"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          335,
+          271,
+          347,
+          294
+        ],
+        "score": 0.5448876209413194,
+        "color": "red"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          474,
+          273,
+          486,
+          313
+        ],
+        "score": 0.5173259997051534,
+        "color": "red"
+      }
+    ],
+    "e7aabf48-092585b5": [
+      {
+        "class": "traffic_sign",
+        "box": [
+          576,
+          313,
+          610,
+          351
+        ],
+        "score": 0.5975231627441951,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          789,
+          321,
+          814,
+          357
+        ],
+        "score": 0.5492347074433832,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          978,
+          311,
+          1000,
+          337
+        ],
+        "score": 0.5201332460098108,
+        "color": null
+      }
+    ],
+    "ede509ce-f97cada5": [
+      {
+        "class": "traffic_light",
+        "box": [
+          485,
+          192,
+          519,
+          240
+        ],
+        "score": 0.6965374626263212,
+        "color": "green"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          494,
+          166,
+          511,
+          185
+        ],
+        "score": 0.6076698882671419,
+        "color": "unknown"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          344,
+          243,
+          376,
+          289
+        ],
+        "score": 0.5780979336845409,
+        "color": "green"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          673,
+          326,
+          685,
+          339
+        ],
+        "score": 0.5401955282490509,
+        "color": "green"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          735,
+          419,
+          746,
+          429
+        ],
+        "score": 0.5226616196516496,
+        "color": "green"
+      }
+    ],
+    "f588280d-71e58f1f": [
+      {
+        "class": "traffic_light",
+        "box": [
+          594,
+          64,
+          605,
+          88
+        ],
+        "score": 0.8082700150230698,
+        "color": "green"
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          928,
+          152,
+          953,
+          167
+        ],
+        "score": 0.6209537900256891,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          33,
+          217,
+          68,
+          227
+        ],
+        "score": 0.5242031804077303,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          746,
+          211,
+          776,
+          273
+        ],
+        "score": 0.5237552559400533,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          1156,
+          0,
+          1205,
+          20
+        ],
+        "score": 0.5193797686080198,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          1068,
+          292,
+          1086,
+          303
+        ],
+        "score": 0.5082775238927006,
+        "color": null
+      }
+    ],
+    "f72b8580-e742e9fd": [
+      {
+        "class": "traffic_light",
+        "box": [
+          502,
+          213,
+          520,
+          246
+        ],
+        "score": 0.7274467024690965,
+        "color": "green"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          571,
+          234,
+          596,
+          256
+        ],
+        "score": 0.6598132088490454,
+        "color": "green"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          568,
+          210,
+          593,
+          252
+        ],
+        "score": 0.6363905910691575,
+        "color": "green"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          664,
+          281,
+          678,
+          299
+        ],
+        "score": 0.5997394532042049,
+        "color": "green"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          229,
+          236,
+          256,
+          263
+        ],
+        "score": 0.5898432675880158,
+        "color": "red"
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          1042,
+          300,
+          1071,
+          322
+        ],
+        "score": 0.5685755850356649,
+        "color": null
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          534,
+          272,
+          544,
+          282
+        ],
+        "score": 0.5608191858814835,
+        "color": "green"
+      }
+    ],
+    "e146e677-9da7d231": [
+      {
+        "class": "traffic_light",
+        "box": [
+          480,
+          398,
+          492,
+          410
+        ],
+        "score": 0.6413273196455741,
+        "color": "red"
+      }
+    ],
+    "dd45ebca-d32e81c2": [
+      {
+        "class": "traffic_light",
+        "box": [
+          545,
+          435,
+          557,
+          452
+        ],
+        "score": 0.8357839231247549,
+        "color": "green"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          631,
+          435,
+          640,
+          445
+        ],
+        "score": 0.5573371007912983,
+        "color": "green"
+      }
+    ],
+    "ead814b9-2cbd58ba": [
+      {
+        "class": "traffic_light",
+        "box": [
+          411,
+          321,
+          441,
+          351
+        ],
+        "score": 0.8161068799587484,
+        "color": "green"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          545,
+          327,
+          560,
+          346
+        ],
+        "score": 0.7562518193242062,
+        "color": "green"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          421,
+          328,
+          435,
+          344
+        ],
+        "score": 0.7464649312265855,
+        "color": "green"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          539,
+          298,
+          564,
+          346
+        ],
+        "score": 0.6795280485915811,
+        "color": "green"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          564,
+          392,
+          580,
+          405
+        ],
+        "score": 0.5265887530307076,
+        "color": "red"
+      }
+    ],
+    "dec5dd0c-a7cd4ecb": [
+      {
+        "class": "traffic_sign",
+        "box": [
+          472,
+          360,
+          495,
+          374
+        ],
+        "score": 0.6480286835884361,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          1112,
+          352,
+          1215,
+          440
+        ],
+        "score": 0.5629861825231124,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          832,
+          172,
+          864,
+          182
+        ],
+        "score": 0.5570542842294723,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          647,
+          313,
+          664,
+          328
+        ],
+        "score": 0.5293133405773217,
+        "color": null
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          304,
+          115,
+          320,
+          133
+        ],
+        "score": 0.5190336007341263,
+        "color": "green"
+      }
+    ],
+    "eb6b86ee-b3a7a2b1": [
+      {
+        "class": "traffic_light",
+        "box": [
+          399,
+          304,
+          408,
+          319
+        ],
+        "score": 0.6449157724889614,
+        "color": "yellow"
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          704,
+          327,
+          717,
+          339
+        ],
+        "score": 0.5597991420284728,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          486,
+          291,
+          519,
+          306
+        ],
+        "score": 0.5373778110938691,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          794,
+          257,
+          810,
+          266
+        ],
+        "score": 0.5369546052469392,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          974,
+          361,
+          1040,
+          385
+        ],
+        "score": 0.5254857067480817,
+        "color": null
+      }
+    ],
+    "fcbfb067-2f6ea011": [
+      {
+        "class": "traffic_sign",
+        "box": [
+          874,
+          216,
+          912,
+          261
+        ],
+        "score": 0.7855082150721333,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          993,
+          348,
+          1030,
+          366
+        ],
+        "score": 0.5052650241020252,
+        "color": null
+      }
+    ],
+    "f856e2e6-a4318381": [
+      {
+        "class": "traffic_sign",
+        "box": [
+          1055,
+          133,
+          1083,
+          154
+        ],
+        "score": 0.6364087502341694,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          81,
+          304,
+          125,
+          314
+        ],
+        "score": 0.6353776661146905,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          1168,
+          337,
+          1228,
+          355
+        ],
+        "score": 0.5343175280999998,
+        "color": null
+      }
+    ],
+    "e7970d50-bc9b3b7e": [
+      {
+        "class": "traffic_light",
+        "box": [
+          2,
+          372,
+          20,
+          384
+        ],
+        "score": 0.5562753522917124,
+        "color": "red"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          866,
+          366,
+          878,
+          393
+        ],
+        "score": 0.5469610633769805,
+        "color": "unknown"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          568,
+          275,
+          593,
+          295
+        ],
+        "score": 0.5380312834413611,
+        "color": "red"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          229,
+          99,
+          236,
+          110
+        ],
+        "score": 0.5186965980770775,
+        "color": "yellow"
+      }
+    ],
+    "f2ee074d-69aa44bb": [
+      {
+        "class": "traffic_light",
+        "box": [
+          304,
+          384,
+          322,
+          413
+        ],
+        "score": 0.61966094015581,
+        "color": "red"
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          1003,
+          228,
+          1012,
+          238
+        ],
+        "score": 0.5129610872389463,
+        "color": null
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          211,
+          287,
+          222,
+          304
+        ],
+        "score": 0.5129219933430212,
+        "color": "red"
+      }
+    ],
+    "f2c70d97-983e556e": [],
+    "cde1b658-30454c72": [
+      {
+        "class": "traffic_sign",
+        "box": [
+          1127,
+          192,
+          1168,
+          235
+        ],
+        "score": 0.7872783793540015,
+        "color": null
+      }
+    ],
+    "cfc42f38-62a2c1a3": [
+      {
+        "class": "traffic_light",
+        "box": [
+          662,
+          360,
+          689,
+          396
+        ],
+        "score": 0.8500192150804363,
+        "color": "green"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          105,
+          212,
+          137,
+          240
+        ],
+        "score": 0.6536482380556078,
+        "color": "green"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          436,
+          463,
+          464,
+          492
+        ],
+        "score": 0.5968032906010812,
+        "color": "green"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          694,
+          504,
+          716,
+          533
+        ],
+        "score": 0.5221046217441901,
+        "color": "green"
+      }
+    ],
+    "edc616f3-c5f57922": [],
+    "cfaac5ea-a1ad4778": [
+      {
+        "class": "traffic_sign",
+        "box": [
+          946,
+          261,
+          972,
+          282
+        ],
+        "score": 0.7203253089657597,
+        "color": null
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          550,
+          397,
+          565,
+          412
+        ],
+        "score": 0.6445399313461624,
+        "color": "red"
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          144,
+          392,
+          165,
+          411
+        ],
+        "score": 0.5565867849053192,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          34,
+          136,
+          83,
+          218
+        ],
+        "score": 0.5166984893808624,
+        "color": null
+      }
+    ],
+    "f0f44f75-8807c69f": [
+      {
+        "class": "traffic_light",
+        "box": [
+          551,
+          328,
+          571,
+          385
+        ],
+        "score": 0.5680057468588174,
+        "color": "red"
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          949,
+          265,
+          968,
+          296
+        ],
+        "score": 0.5635003218367629,
+        "color": null
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          720,
+          310,
+          737,
+          337
+        ],
+        "score": 0.5556941373683497,
+        "color": "red"
+      }
+    ],
+    "d3211597-84236461": [
+      {
+        "class": "traffic_light",
+        "box": [
+          165,
+          132,
+          176,
+          159
+        ],
+        "score": 0.8183794313617302,
+        "color": "green"
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          1150,
+          244,
+          1190,
+          300
+        ],
+        "score": 0.7006614041053338,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          367,
+          298,
+          424,
+          324
+        ],
+        "score": 0.6948131139567547,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          1160,
+          156,
+          1197,
+          209
+        ],
+        "score": 0.5841973205687461,
+        "color": null
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          687,
+          192,
+          693,
+          201
+        ],
+        "score": 0.5736083271323101,
+        "color": "green"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          668,
+          250,
+          679,
+          271
+        ],
+        "score": 0.5685284485154001,
+        "color": "red"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          925,
+          227,
+          959,
+          257
+        ],
+        "score": 0.5446942181443706,
+        "color": "yellow"
+      }
+    ],
+    "e6c96ec5-17c3120a": [],
+    "d0ba3e5a-cda4d170": [
+      {
+        "class": "traffic_sign",
+        "box": [
+          879,
+          49,
+          897,
+          69
+        ],
+        "score": 0.6233102588336179,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          192,
+          172,
+          216,
+          201
+        ],
+        "score": 0.5465514459994154,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          569,
+          349,
+          589,
+          360
+        ],
+        "score": 0.5220261055556212,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          1228,
+          377,
+          1240,
+          388
+        ],
+        "score": 0.5145806393041681,
+        "color": null
+      }
+    ],
+    "fcc25e46-7c86bd98": [
+      {
+        "class": "traffic_sign",
+        "box": [
+          1090,
+          271,
+          1165,
+          300
+        ],
+        "score": 0.687098821878666,
+        "color": null
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          965,
+          199,
+          990,
+          230
+        ],
+        "score": 0.607120246674083,
+        "color": "red"
+      }
+    ],
+    "fb5a7d0a-767cf3ce": [
+      {
+        "class": "traffic_sign",
+        "box": [
+          880,
+          285,
+          917,
+          296
+        ],
+        "score": 0.6097087248562351,
+        "color": null
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          1029,
+          278,
+          1037,
+          297
+        ],
+        "score": 0.5334832630804555,
+        "color": "red"
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          788,
+          372,
+          810,
+          385
+        ],
+        "score": 0.5284346473606019,
+        "color": null
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          471,
+          141,
+          496,
+          167
+        ],
+        "score": 0.5032187103330173,
+        "color": "unknown"
+      }
+    ],
+    "eeeed563-0c33bbf1": [
+      {
+        "class": "traffic_sign",
+        "box": [
+          749,
+          242,
+          764,
+          254
+        ],
+        "score": 0.6234643563876624,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          32,
+          238,
+          100,
+          255
+        ],
+        "score": 0.5735451186468273,
+        "color": null
+      }
+    ],
+    "d05f08b9-3b0f0c52": [
+      {
+        "class": "traffic_sign",
+        "box": [
+          695,
+          285,
+          775,
+          328
+        ],
+        "score": 0.5440498299205304,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          994,
+          391,
+          1045,
+          412
+        ],
+        "score": 0.5177406149047029,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          712,
+          232,
+          743,
+          268
+        ],
+        "score": 0.5037530460772086,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          1158,
+          319,
+          1176,
+          337
+        ],
+        "score": 0.5030073124868495,
+        "color": null
+      }
+    ],
+    "eab29722-de0f993d": [
+      {
+        "class": "traffic_sign",
+        "box": [
+          852,
+          296,
+          918,
+          317
+        ],
+        "score": 0.5827847944054187,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          334,
+          226,
+          358,
+          240
+        ],
+        "score": 0.5704817273356424,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          830,
+          154,
+          849,
+          178
+        ],
+        "score": 0.5425391662747684,
+        "color": null
+      }
+    ],
+    "d007399d-6c22f29e": [
+      {
+        "class": "traffic_sign",
+        "box": [
+          720,
+          151,
+          764,
+          167
+        ],
+        "score": 0.5527991186401454,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          1043,
+          351,
+          1060,
+          369
+        ],
+        "score": 0.5395436290351833,
+        "color": null
+      }
+    ],
+    "f1caee33-fe62c114": [
+      {
+        "class": "traffic_light",
+        "box": [
+          1275,
+          260,
+          1280,
+          272
+        ],
+        "score": 0.7957373171154769,
+        "color": "red"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          814,
+          457,
+          830,
+          471
+        ],
+        "score": 0.6453778641959111,
+        "color": "red"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          820,
+          183,
+          831,
+          217
+        ],
+        "score": 0.5724015655864455,
+        "color": "red"
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          1148,
+          280,
+          1200,
+          305
+        ],
+        "score": 0.5272217791082165,
+        "color": null
+      }
+    ],
+    "cc24b908-eb6a3282": [],
+    "d250e9a2-0317325e": [],
+    "e672fe5b-158988cd": [
+      {
+        "class": "traffic_light",
+        "box": [
+          688,
+          385,
+          710,
+          404
+        ],
+        "score": 0.6015290651961714,
+        "color": "green"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          564,
+          371,
+          585,
+          404
+        ],
+        "score": 0.5517805302920799,
+        "color": "green"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          564,
+          393,
+          585,
+          426
+        ],
+        "score": 0.543338730964787,
+        "color": "green"
+      }
+    ],
+    "f9a3f227-a286a89a": [
+      {
+        "class": "traffic_light",
+        "box": [
+          578,
+          309,
+          585,
+          324
+        ],
+        "score": 0.6424646525732919,
+        "color": "yellow"
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          325,
+          377,
+          350,
+          387
+        ],
+        "score": 0.597032138264521,
+        "color": null
+      }
+    ],
+    "e76ba94f-5ebf892a": [
+      {
+        "class": "traffic_sign",
+        "box": [
+          51,
+          432,
+          122,
+          470
+        ],
+        "score": 0.5328421579395962,
+        "color": null
+      }
+    ],
+    "d94e27be-fdf02572": [
+      {
+        "class": "traffic_light",
+        "box": [
+          685,
+          46,
+          703,
+          85
+        ],
+        "score": 0.6185588609802097,
+        "color": "green"
+      }
+    ],
+    "ee8f9954-70d08fcb": [
+      {
+        "class": "traffic_light",
+        "box": [
+          544,
+          216,
+          555,
+          229
+        ],
+        "score": 0.5900420574647401,
+        "color": "red"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          446,
+          187,
+          452,
+          196
+        ],
+        "score": 0.5562774627673089,
+        "color": "unknown"
+      }
+    ],
+    "cedbc2ac-5af73c94": [
+      {
+        "class": "traffic_sign",
+        "box": [
+          836,
+          295,
+          853,
+          306
+        ],
+        "score": 0.7874137064773553,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          559,
+          235,
+          627,
+          274
+        ],
+        "score": 0.7402622488396097,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          922,
+          347,
+          939,
+          360
+        ],
+        "score": 0.6200046641279315,
+        "color": null
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          717,
+          295,
+          735,
+          322
+        ],
+        "score": 0.5037573284909376,
+        "color": "yellow"
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          693,
+          247,
+          716,
+          278
+        ],
+        "score": 0.5008798741660855,
+        "color": null
+      }
+    ],
+    "e236bc44-a3439791": [
+      {
+        "class": "traffic_light",
+        "box": [
+          689,
+          348,
+          699,
+          360
+        ],
+        "score": 0.8555018753009874,
+        "color": "green"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          424,
+          229,
+          439,
+          251
+        ],
+        "score": 0.642489251579435,
+        "color": "red"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          551,
+          349,
+          564,
+          361
+        ],
+        "score": 0.641020603805403,
+        "color": "green"
+      }
+    ],
+    "df739c81-b5e06c6c": [
+      {
+        "class": "traffic_sign",
+        "box": [
+          954,
+          194,
+          974,
+          204
+        ],
+        "score": 0.6594319381836768,
+        "color": null
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          125,
+          85,
+          137,
+          115
+        ],
+        "score": 0.5215942682181826,
+        "color": "red"
+      }
+    ],
+    "fb55e98c-782c2e8c": [
+      {
+        "class": "traffic_sign",
+        "box": [
+          336,
+          326,
+          377,
+          345
+        ],
+        "score": 0.6506593371255618,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          403,
+          311,
+          489,
+          364
+        ],
+        "score": 0.5930226287379212,
+        "color": null
+      }
+    ],
+    "db2dccb7-250a44ba": [
+      {
+        "class": "traffic_sign",
+        "box": [
+          244,
+          315,
+          273,
+          334
+        ],
+        "score": 0.5783567785147227,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          795,
+          351,
+          816,
+          371
+        ],
+        "score": 0.5762276930454748,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          1251,
+          239,
+          1280,
+          288
+        ],
+        "score": 0.5538132010706243,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          1259,
+          197,
+          1280,
+          209
+        ],
+        "score": 0.5241563512818112,
+        "color": null
+      }
+    ],
+    "e6f062a0-99fe8c71": [],
+    "e92ceca1-0cfddfdb": [
+      {
+        "class": "traffic_sign",
+        "box": [
+          916,
+          239,
+          952,
+          269
+        ],
+        "score": 0.6021573315465555,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          956,
+          137,
+          1212,
+          203
+        ],
+        "score": 0.5329806085292946,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          722,
+          203,
+          778,
+          237
+        ],
+        "score": 0.5133979148691644,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          1228,
+          233,
+          1280,
+          262
+        ],
+        "score": 0.5012051689327275,
+        "color": null
+      }
+    ],
+    "cde3eefa-b0fc2c5d": [
+      {
+        "class": "traffic_light",
+        "box": [
+          561,
+          270,
+          579,
+          292
+        ],
+        "score": 0.8127594229138246,
+        "color": "green"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          499,
+          314,
+          509,
+          326
+        ],
+        "score": 0.6684804731602639,
+        "color": "red"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          559,
+          250,
+          580,
+          286
+        ],
+        "score": 0.6347759624312296,
+        "color": "green"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          393,
+          259,
+          403,
+          278
+        ],
+        "score": 0.5547935734800921,
+        "color": "yellow"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          536,
+          280,
+          545,
+          290
+        ],
+        "score": 0.5392352964126461,
+        "color": "yellow"
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          1047,
+          266,
+          1090,
+          315
+        ],
+        "score": 0.5221934008791077,
+        "color": null
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          454,
+          245,
+          470,
+          262
+        ],
+        "score": 0.5060801361943416,
+        "color": "yellow"
+      }
+    ],
+    "e11c7569-a53b3048": [
+      {
+        "class": "traffic_sign",
+        "box": [
+          288,
+          339,
+          305,
+          351
+        ],
+        "score": 0.7116943129316282,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          806,
+          230,
+          823,
+          251
+        ],
+        "score": 0.6706775676401289,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          926,
+          186,
+          944,
+          218
+        ],
+        "score": 0.5867147379801084,
+        "color": null
+      }
+    ],
+    "edbbdd40-bbc31776": [
+      {
+        "class": "traffic_light",
+        "box": [
+          1052,
+          420,
+          1068,
+          438
+        ],
+        "score": 0.6166609850182134,
+        "color": "red"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          769,
+          373,
+          784,
+          392
+        ],
+        "score": 0.5041644107392327,
+        "color": "red"
+      }
+    ],
+    "e76ba94f-e5d9715a": [
+      {
+        "class": "traffic_light",
+        "box": [
+          175,
+          274,
+          190,
+          304
+        ],
+        "score": 0.517350569865076,
+        "color": "red"
+      }
+    ],
+    "e345f576-0522bf8a": [
+      {
+        "class": "traffic_light",
+        "box": [
+          777,
+          0,
+          795,
+          12
+        ],
+        "score": 0.6221647707090532,
+        "color": "green"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          777,
+          2,
+          795,
+          32
+        ],
+        "score": 0.599908454818182,
+        "color": "green"
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          90,
+          0,
+          106,
+          33
+        ],
+        "score": 0.5315995155916433,
+        "color": null
+      }
+    ],
+    "d491c604-c6ed2bd5": [],
+    "db202f5a-dd6c60d8": [
+      {
+        "class": "traffic_sign",
+        "box": [
+          90,
+          326,
+          109,
+          338
+        ],
+        "score": 0.5632159628766109,
+        "color": null
+      }
+    ],
+    "d4f57b41-1deda5fb": [],
+    "f6d2e8b5-1c0ec199": [
+      {
+        "class": "traffic_light",
+        "box": [
+          535,
+          288,
+          549,
+          308
+        ],
+        "score": 0.8271218886668666,
+        "color": "green"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          435,
+          191,
+          453,
+          232
+        ],
+        "score": 0.7129131627885805,
+        "color": "green"
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          608,
+          235,
+          639,
+          269
+        ],
+        "score": 0.6936047559232875,
+        "color": null
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          9,
+          198,
+          25,
+          212
+        ],
+        "score": 0.6930562720943391,
+        "color": "green"
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          1194,
+          324,
+          1210,
+          353
+        ],
+        "score": 0.6537743559657377,
+        "color": null
+      }
+    ],
+    "ded53e49-3f2802d9": [
+      {
+        "class": "traffic_sign",
+        "box": [
+          230,
+          418,
+          289,
+          445
+        ],
+        "score": 0.527728758687061,
+        "color": null
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          964,
+          81,
+          973,
+          108
+        ],
+        "score": 0.5226847920623314,
+        "color": "yellow"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          964,
+          63,
+          973,
+          90
+        ],
+        "score": 0.5081750401798999,
+        "color": "yellow"
+      }
+    ],
+    "ce0e19f5-9aafbe6f": [
+      {
+        "class": "traffic_light",
+        "box": [
+          981,
+          392,
+          1001,
+          411
+        ],
+        "score": 0.6896658582876469,
+        "color": "red"
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          874,
+          392,
+          891,
+          417
+        ],
+        "score": 0.5838656951491393,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          67,
+          336,
+          89,
+          363
+        ],
+        "score": 0.543250488961373,
+        "color": null
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          0,
+          336,
+          21,
+          384
+        ],
+        "score": 0.5387091660192445,
+        "color": "red"
+      }
+    ],
+    "e3c10bc7-8a648e1d": [
+      {
+        "class": "traffic_light",
+        "box": [
+          614,
+          290,
+          625,
+          309
+        ],
+        "score": 0.7937712098316733,
+        "color": "red"
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          736,
+          267,
+          823,
+          303
+        ],
+        "score": 0.6816648900050665,
+        "color": null
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          610,
+          285,
+          636,
+          311
+        ],
+        "score": 0.6638405752336943,
+        "color": "red"
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          195,
+          385,
+          233,
+          403
+        ],
+        "score": 0.5537321663423196,
+        "color": null
+      }
+    ],
+    "f51d3581-e9cb47fd": [
+      {
+        "class": "traffic_sign",
+        "box": [
+          534,
+          349,
+          592,
+          399
+        ],
+        "score": 0.5534707044731694,
+        "color": null
+      }
+    ],
+    "d186596b-1db6c4ff": [
+      {
+        "class": "traffic_light",
+        "box": [
+          1007,
+          235,
+          1031,
+          289
+        ],
+        "score": 0.6562690831803697,
+        "color": "yellow"
+      }
+    ],
+    "f31f65f7-d7a5b993": [
+      {
+        "class": "traffic_light",
+        "box": [
+          348,
+          438,
+          368,
+          477
+        ],
+        "score": 0.5717132813195172,
+        "color": "green"
+      }
+    ],
+    "cc3f1794-c8f74860": [
+      {
+        "class": "traffic_sign",
+        "box": [
+          841,
+          319,
+          861,
+          336
+        ],
+        "score": 0.781864890536079,
+        "color": null
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          1273,
+          296,
+          1280,
+          307
+        ],
+        "score": 0.6259639396427163,
+        "color": "red"
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          362,
+          39,
+          380,
+          53
+        ],
+        "score": 0.580932846057254,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          358,
+          0,
+          377,
+          17
+        ],
+        "score": 0.5636370593575639,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          360,
+          20,
+          378,
+          35
+        ],
+        "score": 0.5624747116587238,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          356,
+          137,
+          384,
+          147
+        ],
+        "score": 0.5002728570594832,
+        "color": null
+      }
+    ],
+    "f5190b8a-0da99c32": [],
+    "f052ecd4-bc81a8dd": [
+      {
+        "class": "traffic_sign",
+        "box": [
+          451,
+          319,
+          479,
+          341
+        ],
+        "score": 0.5537978091220549,
+        "color": null
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          612,
+          374,
+          632,
+          424
+        ],
+        "score": 0.5095090474717183,
+        "color": "red"
+      }
+    ],
+    "cade2084-5714bb13": [
+      {
+        "class": "traffic_sign",
+        "box": [
+          939,
+          385,
+          950,
+          398
+        ],
+        "score": 0.5451262645526956,
+        "color": null
+      }
+    ],
+    "f3ebdf90-79771deb": [],
+    "fa7923ae-4bef7ffa": [
+      {
+        "class": "traffic_sign",
+        "box": [
+          786,
+          371,
+          808,
+          384
+        ],
+        "score": 0.6474154356746585,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          1155,
+          273,
+          1175,
+          288
+        ],
+        "score": 0.5931566014873488,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          1082,
+          277,
+          1100,
+          291
+        ],
+        "score": 0.5711077392627378,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          780,
+          0,
+          796,
+          10
+        ],
+        "score": 0.5071596706316004,
+        "color": null
+      }
+    ],
+    "fa0b3a94-9b45f038": [
+      {
+        "class": "traffic_sign",
+        "box": [
+          163,
+          289,
+          208,
+          307
+        ],
+        "score": 0.5046912756741785,
+        "color": null
+      }
+    ],
+    "cf930eff-4d51e860": [
+      {
+        "class": "traffic_sign",
+        "box": [
+          1141,
+          319,
+          1162,
+          384
+        ],
+        "score": 0.5509881919410785,
+        "color": null
+      }
+    ],
+    "e42864ad-66a78838": [
+      {
+        "class": "traffic_sign",
+        "box": [
+          142,
+          184,
+          178,
+          231
+        ],
+        "score": 0.7115481331986518,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          1215,
+          0,
+          1247,
+          42
+        ],
+        "score": 0.5252467466514403,
+        "color": null
+      }
+    ],
+    "f6ec78a2-21e61e51": [],
+    "e5792af6-b7cf34ee": [
+      {
+        "class": "traffic_light",
+        "box": [
+          314,
+          374,
+          332,
+          401
+        ],
+        "score": 0.8000617376259944,
+        "color": "green"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          723,
+          338,
+          736,
+          364
+        ],
+        "score": 0.7871347024641085,
+        "color": "red"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          364,
+          156,
+          385,
+          185
+        ],
+        "score": 0.7859439999384095,
+        "color": "green"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          594,
+          342,
+          604,
+          362
+        ],
+        "score": 0.6370106461838386,
+        "color": "red"
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          1131,
+          357,
+          1159,
+          382
+        ],
+        "score": 0.5910023568504559,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          138,
+          399,
+          156,
+          412
+        ],
+        "score": 0.532483707078384,
+        "color": null
+      }
+    ],
+    "efb74db5-56dab197": [],
+    "e865f192-f5883038": [
+      {
+        "class": "traffic_sign",
+        "box": [
+          1085,
+          239,
+          1104,
+          248
+        ],
+        "score": 0.5014140340788681,
+        "color": null
+      }
+    ],
+    "d7f1a3ca-8f3c6635": [
+      {
+        "class": "traffic_light",
+        "box": [
+          588,
+          282,
+          610,
+          307
+        ],
+        "score": 0.7654495686221315,
+        "color": "green"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          1144,
+          268,
+          1167,
+          289
+        ],
+        "score": 0.5892710482015145,
+        "color": "red"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          596,
+          351,
+          617,
+          395
+        ],
+        "score": 0.5717456815166139,
+        "color": "red"
+      }
+    ],
+    "dbf517dc-d198fa6c": [
+      {
+        "class": "traffic_light",
+        "box": [
+          1148,
+          272,
+          1195,
+          315
+        ],
+        "score": 0.6472863937055895,
+        "color": "red"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          915,
+          332,
+          932,
+          368
+        ],
+        "score": 0.609996694828357,
+        "color": "red"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          730,
+          0,
+          746,
+          41
+        ],
+        "score": 0.574756197297885,
+        "color": "yellow"
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          261,
+          381,
+          289,
+          406
+        ],
+        "score": 0.5401633228991631,
+        "color": null
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          701,
+          0,
+          728,
+          57
+        ],
+        "score": 0.5051010244933569,
+        "color": "yellow"
+      }
+    ],
+    "f5f0d673-be1283b4": [
+      {
+        "class": "traffic_light",
+        "box": [
+          348,
+          238,
+          378,
+          298
+        ],
+        "score": 0.5137257580645282,
+        "color": "red"
+      }
+    ],
+    "e3840233-a007f45e": [
+      {
+        "class": "traffic_light",
+        "box": [
+          1115,
+          153,
+          1137,
+          196
+        ],
+        "score": 0.5602510568578644,
+        "color": "unknown"
+      }
+    ],
+    "f88c78db-dbec308f": [
+      {
+        "class": "traffic_light",
+        "box": [
+          0,
+          42,
+          24,
+          108
+        ],
+        "score": 0.6739390367683816,
+        "color": "yellow"
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          93,
+          174,
+          109,
+          198
+        ],
+        "score": 0.5637564964601038,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          100,
+          320,
+          131,
+          337
+        ],
+        "score": 0.5386264541884684,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          27,
+          90,
+          46,
+          109
+        ],
+        "score": 0.5228465410053286,
+        "color": null
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          112,
+          48,
+          122,
+          82
+        ],
+        "score": 0.5101099972464685,
+        "color": "yellow"
+      }
+    ],
+    "f41e8358-479b6539": [
+      {
+        "class": "traffic_light",
+        "box": [
+          512,
+          311,
+          519,
+          321
+        ],
+        "score": 0.8409586608569519,
+        "color": "green"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          513,
+          310,
+          520,
+          336
+        ],
+        "score": 0.6639216837911458,
+        "color": "green"
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          437,
+          32,
+          483,
+          62
+        ],
+        "score": 0.6311350657821027,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          162,
+          295,
+          176,
+          341
+        ],
+        "score": 0.5318472540803537,
+        "color": null
+      }
+    ],
+    "ed30a7b6-e27e11d6": [
+      {
+        "class": "traffic_light",
+        "box": [
+          536,
+          78,
+          545,
+          95
+        ],
+        "score": 0.5608375882577291,
+        "color": "green"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          523,
+          19,
+          536,
+          38
+        ],
+        "score": 0.5461087040844245,
+        "color": "green"
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          329,
+          308,
+          369,
+          325
+        ],
+        "score": 0.5016913762667945,
+        "color": null
+      }
+    ],
+    "e6843b3b-6b827c57": [],
+    "ee975621-91dc33ca": [
+      {
+        "class": "traffic_sign",
+        "box": [
+          234,
+          248,
+          251,
+          267
+        ],
+        "score": 0.537375053716269,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          275,
+          241,
+          290,
+          258
+        ],
+        "score": 0.5326875267313591,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          1111,
+          374,
+          1151,
+          409
+        ],
+        "score": 0.5043773654717114,
+        "color": null
+      }
+    ],
+    "e413ad67-8d49a19a": [
+      {
+        "class": "traffic_sign",
+        "box": [
+          280,
+          149,
+          293,
+          160
+        ],
+        "score": 0.5282689315145711,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          841,
+          269,
+          882,
+          321
+        ],
+        "score": 0.5239629340827464,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          137,
+          105,
+          160,
+          126
+        ],
+        "score": 0.5065136817533127,
+        "color": null
+      }
+    ],
+    "f440430c-8c5ec8a6": [
+      {
+        "class": "traffic_sign",
+        "box": [
+          364,
+          285,
+          416,
+          305
+        ],
+        "score": 0.6279475605421545,
+        "color": null
+      }
+    ],
+    "d5b9be84-b755c63f": [
+      {
+        "class": "traffic_sign",
+        "box": [
+          221,
+          351,
+          252,
+          365
+        ],
+        "score": 0.5869345585351534,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          741,
+          48,
+          778,
+          112
+        ],
+        "score": 0.5536800205317974,
+        "color": null
+      }
+    ],
+    "fca90061-ea1ce342": [
+      {
+        "class": "traffic_sign",
+        "box": [
+          309,
+          293,
+          409,
+          362
+        ],
+        "score": 0.7513292937752186,
+        "color": null
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          391,
+          442,
+          403,
+          458
+        ],
+        "score": 0.6144813800735046,
+        "color": "red"
+      }
+    ],
+    "fb859292-07768b36": [
+      {
+        "class": "traffic_light",
+        "box": [
+          946,
+          103,
+          962,
+          129
+        ],
+        "score": 0.670711409994593,
+        "color": "yellow"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          900,
+          171,
+          915,
+          187
+        ],
+        "score": 0.6080544980718237,
+        "color": "red"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          960,
+          10,
+          966,
+          23
+        ],
+        "score": 0.5886189712661648,
+        "color": "unknown"
+      }
+    ],
+    "ceacb5a6-b8eb24fa": [
+      {
+        "class": "traffic_sign",
+        "box": [
+          1176,
+          235,
+          1228,
+          309
+        ],
+        "score": 0.5816373246736357,
+        "color": null
+      }
+    ],
+    "d2e6b6fd-b2ebe49e": [],
+    "f6e0e968-a6e3c3ea": [
+      {
+        "class": "traffic_sign",
+        "box": [
+          164,
+          164,
+          190,
+          191
+        ],
+        "score": 0.5963945511732929,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          976,
+          250,
+          993,
+          293
+        ],
+        "score": 0.5694475485726871,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          162,
+          132,
+          191,
+          160
+        ],
+        "score": 0.5644855749754754,
+        "color": null
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          452,
+          85,
+          473,
+          121
+        ],
+        "score": 0.518684330150062,
+        "color": "unknown"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          954,
+          55,
+          965,
+          115
+        ],
+        "score": 0.5170548196634626,
+        "color": "unknown"
+      }
+    ],
+    "f730af81-508235bd": [
+      {
+        "class": "traffic_light",
+        "box": [
+          700,
+          313,
+          710,
+          326
+        ],
+        "score": 0.8617083688524589,
+        "color": "green"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          593,
+          292,
+          599,
+          305
+        ],
+        "score": 0.5657316252861502,
+        "color": "yellow"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          669,
+          296,
+          680,
+          314
+        ],
+        "score": 0.5356229640796503,
+        "color": "green"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          41,
+          315,
+          49,
+          332
+        ],
+        "score": 0.5236433137850498,
+        "color": "unknown"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          122,
+          310,
+          130,
+          329
+        ],
+        "score": 0.5094826769927745,
+        "color": "unknown"
+      }
+    ],
+    "d268bb1b-bfd1484f": [
+      {
+        "class": "traffic_light",
+        "box": [
+          597,
+          313,
+          618,
+          358
+        ],
+        "score": 0.7812444145771562,
+        "color": "green"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          687,
+          321,
+          699,
+          345
+        ],
+        "score": 0.7774555391093196,
+        "color": "green"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          646,
+          305,
+          664,
+          338
+        ],
+        "score": 0.6037573240383866,
+        "color": "green"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          646,
+          326,
+          660,
+          342
+        ],
+        "score": 0.5853401423328497,
+        "color": "green"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          687,
+          337,
+          699,
+          361
+        ],
+        "score": 0.5693208613674603,
+        "color": "green"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          646,
+          327,
+          664,
+          360
+        ],
+        "score": 0.5172085085884929,
+        "color": "green"
+      }
+    ],
+    "f1495426-726b1479": [
+      {
+        "class": "traffic_light",
+        "box": [
+          664,
+          278,
+          673,
+          288
+        ],
+        "score": 0.7323179177152491,
+        "color": "red"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          1056,
+          212,
+          1071,
+          231
+        ],
+        "score": 0.6841456532070085,
+        "color": "red"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          560,
+          339,
+          578,
+          366
+        ],
+        "score": 0.6380483253102445,
+        "color": "red"
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          1175,
+          366,
+          1220,
+          375
+        ],
+        "score": 0.5718646915350817,
+        "color": null
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          483,
+          251,
+          493,
+          260
+        ],
+        "score": 0.5642102107639471,
+        "color": "red"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          203,
+          327,
+          224,
+          360
+        ],
+        "score": 0.5601914368171013,
+        "color": "red"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          825,
+          348,
+          848,
+          396
+        ],
+        "score": 0.5479649935269009,
+        "color": "red"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          640,
+          448,
+          648,
+          464
+        ],
+        "score": 0.5412164582884071,
+        "color": "red"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          680,
+          333,
+          691,
+          352
+        ],
+        "score": 0.5383362561472147,
+        "color": "red"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          635,
+          305,
+          650,
+          316
+        ],
+        "score": 0.5351225710435067,
+        "color": "red"
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          1120,
+          196,
+          1191,
+          238
+        ],
+        "score": 0.5335667965711924,
+        "color": null
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          611,
+          332,
+          622,
+          352
+        ],
+        "score": 0.5330147972695547,
+        "color": "red"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          204,
+          346,
+          222,
+          364
+        ],
+        "score": 0.5132069512862557,
+        "color": "red"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          407,
+          293,
+          417,
+          300
+        ],
+        "score": 0.5011811964381376,
+        "color": "red"
+      }
+    ],
+    "dd387734-0a8b1887": [
+      {
+        "class": "traffic_light",
+        "box": [
+          599,
+          171,
+          613,
+          187
+        ],
+        "score": 0.7741117949320566,
+        "color": "unknown"
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          955,
+          174,
+          978,
+          201
+        ],
+        "score": 0.5101117954680285,
+        "color": null
+      }
+    ],
+    "fbc9a041-32e47824": [
+      {
+        "class": "traffic_sign",
+        "box": [
+          891,
+          341,
+          916,
+          358
+        ],
+        "score": 0.6740098959733969,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          263,
+          233,
+          329,
+          251
+        ],
+        "score": 0.6083801208738293,
+        "color": null
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          799,
+          345,
+          823,
+          381
+        ],
+        "score": 0.5810426016486433,
+        "color": "red"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          800,
+          381,
+          816,
+          411
+        ],
+        "score": 0.5366989526409854,
+        "color": "red"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          166,
+          339,
+          173,
+          352
+        ],
+        "score": 0.5084214924055077,
+        "color": "unknown"
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          306,
+          340,
+          321,
+          350
+        ],
+        "score": 0.5010584482542512,
+        "color": null
+      }
+    ],
+    "f017a3da-3f256e62": [
+      {
+        "class": "traffic_light",
+        "box": [
+          537,
+          328,
+          546,
+          348
+        ],
+        "score": 0.7194432260227775,
+        "color": "red"
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          367,
+          260,
+          384,
+          273
+        ],
+        "score": 0.6190186782551559,
+        "color": null
+      }
+    ],
+    "d762da91-2f653671": [],
+    "f5255823-413a5e26": [
+      {
+        "class": "traffic_light",
+        "box": [
+          475,
+          175,
+          497,
+          202
+        ],
+        "score": 0.7284554995163817,
+        "color": "green"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          1067,
+          241,
+          1078,
+          258
+        ],
+        "score": 0.6625815118241368,
+        "color": "red"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          218,
+          321,
+          237,
+          340
+        ],
+        "score": 0.6592976242466464,
+        "color": "red"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          1203,
+          231,
+          1218,
+          253
+        ],
+        "score": 0.5536906096697727,
+        "color": "red"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          505,
+          104,
+          525,
+          149
+        ],
+        "score": 0.5452483087976835,
+        "color": "unknown"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          696,
+          172,
+          703,
+          187
+        ],
+        "score": 0.5115794533599886,
+        "color": "unknown"
+      }
+    ],
+    "f5860ac1-0344747d": [
+      {
+        "class": "traffic_light",
+        "box": [
+          1272,
+          0,
+          1280,
+          23
+        ],
+        "score": 0.6870047165325862,
+        "color": "green"
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          536,
+          90,
+          563,
+          118
+        ],
+        "score": 0.6263767629617671,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          567,
+          244,
+          588,
+          256
+        ],
+        "score": 0.5186148254749027,
+        "color": null
+      }
+    ],
+    "fb3eedf7-8bc640e5": [],
+    "dbb90946-bcb0e51e": [
+      {
+        "class": "traffic_sign",
+        "box": [
+          262,
+          108,
+          282,
+          129
+        ],
+        "score": 0.7241341074618269,
+        "color": null
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          283,
+          186,
+          301,
+          208
+        ],
+        "score": 0.7101063744765017,
+        "color": "red"
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          890,
+          232,
+          940,
+          285
+        ],
+        "score": 0.692097032879902,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          903,
+          289,
+          943,
+          308
+        ],
+        "score": 0.6553532097141823,
+        "color": null
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          288,
+          193,
+          295,
+          206
+        ],
+        "score": 0.6266740764918546,
+        "color": "red"
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          319,
+          240,
+          336,
+          257
+        ],
+        "score": 0.6166080137404208,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          691,
+          212,
+          716,
+          223
+        ],
+        "score": 0.5839325295787299,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          465,
+          238,
+          488,
+          260
+        ],
+        "score": 0.556268340444454,
+        "color": null
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          1130,
+          247,
+          1141,
+          254
+        ],
+        "score": 0.5159283656751609,
+        "color": "red"
+      }
+    ],
+    "e152c2dd-2b007cf6": [],
+    "d649b46f-6ed39520": [
+      {
+        "class": "traffic_light",
+        "box": [
+          718,
+          216,
+          734,
+          231
+        ],
+        "score": 0.7734011718455549,
+        "color": "red"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          426,
+          199,
+          444,
+          218
+        ],
+        "score": 0.7330758386879813,
+        "color": "red"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          483,
+          280,
+          493,
+          289
+        ],
+        "score": 0.6684089947721783,
+        "color": "red"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          936,
+          261,
+          946,
+          278
+        ],
+        "score": 0.6082171071860969,
+        "color": "red"
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          761,
+          289,
+          814,
+          339
+        ],
+        "score": 0.5830539261134461,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          949,
+          87,
+          972,
+          107
+        ],
+        "score": 0.5653905840123685,
+        "color": null
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          899,
+          152,
+          923,
+          173
+        ],
+        "score": 0.5653156034107513,
+        "color": "red"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          347,
+          283,
+          357,
+          325
+        ],
+        "score": 0.5596473445141604,
+        "color": "red"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          290,
+          254,
+          304,
+          285
+        ],
+        "score": 0.558054677160017,
+        "color": "unknown"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          376,
+          275,
+          383,
+          296
+        ],
+        "score": 0.533138393212125,
+        "color": "unknown"
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          165,
+          272,
+          186,
+          335
+        ],
+        "score": 0.505343144353916,
+        "color": null
+      }
+    ],
+    "ebb714eb-6358af88": [
+      {
+        "class": "traffic_light",
+        "box": [
+          449,
+          162,
+          459,
+          183
+        ],
+        "score": 0.8990265661085394,
+        "color": "yellow"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          155,
+          127,
+          175,
+          160
+        ],
+        "score": 0.6224422567634312,
+        "color": "yellow"
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          291,
+          177,
+          315,
+          210
+        ],
+        "score": 0.59635906736049,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          214,
+          249,
+          263,
+          276
+        ],
+        "score": 0.5315778016460864,
+        "color": null
+      }
+    ],
+    "ebe71af3-a7cb4dd6": [
+      {
+        "class": "traffic_light",
+        "box": [
+          914,
+          293,
+          933,
+          308
+        ],
+        "score": 0.861405981811718,
+        "color": "green"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          625,
+          363,
+          632,
+          372
+        ],
+        "score": 0.753525748260528,
+        "color": "green"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          713,
+          255,
+          736,
+          276
+        ],
+        "score": 0.5517905486612993,
+        "color": "red"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          310,
+          378,
+          322,
+          393
+        ],
+        "score": 0.5285352079478804,
+        "color": "red"
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          60,
+          362,
+          93,
+          423
+        ],
+        "score": 0.5195768321670596,
+        "color": null
+      }
+    ],
+    "fb72baf2-ed367d3c": [],
+    "f211f996-d3f282a7": [
+      {
+        "class": "traffic_light",
+        "box": [
+          623,
+          285,
+          640,
+          302
+        ],
+        "score": 0.8420753635215097,
+        "color": "green"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          552,
+          289,
+          568,
+          304
+        ],
+        "score": 0.7459251028560281,
+        "color": "green"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          582,
+          327,
+          597,
+          337
+        ],
+        "score": 0.652830407587038,
+        "color": "green"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          640,
+          360,
+          661,
+          382
+        ],
+        "score": 0.6062445508558194,
+        "color": "red"
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          915,
+          384,
+          947,
+          394
+        ],
+        "score": 0.5016665021581151,
+        "color": null
+      }
+    ],
+    "d99d368c-8ec243c9": [
+      {
+        "class": "traffic_sign",
+        "box": [
+          792,
+          76,
+          841,
+          92
+        ],
+        "score": 0.819465820449843,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          403,
+          393,
+          490,
+          445
+        ],
+        "score": 0.5277033279890159,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          0,
+          189,
+          24,
+          208
+        ],
+        "score": 0.5148367835981881,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          588,
+          43,
+          648,
+          68
+        ],
+        "score": 0.5089934411597331,
+        "color": null
+      }
+    ],
+    "d5ddc2d3-ee2ea3e3": [
+      {
+        "class": "traffic_light",
+        "box": [
+          616,
+          352,
+          624,
+          363
+        ],
+        "score": 0.8194392781186687,
+        "color": "green"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          596,
+          329,
+          611,
+          358
+        ],
+        "score": 0.6978821188906317,
+        "color": "green"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          685,
+          345,
+          696,
+          365
+        ],
+        "score": 0.6922408904940959,
+        "color": "green"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          685,
+          299,
+          709,
+          338
+        ],
+        "score": 0.621277561196674,
+        "color": "green"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          714,
+          359,
+          729,
+          391
+        ],
+        "score": 0.5931549224140915,
+        "color": "red"
+      }
+    ],
+    "ebbfa474-101b854f": [],
+    "d63ac5b6-21c5d7b9": [
+      {
+        "class": "traffic_sign",
+        "box": [
+          491,
+          227,
+          533,
+          255
+        ],
+        "score": 0.6111786315739604,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          1032,
+          174,
+          1081,
+          230
+        ],
+        "score": 0.5042182445187424,
+        "color": null
+      }
+    ],
+    "d8699e8e-6af016dd": [
+      {
+        "class": "traffic_sign",
+        "box": [
+          1039,
+          211,
+          1123,
+          265
+        ],
+        "score": 0.5226219079399762,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          705,
+          353,
+          766,
+          391
+        ],
+        "score": 0.506677632207006,
+        "color": null
+      }
+    ],
+    "f7aa791a-c52be48f": [
+      {
+        "class": "traffic_sign",
+        "box": [
+          529,
+          359,
+          546,
+          373
+        ],
+        "score": 0.5387381553553409,
+        "color": null
+      }
+    ],
+    "dba689e7-e3f1644b": [
+      {
+        "class": "traffic_light",
+        "box": [
+          288,
+          392,
+          308,
+          410
+        ],
+        "score": 0.7827592659389078,
+        "color": "green"
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          486,
+          409,
+          528,
+          436
+        ],
+        "score": 0.74407738197857,
+        "color": null
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          1022,
+          383,
+          1048,
+          401
+        ],
+        "score": 0.5605323533183739,
+        "color": "green"
+      }
+    ],
+    "d443a56f-6237a5a6": [
+      {
+        "class": "traffic_light",
+        "box": [
+          314,
+          15,
+          333,
+          59
+        ],
+        "score": 0.6004542329154237,
+        "color": "green"
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          1222,
+          15,
+          1261,
+          56
+        ],
+        "score": 0.5375397709759521,
+        "color": null
+      }
+    ],
+    "f7e43a5f-ef69c624": [
+      {
+        "class": "traffic_light",
+        "box": [
+          1271,
+          434,
+          1280,
+          450
+        ],
+        "score": 0.6922456758702837,
+        "color": "unknown"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          69,
+          426,
+          82,
+          450
+        ],
+        "score": 0.577153015786378,
+        "color": "red"
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          478,
+          385,
+          511,
+          400
+        ],
+        "score": 0.5673483036106695,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          1020,
+          212,
+          1051,
+          227
+        ],
+        "score": 0.5266514646354792,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          1061,
+          338,
+          1082,
+          357
+        ],
+        "score": 0.526612218582819,
+        "color": null
+      }
+    ],
+    "ea895677-126466ab": [
+      {
+        "class": "traffic_light",
+        "box": [
+          13,
+          309,
+          32,
+          332
+        ],
+        "score": 0.6472117315791359,
+        "color": "red"
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          79,
+          251,
+          107,
+          262
+        ],
+        "score": 0.6182974143248257,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          1040,
+          36,
+          1063,
+          56
+        ],
+        "score": 0.6157452458317677,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          122,
+          298,
+          139,
+          316
+        ],
+        "score": 0.5856464227294244,
+        "color": null
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          286,
+          216,
+          296,
+          234
+        ],
+        "score": 0.5358969598592267,
+        "color": "yellow"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          1096,
+          372,
+          1121,
+          429
+        ],
+        "score": 0.5147691520290338,
+        "color": "yellow"
+      }
+    ],
+    "dc9c2a6d-087d5068": [
+      {
+        "class": "traffic_sign",
+        "box": [
+          229,
+          123,
+          295,
+          183
+        ],
+        "score": 0.7960306179146255,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          443,
+          242,
+          468,
+          272
+        ],
+        "score": 0.7141075230990412,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          154,
+          40,
+          171,
+          57
+        ],
+        "score": 0.6670697710458927,
+        "color": null
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          873,
+          136,
+          893,
+          169
+        ],
+        "score": 0.6414746486802625,
+        "color": "green"
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          811,
+          35,
+          859,
+          50
+        ],
+        "score": 0.6112073750929161,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          608,
+          341,
+          628,
+          352
+        ],
+        "score": 0.5849589942145016,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          362,
+          275,
+          381,
+          293
+        ],
+        "score": 0.5772155343065493,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          1026,
+          146,
+          1069,
+          181
+        ],
+        "score": 0.5676512487619007,
+        "color": null
+      }
+    ],
+    "f1ed42e1-e5190daa": [
+      {
+        "class": "traffic_sign",
+        "box": [
+          785,
+          326,
+          799,
+          341
+        ],
+        "score": 0.8400990327541868,
+        "color": null
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          709,
+          364,
+          721,
+          376
+        ],
+        "score": 0.6683659677057955,
+        "color": "red"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          0,
+          344,
+          19,
+          377
+        ],
+        "score": 0.5071676676572644,
+        "color": "red"
+      }
+    ],
+    "d8d3d4c9-e3c50ecb": [
+      {
+        "class": "traffic_light",
+        "box": [
+          425,
+          139,
+          439,
+          154
+        ],
+        "score": 0.5529739049708389,
+        "color": "red"
+      }
+    ],
+    "d3660034-b41bb8ea": [],
+    "d041a97c-661992df": [
+      {
+        "class": "traffic_sign",
+        "box": [
+          1210,
+          357,
+          1278,
+          405
+        ],
+        "score": 0.7275885570929996,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          790,
+          365,
+          821,
+          382
+        ],
+        "score": 0.7173282193407199,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          850,
+          417,
+          897,
+          441
+        ],
+        "score": 0.68867281332288,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          915,
+          284,
+          949,
+          320
+        ],
+        "score": 0.6688482159625907,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          1176,
+          363,
+          1195,
+          391
+        ],
+        "score": 0.608249617849625,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          1174,
+          400,
+          1192,
+          433
+        ],
+        "score": 0.6024204332348916,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          1193,
+          350,
+          1280,
+          475
+        ],
+        "score": 0.5293545665306647,
+        "color": null
+      }
+    ],
+    "ef4426bc-4491b7c6": [
+      {
+        "class": "traffic_light",
+        "box": [
+          940,
+          346,
+          947,
+          363
+        ],
+        "score": 0.5660606431004209,
+        "color": "yellow"
+      }
+    ],
+    "fd83aa9a-1842c346": [
+      {
+        "class": "traffic_light",
+        "box": [
+          221,
+          70,
+          233,
+          91
+        ],
+        "score": 0.779230397413227,
+        "color": "green"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          554,
+          55,
+          569,
+          88
+        ],
+        "score": 0.7043547783441317,
+        "color": "red"
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          669,
+          256,
+          696,
+          273
+        ],
+        "score": 0.6846472782991562,
+        "color": null
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          1112,
+          31,
+          1134,
+          91
+        ],
+        "score": 0.6048309725973096,
+        "color": "green"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          557,
+          76,
+          568,
+          97
+        ],
+        "score": 0.5820335187553265,
+        "color": "red"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          1114,
+          70,
+          1132,
+          106
+        ],
+        "score": 0.5177381257703167,
+        "color": "green"
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          424,
+          41,
+          435,
+          79
+        ],
+        "score": 0.5068410951802887,
+        "color": null
+      }
+    ],
+    "e3c0f1bd-2a9f34bf": [
+      {
+        "class": "traffic_sign",
+        "box": [
+          125,
+          15,
+          145,
+          37
+        ],
+        "score": 0.5930453920213862,
+        "color": null
+      }
+    ],
+    "daadbbff-1b4f5e7d": [
+      {
+        "class": "traffic_sign",
+        "box": [
+          72,
+          283,
+          114,
+          324
+        ],
+        "score": 0.5719211540372541,
+        "color": null
+      }
+    ],
+    "d0492e54-1f5ff643": [
+      {
+        "class": "traffic_light",
+        "box": [
+          1268,
+          256,
+          1280,
+          280
+        ],
+        "score": 0.7668096664866664,
+        "color": "yellow"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          1266,
+          287,
+          1280,
+          313
+        ],
+        "score": 0.6491195514093433,
+        "color": "yellow"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          812,
+          308,
+          820,
+          320
+        ],
+        "score": 0.5236136609405287,
+        "color": "red"
+      }
+    ],
+    "e3407c00-a748f98d": [
+      {
+        "class": "traffic_light",
+        "box": [
+          880,
+          64,
+          888,
+          74
+        ],
+        "score": 0.5584524688632496,
+        "color": "red"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          754,
+          194,
+          782,
+          265
+        ],
+        "score": 0.5034313080614171,
+        "color": "red"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          1234,
+          280,
+          1255,
+          307
+        ],
+        "score": 0.5029980846548823,
+        "color": "red"
+      }
+    ],
+    "fa111467-5a05a33d": [
+      {
+        "class": "traffic_light",
+        "box": [
+          357,
+          408,
+          376,
+          424
+        ],
+        "score": 0.5767553949748605,
+        "color": "red"
+      }
+    ],
+    "ec706033-ce69d7a5": [
+      {
+        "class": "traffic_sign",
+        "box": [
+          752,
+          204,
+          782,
+          245
+        ],
+        "score": 0.7802666002820737,
+        "color": null
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          495,
+          254,
+          506,
+          272
+        ],
+        "score": 0.6305702371064803,
+        "color": "red"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          1263,
+          60,
+          1272,
+          77
+        ],
+        "score": 0.5562582998930843,
+        "color": "unknown"
+      }
+    ],
+    "e9f27188-67bff1a5": [
+      {
+        "class": "traffic_light",
+        "box": [
+          478,
+          197,
+          506,
+          228
+        ],
+        "score": 0.8172249644592311,
+        "color": "green"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          384,
+          195,
+          413,
+          230
+        ],
+        "score": 0.771279886269881,
+        "color": "green"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          608,
+          275,
+          619,
+          288
+        ],
+        "score": 0.6802308921340595,
+        "color": "green"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          336,
+          260,
+          350,
+          278
+        ],
+        "score": 0.6530444196147123,
+        "color": "green"
+      },
+      {
+        "class": "traffic_light",
+        "box": [
+          309,
+          250,
+          330,
+          266
+        ],
+        "score": 0.5518829162680725,
+        "color": "red"
+      }
+    ],
+    "f7222222-6da28d8b": [
+      {
+        "class": "traffic_sign",
+        "box": [
+          367,
+          294,
+          394,
+          312
+        ],
+        "score": 0.5702557179801802,
+        "color": null
+      },
+      {
+        "class": "traffic_sign",
+        "box": [
+          1060,
+          318,
+          1099,
+          338
+        ],
+        "score": 0.5086582328280798,
+        "color": null
+      }
+    ],
+    "f6255a6d-3d1e388c": [
+      {
+        "class": "traffic_sign",
+        "box": [
+          922,
+          192,
+          945,
+          261
+        ],
+        "score": 0.5510440514852775,
+        "color": null
+      }
+    ],
+    "d19089e2-970d5742": []
+  }
+}

@@ -1,0 +1,20 @@
+example,count_in_train,id
+"Znaki, bez sygnalizatorów",324,a75f21aa-b7d4097d
+"Sygnalizatory, bez znaków",73,6cf618da-5a1882ed
+Znaki i sygnalizatory,521,ad930b5f-4298e268
+"Brak klas docelowych, inne adnotacje",132,6392bffb-ef25e984
+Całkowicie pusta lista obiektów,0,
+Czerwone światło,275,0fc290b5-f43ff329
+Żółte światło,30,a480fc56-d579eb33
+Zielone światło,437,4fd75dca-47a89dad
+Kolor unknown,332,4c7914dd-1a04c66b
+Obiekt zasłonięty,276,4f21b6b4-44b83505
+Obiekt ucięty,131,613f6b9f-fd03f366
+Mały obiekt (<10 px),496,74f8f4e3-50097b8d
+Wiele znaków (>=5),290,8564aad5-9c1510c3
+Adnotacje polilinii,1045,5d98a7be-ec2a6cc7
+Noc,413,fdf4770c-88225562
+Świt / zmierzch,65,09f4b7a9-6948c8c8
+Deszcz,83,9f03b9b1-a5a73263
+Śnieg,88,0b8d1c37-7c5b27b7
+Mgła,0,
