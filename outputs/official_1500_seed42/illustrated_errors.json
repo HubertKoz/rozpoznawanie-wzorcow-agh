@@ -4,10 +4,10 @@
     "type": "FP",
     "class": "traffic_sign",
     "box": [
-      934,
-      95,
-      948,
-      129
+      617,
+      330,
+      658,
+      344
     ],
     "figure": "FP_1.png",
     "conditions": {
@@ -21,10 +21,10 @@
     "type": "FP",
     "class": "traffic_sign",
     "box": [
-      553,
-      279,
-      664,
-      350
+      770,
+      328,
+      808,
+      339
     ],
     "figure": "FP_2.png",
     "conditions": {
@@ -36,12 +36,12 @@
   {
     "id": "d8960a48-e680b52f",
     "type": "FN",
-    "class": "traffic_light",
+    "class": "traffic_sign",
     "box": [
-      734.927131,
-      308.195249,
-      742.413655,
-      321.920543
+      826.013176,
+      288.231184,
+      842.233979,
+      305.69974
     ],
     "figure": "FN_1.png",
     "conditions": {

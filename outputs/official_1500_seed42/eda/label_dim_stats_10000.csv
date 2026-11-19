@@ -1,0 +1,7 @@
+typ,liczba,sr_szer_px,med_szer_px,sr_wys_px,med_wys_px,sr_pole_px2,sr_proporcje_wh
+traffic_sign,34180,32.3,23.96,25.26,18.98,1197.48,1.5
+traffic_light,26763,15.95,13.48,25.34,20.17,524.4,0.72
+traffic_light_red,6631,16.54,13.99,24.35,18.72,539.48,0.78
+traffic_light_yellow,515,18.59,15.87,27.02,21.82,624.37,0.78
+traffic_light_green,11415,14.47,12.24,23.3,18.43,439.75,0.71
+traffic_light_unknown,8202,17.35,14.58,28.88,24.47,623.73,0.67
