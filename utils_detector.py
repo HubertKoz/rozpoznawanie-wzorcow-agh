@@ -73,7 +73,8 @@ def classify_color(crop, p):
 
 
 def detect(image, p=Params()):
-    """HSV + kontury + geometria. Wszystkie ramki w oryginalnej skali obrazu."""
+    """HSV + kontury + geometria. Wszystkie ramki w oryginalnej skali obrazu.
+    W lab4 to etap propozycji (patrz proposals), a nie końcowy detektor: samodzielnie ma niskie F1."""
     h, w = image.shape[:2]
     hsv, mm = masks(image, p)
     gray = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)

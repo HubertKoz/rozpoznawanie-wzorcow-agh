@@ -1,5 +1,0 @@
-Podzbiór oficjalnego test: 300 obrazów; cały podzbiór 1500; seed 42; IoU >= 0.5.
-traffic_sign: P=0.194, R=0.086, F1=0.119; TP=84, FP=348, FN=893.
-traffic_light: P=0.158, R=0.082, F1=0.108; TP=64, FP=342, FN=720.
-Kolor: accuracy=0.812 na 64 dopasowanych lampach.
-Metoda: heurystyki HSV + geometria; wyniki dotyczą podzbioru oficjalnego testu.

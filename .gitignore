@@ -4,3 +4,4 @@ __pycache__/
 bdd100k_images_100k/
 bdd100k_labels/
 ai/
+outputs/
