@@ -1,0 +1,28 @@
+[project]
+name = "lab5"
+version = "0.1.0"
+description = "Lab 2B: YOLO, hybryda, fine-tuning (BDD100K)"
+requires-python = ">=3.12,<3.14"
+dependencies = [
+    "torch==2.11.0",
+    "torchvision==0.26.0",
+    "ultralytics==8.4.216",
+    "opencv-python",
+    "numpy",
+    "pandas",
+    "matplotlib",
+    "ipykernel",
+]
+
+[tool.uv]
+package = false
+
+# torch z CUDA 12.8 (RTX 4060); zwykly PyPI daje na Windows wersje CPU
+[tool.uv.sources]
+torch = { index = "pytorch-cu128" }
+torchvision = { index = "pytorch-cu128" }
+
+[[tool.uv.index]]
+name = "pytorch-cu128"
+url = "https://download.pytorch.org/whl/cu128"
+explicit = true

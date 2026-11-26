@@ -1,0 +1,25 @@
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# dane: zdjecia sa w lab4 (hardlinki), etykiety odtwarza y.convert()
+yolo_data/
+
+# trening: zostaja best.pt, args.yaml, results.csv i wykresy, reszta to podglady batchy i duplikat wag
+runs/**/last.pt
+runs/**/*.jpg
+runs/**/train_batch*
+runs/**/val_batch*
+
+# duze archiwa
+*.zip
+
+# sprzatanie po ultralytics i systemie
+*.cache
+outputs/smoke/
+runs/smoke*/
+yolo11*.pt
+.claude/
+Thumbs.db
+.DS_Store
